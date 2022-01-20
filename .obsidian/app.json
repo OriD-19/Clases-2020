@@ -1,12 +1,15 @@
 {
   "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
+    "pageSize": "A4",
+    "landscape": true,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 90
   },
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": true,
+  "newFileLocation": "current",
+  "spellcheck": false,
+  "foldHeading": true
 }

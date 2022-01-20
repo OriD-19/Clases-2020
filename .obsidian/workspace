@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Nueva nota.md",
+            "file": "Materias/Prueba.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Nueva nota.md",
+                "file": "Materias/Prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "f552d075226d3a74",
   "lastOpenFiles": [
+    "Materias/Prueba.md",
     "templates/Nueva nota.md",
     "The Matrix.md",
     "Red Pill, Blue Pill..md",
