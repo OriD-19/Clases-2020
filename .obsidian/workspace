@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cea17097aec10ea6",
+        "id": "bc147ce1eee978dd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/Concept_template.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Concept_template.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cea17097aec10ea6",
+  "active": "bc147ce1eee978dd",
   "lastOpenFiles": [
     "templates/Concept_template.md",
     "Materias/Lenguaje/Nuevo Tema.md",

@@ -11,6 +11,3 @@ tags: <% tp.file.folder() %> <% tp.date.now(dateFormat) %>
 
 <% tp.file.cursor(1) %>
 
-<%* if(!tp.file.exists(tp.file.folder())) { %>
-  [[<% (await tp.file.create_new("", `'${tp.file.folder()}`) %>]]
-<%* } %>
