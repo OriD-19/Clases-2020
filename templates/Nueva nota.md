@@ -1,1 +1,1 @@
-<% tp.date.now() %>
+Creado el: <% tp.date.now() %>

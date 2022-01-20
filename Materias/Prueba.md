@@ -1,1 +1,1 @@
-Esto es una prueba desde el editor de markdown Obsidian.
+Creado el: <% tp.date.now() %>
