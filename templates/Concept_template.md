@@ -11,3 +11,4 @@ tags: <% tp.file.folder() %> <% tp.date.now(dateFormat) %>
 
 <% tp.file.cursor(1) %>
 
+<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['<% tp.file.folder().toUpperCase() %>]]

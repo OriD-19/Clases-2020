@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bc147ce1eee978dd",
+        "id": "4b335ba1b0b2f9d4",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc147ce1eee978dd",
+  "active": "4b335ba1b0b2f9d4",
   "lastOpenFiles": [
-    "templates/Concept_template.md",
     "Materias/Lenguaje/Nuevo Tema.md",
+    "templates/Concept_template.md",
+    "Materias/Lenguaje/'LENGUAJE.md",
     "Materias/Lenguaje/[object Object.md",
     "Materias/Lenguaje/MyFilename 3.md",
     "Materias/Lenguaje/MyFilename.md",
     "templates/Topic_template.md",
     "Materias/Untitled.md",
     "Untitled.md",
-    "Materias/Prueba1.md",
-    "templates/Summary_template.md"
+    "Materias/Prueba1.md"
   ]
 }
