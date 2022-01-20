@@ -7,8 +7,11 @@
         "id": "cea17097aec10ea6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "templates/Concept_template.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Lenguaje",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Concept_template.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "cea17097aec10ea6",
   "lastOpenFiles": [
+    "templates/Concept_template.md",
+    "Materias/Lenguaje/Nuevo Tema.md",
+    "Materias/Lenguaje/[object Object.md",
+    "Materias/Lenguaje/MyFilename 3.md",
+    "Materias/Lenguaje/MyFilename.md",
+    "templates/Topic_template.md",
+    "Materias/Untitled.md",
     "Untitled.md",
     "Materias/Prueba1.md",
-    "templates/Concept_template.md",
-    "templates/Topic_template.md",
-    "templates/Summary_template.md",
-    "templates/Nueva nota.md",
-    "Materias/Prueba.md",
-    "Materias/this is a new trial.md",
-    "scripts/script.js.md",
-    "The Matrix.md"
+    "templates/Summary_template.md"
   ]
 }

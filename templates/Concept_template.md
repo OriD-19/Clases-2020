@@ -1,8 +1,16 @@
+<%*
+  const dateFormat = "DD/MM/YYYY";
+_%>
 ---
-Creation date: <% tp.date.now() %>
+tags: <% tp.file.folder() %> <% tp.date.now(dateFormat) %>
 ---
 
 # <% tp.file.title %>
+<div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el <% tp.date.now(dateFormat) %></div>
+<div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el <% tp.file.last_modified_date(dateFormat) %></div>
 
-Tags: <% tp.file.cursor(1) %>
+<% tp.file.cursor(1) %>
 
+<%* if(!tp.file.exists(tp.file.folder())) { %>
+  [[<% (await tp.file.create_new("", `'${tp.file.folder()}`) %>]]
+<%* } %>

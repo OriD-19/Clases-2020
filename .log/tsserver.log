@@ -1,0 +1,35 @@
+Info 0    [21:29:31.756] Starting TS Server
+Info 1    [21:29:31.757] Version: 4.3.5
+Info 2    [21:29:31.757] Arguments: C:\Program Files\nodejs\node.exe c:\Users\Fuentes\node_modules\typescript\lib\tsserver.js --logFile c:\Users\Fuentes\Documents\Clases 2022\.log\tsserver.log --logVerbosity info --cancellationPipeName C:\Users\Fuentes\AppData\Local\Temp\05da029ba9a64f858e625db4d517b513\tscancellation*
+Info 3    [21:29:31.757] Platform: win32 NodeVersion: 16 CaseSensitive: false
+Info 4    [21:29:31.757] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [21:29:31.772] Format host information updated
+Info 6    [21:29:33.183] Search path: c:/Users/Fuentes/Documents/Clases 2022/scripts
+Info 7    [21:29:33.186] For info: c:/Users/Fuentes/Documents/Clases 2022/scripts/appendTag.js :: No config files found.
+Info 8    [21:29:33.193] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [21:29:34.751] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1557.5343000292778ms
+Info 10   [21:29:34.751] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [21:29:34.751] 	Files (107)
+
+Info 12   [21:29:34.751] -----------------------------------------------
+Info 13   [21:29:34.771] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 14   [21:29:34.945] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 173.3992999792099ms
+Info 15   [21:29:34.945] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 16   [21:29:34.945] 	Files (1)
+
+Info 17   [21:29:34.945] -----------------------------------------------
+Info 18   [21:44:44.384] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [21:44:44.405] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 20.393800020217896ms
+Info 20   [21:44:44.405] Different program with same set of files:: structureIsReused:: 2
+Info 21   [21:44:44.982] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 22   [21:44:45.002] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 19.930800020694733ms
+Info 23   [21:44:45.002] Different program with same set of files:: structureIsReused:: 2
+Info 24   [21:44:47.306] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 25   [21:44:47.321] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 14.341200053691864ms
+Info 26   [21:44:47.321] Different program with same set of files:: structureIsReused:: 2
+Info 27   [21:44:48.326] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 28   [21:44:48.338] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 12.3192999958992ms
+Info 29   [21:44:48.338] Different program with same set of files:: structureIsReused:: 2
+Info 30   [21:44:49.517] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 31   [21:44:49.531] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 14.360000014305115ms
+Info 32   [21:44:49.531] Different program with same set of files:: structureIsReused:: 2
