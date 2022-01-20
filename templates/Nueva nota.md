@@ -1,3 +1,5 @@
-Creado el: <% tp.date.now() %>
+<% if(tp.file.title === "Hello") { %>
 
-<% tp.user.my_function("This is a new message") %>
+this is a new line of thing
+
+<% } %>
