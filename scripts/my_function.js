@@ -1,5 +1,5 @@
-function my_function(msg) {
-  console.log(msg);
+function appendTag(title) {
+
 }
 
 module.exports = my_function;

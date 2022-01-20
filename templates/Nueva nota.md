@@ -1,5 +1,1 @@
-<% if(tp.file.title === "Hello") { %>
-
-this is a new line of thing
-
-<% } %>
+<% tp.user.appendTag(tp.file.title) %>
