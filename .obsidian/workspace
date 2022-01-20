@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "39c92bf46fcc7f73",
+        "id": "cea17097aec10ea6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Prueba.md",
+            "file": "templates/Nueva nota.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Prueba.md",
+                "file": "templates/Nueva nota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39c92bf46fcc7f73",
+  "active": "cea17097aec10ea6",
   "lastOpenFiles": [
-    "Materias/Prueba.md",
     "templates/Nueva nota.md",
-    "scripts/Script.md",
+    "Materias/Prueba.md",
+    "scripts/script.js.md",
     "Materias/Untitled.md",
     "The Matrix.md",
     "Red Pill, Blue Pill..md",

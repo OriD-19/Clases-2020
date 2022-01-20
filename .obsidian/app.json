@@ -11,5 +11,6 @@
   "vimMode": true,
   "newFileLocation": "current",
   "spellcheck": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "showUnsupportedFiles": true
 }
