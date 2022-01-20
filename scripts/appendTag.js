@@ -3,7 +3,7 @@
  */
 function appendTag(title) {
     let i = 0;
-    while(title[i] !== '-') {
+    while(title[i] !== '-' && i < title.length) {
         i++;
     }
     let tag = title.substring(0, i);

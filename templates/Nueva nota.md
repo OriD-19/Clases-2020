@@ -1,1 +1,1 @@
-<% tp.user.appendTag(tp.file.title) %>
+<% tp.user.appendTag("math-gg") %>
