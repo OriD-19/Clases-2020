@@ -2,5 +2,5 @@
   "baseFontSize": 16,
   "cssTheme": "Shimmering Focus",
   "theme": "moonstone",
-  "translucency": true
+  "translucency": false
 }
