@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Prueba.md",
+            "file": "templates/Nueva nota.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Prueba.md",
+                "file": "templates/Nueva nota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "cea17097aec10ea6",
   "lastOpenFiles": [
-    "Materias/Prueba.md",
     "templates/Nueva nota.md",
+    "Materias/Prueba.md",
     "Materias/this is a new trial.md",
     "scripts/script.js.md",
     "The Matrix.md",
