@@ -1,1 +1,1 @@
-Creado el: <% tp.date.now() %>
+Creado el: 2022-01-19
