@@ -7,11 +7,8 @@
         "id": "cea17097aec10ea6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/Nueva nota.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,9 +65,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Nueva nota.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -88,15 +84,15 @@
   },
   "active": "cea17097aec10ea6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Materias/Prueba1.md",
+    "templates/Concept_template.md",
+    "templates/Topic_template.md",
+    "templates/Summary_template.md",
     "templates/Nueva nota.md",
     "Materias/Prueba.md",
     "Materias/this is a new trial.md",
     "scripts/script.js.md",
-    "The Matrix.md",
-    "Red Pill, Blue Pill..md",
-    "Adversity Paradox.md",
-    "Sense of Control.md",
-    "New Note.md",
-    "Never note.md"
+    "The Matrix.md"
   ]
 }

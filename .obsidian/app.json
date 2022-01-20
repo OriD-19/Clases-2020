@@ -12,5 +12,6 @@
   "newFileLocation": "current",
   "spellcheck": false,
   "foldHeading": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "img"
 }
