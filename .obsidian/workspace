@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "0248b6e6bd182b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "f552d075226d3a74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "templates/Nueva nota.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "023e5d0fc62b0879",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2fb8b2443ad3f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cfe2358813882ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88fe65dab3fa223c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "8cc75275152e8bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d59a3a8c5532e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "471aef34d0d3f05c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/Nueva nota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f552d075226d3a74",
+  "lastOpenFiles": [
+    "templates/Nueva nota.md",
+    "The Matrix.md",
+    "Red Pill, Blue Pill..md",
+    "Adversity Paradox.md",
+    "Sense of Control.md",
+    "New Note.md",
+    "Never note.md"
+  ]
+}
