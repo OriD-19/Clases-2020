@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Laboratorio/Primera práctica/Conclusiones.md",
-            "mode": "source"
+            "file": "Materias/Matemáticas/Ecuaciones bicuadráitcas.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 148.5
   },
   "right": {
     "id": "8cc75275152e8bf8",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Laboratorio/Primera práctica/Conclusiones.md",
+                "file": "Materias/Matemáticas/Ecuaciones bicuadráitcas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8ffc90f00f494378",
   "lastOpenFiles": [
-    "Materias/Laboratorio/Primera práctica/Conclusiones.md",
-    "Materias/Laboratorio/Primera práctica/Materiales.md",
+    "Materias/Matemáticas/Ecuaciones bicuadráitcas.md",
+    "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
+    "Materias/Laboratorio/Primera práctica/Preparación del experimento.md",
+    "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md",
     "Materias/Laboratorio/Primera práctica/Hipótesis.md",
     "Materias/Laboratorio/Primera práctica/Contrastación de sustancias.md",
+    "Materias/Laboratorio/Primera práctica/Conclusiones.md",
+    "Materias/Laboratorio/Primera práctica/Materiales.md",
     "img/Pasted image 20220124141918.png",
-    "img/Pasted image 20220124141633.png",
-    "img/Pasted image 20220124140710.png",
-    "img/Pasted image 20220124140653.png",
-    "img/Pasted image 20220124140639.png",
-    "img/Pasted image 20220124140608.png"
+    "img/Pasted image 20220124141633.png"
   ]
 }
