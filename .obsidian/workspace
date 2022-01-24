@@ -7,8 +7,11 @@
         "id": "8ffc90f00f494378",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Química/Evaluaciones BIMESTRE I.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Química/Evaluaciones BIMESTRE I.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "8ffc90f00f494378",
   "lastOpenFiles": [
+    "Materias/Química/Evaluaciones BIMESTRE I.md",
+    "img/Pasted image 20220124131154.png",
     "General/Texto1.md",
     "Materias/Lenguaje/Nuevo Tema.md",
     "templates/Concept_template.md",
@@ -91,8 +97,6 @@
     "Materias/Lenguaje/[object Object.md",
     "Materias/Lenguaje/MyFilename 3.md",
     "Materias/Lenguaje/MyFilename.md",
-    "templates/Topic_template.md",
-    "Materias/Untitled.md",
-    "Materias/Prueba1.md"
+    "templates/Topic_template.md"
   ]
 }
