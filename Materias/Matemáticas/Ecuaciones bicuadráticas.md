@@ -14,6 +14,7 @@ Son ecuaciones del tipo $Ax^4 + Bx^2 + C = 0$. *Poseen 4 soluciones*, y estas so
 
 - Cuatro soluciones reales.
 - Dos soluciones complejas y dos soluciones reales. Las soluciones complejas **siempre** vienen en pares, y por ello sólo pueden haber dos de ellas.
+- Cuatro soluciones complejas
 
 Se solucionan haciendo **un cambio de variable**; por ejemplo $u = x^2$. Luego se sustituyen todas las instancias de esa nueva variable, para simplificar el proceso de resolución tratandola como una **ecuación cuadrática**.
 
@@ -72,5 +73,13 @@ $-3, -i, i, +3$
 ---
 
 En los dos anteriores casos se cumple la regla del principio, la cual establece que **no pueden haber más de cuatro soluciones, y sólo dos posibles soluciones imaginarias.**
+
+Otro tema importante es el [[Discriminante de la ecuación cuadrática]], pues nos da información sobre las raíces.
+
+---
+
+Ejemplos: Factorizar polinomios a través del método de tijeras:
+
+1. $6a^2 + 5a - 4$
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]

@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -90,6 +89,7 @@
   "active": "8ffc90f00f494378",
   "lastOpenFiles": [
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
+    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Matemáticas/E.md",
     "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
     "Materias/Laboratorio/Primera práctica/Preparación del experimento.md",
@@ -97,7 +97,6 @@
     "Materias/Laboratorio/Primera práctica/Hipótesis.md",
     "Materias/Laboratorio/Primera práctica/Contrastación de sustancias.md",
     "Materias/Laboratorio/Primera práctica/Conclusiones.md",
-    "Materias/Laboratorio/Primera práctica/Materiales.md",
-    "img/Pasted image 20220124141918.png"
+    "Materias/Laboratorio/Primera práctica/Materiales.md"
   ]
 }
