@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Ecuaciones bicuadráitcas.md",
-            "mode": "preview"
+            "file": "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Ecuaciones bicuadráitcas.md",
+                "file": "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,7 +89,8 @@
   },
   "active": "8ffc90f00f494378",
   "lastOpenFiles": [
-    "Materias/Matemáticas/Ecuaciones bicuadráitcas.md",
+    "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
+    "Materias/Matemáticas/E.md",
     "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
     "Materias/Laboratorio/Primera práctica/Preparación del experimento.md",
     "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md",
@@ -96,7 +98,6 @@
     "Materias/Laboratorio/Primera práctica/Contrastación de sustancias.md",
     "Materias/Laboratorio/Primera práctica/Conclusiones.md",
     "Materias/Laboratorio/Primera práctica/Materiales.md",
-    "img/Pasted image 20220124141918.png",
-    "img/Pasted image 20220124141633.png"
+    "img/Pasted image 20220124141918.png"
   ]
 }

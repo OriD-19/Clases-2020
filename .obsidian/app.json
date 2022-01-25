@@ -13,5 +13,6 @@
   "spellcheck": false,
   "foldHeading": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "img"
+  "attachmentFolderPath": "img",
+  "legacyEditor": true
 }

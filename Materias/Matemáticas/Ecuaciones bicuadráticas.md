@@ -6,7 +6,7 @@ tags: Matemáticas 24/01/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 24/01/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 24/01/2022</div>
 
-**Logros para la clase: resolver ecuaciones del tipo $Ax^2 + Bx + C = 0$**
+**Logros para la clase: resolver ecuaciones del tipo $Ax^4 + Bx^2 + C = 0$**
 
 Toda aquella ecuación que mantiene una relación 2:1 entre los exponentes del primer término y del segundo término es considerada una **ecuación bicuadrática**.
 

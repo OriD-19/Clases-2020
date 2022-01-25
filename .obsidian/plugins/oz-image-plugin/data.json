@@ -9,5 +9,5 @@
   "renderTransclusion": false,
   "previewOnHoverInternalLink": false,
   "refreshImagesAfterChange": false,
-  "WYSIWYG": true
+  "WYSIWYG": false
 }
