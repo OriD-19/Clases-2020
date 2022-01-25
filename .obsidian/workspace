@@ -7,11 +7,8 @@
         "id": "8ffc90f00f494378",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Lenguaje/Épocas literarias.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Épocas literarias.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "8ffc90f00f494378",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Épocas literarias.md",
     "Materias/Lenguaje/Época grecolatina.md",
+    "Materias/Lenguaje/Análisis de texto.md",
+    "Materias/Lenguaje/Épocas literarias.md",
     "Materias/Sociales/Dinastía Somoza.md",
     "Materias/Sociales/Anastasio Somoza García.md",
     "Materias/Sociales/Dictaduras latinoamericanas.md",
     "Materias/Sociales/Rafael Leónidas Trujillo.md",
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
     "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
-    "Materias/Matemáticas/E.md",
-    "Materias/Laboratorio/Primera práctica/Ecuaciones.md"
+    "Materias/Matemáticas/E.md"
   ]
 }
