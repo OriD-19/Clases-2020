@@ -82,4 +82,10 @@ Ejemplos: Factorizar polinomios a través del método de tijeras:
 
 1. $6a^2 + 5a - 4$
 
+   - Primero, tenemos que descomponer *el primer y el tercer término* en factores.
+   - Después, multiplicamos en cruz los factores obtenidos.
+   - Finalmente, si la suma algebraica de los resultados equivale al segundo término, quiere decir que los factores son correctos. De lo contrario, **volver al paso número uno,** con diferentes factores para los términos.
+
+2. $4x^2 - 5x^2 + 1 = 0$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
