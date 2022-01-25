@@ -7,11 +7,8 @@
         "id": "8ffc90f00f494378",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "8ffc90f00f494378",
   "lastOpenFiles": [
+    "Materias/Sociales/Dinastía Somoza.md",
+    "Materias/Sociales/Anastasio Somoza García.md",
+    "Materias/Sociales/Dictaduras latinoamericanas.md",
+    "Materias/Sociales/Rafael Leónidas Trujillo.md",
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
     "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Matemáticas/E.md",
     "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
     "Materias/Laboratorio/Primera práctica/Preparación del experimento.md",
-    "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md",
-    "Materias/Laboratorio/Primera práctica/Hipótesis.md",
-    "Materias/Laboratorio/Primera práctica/Contrastación de sustancias.md",
-    "Materias/Laboratorio/Primera práctica/Conclusiones.md",
-    "Materias/Laboratorio/Primera práctica/Materiales.md"
+    "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md"
   ]
 }
