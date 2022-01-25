@@ -88,4 +88,6 @@ Ejemplos: Factorizar polinomios a través del método de tijeras:
 
 2. $4x^2 - 5x^2 + 1 = 0$
 
+   - En el caso de esta ecuación, al hacer la factorización debemos **cambiar el signo de ambos factores de los terminos**, para que el resultado de la suma sea igual al segundo término (incluyendo el signo).
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
