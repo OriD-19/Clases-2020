@@ -7,8 +7,11 @@
         "id": "8ffc90f00f494378",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Lenguaje/Épocas literarias.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Lenguaje/Épocas literarias.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "8ffc90f00f494378",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Épocas literarias.md",
+    "Materias/Lenguaje/Época grecolatina.md",
     "Materias/Sociales/Dinastía Somoza.md",
     "Materias/Sociales/Anastasio Somoza García.md",
     "Materias/Sociales/Dictaduras latinoamericanas.md",
@@ -91,8 +97,6 @@
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
     "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Matemáticas/E.md",
-    "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
-    "Materias/Laboratorio/Primera práctica/Preparación del experimento.md",
-    "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md"
+    "Materias/Laboratorio/Primera práctica/Ecuaciones.md"
   ]
 }
