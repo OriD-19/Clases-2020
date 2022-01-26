@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Ecuaciones radicales.md",
-            "mode": "preview"
+            "file": "Materias/Lenguaje/Análisis de texto.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Ecuaciones radicales.md",
+                "file": "Materias/Lenguaje/Análisis de texto.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "d65ae9160acc346d",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Análisis de texto.md",
+    "Materias/Lenguaje/Barroco.md",
     "Materias/Matemáticas/Ecuaciones radicales.md",
     "Materias/Física/Problemas/Problema 1.md",
     "Materias/Física/Resolución de problemas.md",
@@ -112,8 +114,6 @@
     "Materias/Química/Reaccion de combustión.md",
     "Materias/Química/Reacciones químicas.md",
     "Materias/Química/Reacciones de desplazamiento doble.md",
-    "Materias/Química/Reacciones de desplazamiento simple.md",
-    "Materias/Química/Reacciones de descomposición.md",
-    "Materias/Química/Reacciones de composición.md"
+    "Materias/Química/Reacciones de desplazamiento simple.md"
   ]
 }

@@ -27,4 +27,8 @@ Mediante el fondo podemos sacar diversas conclusiones y factores que componen a 
 
 El tema, por ejemplo, es el hilo conductor de las ideas, las cuales son transmitidas de manera uniforme o separa al lector, quien debe analizar el texto.
 
+## El proceso de análisis
+
+Una de las pruebas más importantes para saber si se ha realizado bien el proceso de comprensión o análisis, es tener la capacidad de comprender el **mensaje y el tema que trata el texto**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
