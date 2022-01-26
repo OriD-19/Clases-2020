@@ -41,8 +41,8 @@ $$\large T - 9.8 = 5a$$
 
 $$\large \Sigma F_y = ma$$
 
-Para el siguiente paso, debemos tener en cuenta uno de los conceptos importantes que definimos al comenzar el ejercicio: **Invertimos los ejes Y**. Por lo tanto, podemos hacer lo siguiente:
-   - Como los ejes están invertidos, tomamos los ángulos que corresponderían a cada uno de los ejes con su valor o signo correspondiente. Es decir, si hacia arriba eran 90°, ahora dicho ángulo correspondera *hacia abajo*, y viceversa para el ángulo de 180°.
+Para el siguiente paso, debemos tener en cuenta uno de los conceptos importantes que definimos al comenzar el ejercicio: **Invertimos el eje Y**. Por lo tanto, podemos hacer lo siguiente:
+   - Como los ejes están invertidos, tomamos los ángulos que corresponderían a cada uno de los ejes con su valor o signo correspondiente. Es decir, si hacia arriba eran 90°, ahora dicho ángulo correspondera *hacia abajo*, y viceversa para el ángulo de 270°.
 
 Asi, con las consideraciones anteriores, tendríamos la siguiente ecuación para la caja B:
 
