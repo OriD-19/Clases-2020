@@ -2,9 +2,9 @@
 tags: Matemáticas 24/01/2022
 ---
 
-# Ecuaciones bicuadráitcas
+# Ecuaciones bicuadráticas
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 24/01/2022</div>
-<div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 24/01/2022</div>
+<div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 25/01/2022</div>
 
 **Logros para la clase: resolver ecuaciones del tipo $Ax^4 + Bx^2 + C = 0$**
 

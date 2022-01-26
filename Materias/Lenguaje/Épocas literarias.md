@@ -13,7 +13,7 @@ Sin embargo, en Latinoamérica se dio otro fenómeno cultural.
 
 ## [[Época clásica precolombina]]
 
-Corresponde a los inicios de la sociedad y la civilización en América.
+Corresponde a los inicios de la sociedad y la civilización en América. Posee características muy diversas, e ideas similares sobre la religión, la mitología y la naturaleza.
 
 ## [[Medievo]]
 

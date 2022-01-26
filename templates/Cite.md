@@ -1,0 +1,1 @@
+<div style="text-align: right; opacity: 0.7; font-size: 12px; font-style: italic"><%tp.file.cursor(1)%></div>
