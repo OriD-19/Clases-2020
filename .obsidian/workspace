@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Física/Resolución de problemas.md",
+            "file": "Materias/Física/Problemas/Problema 1.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Física/Resolución de problemas.md",
+                "file": "Materias/Física/Problemas/Problema 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "d65ae9160acc346d",
   "lastOpenFiles": [
-    "Materias/Física/Resolución de problemas.md",
     "Materias/Física/Problemas/Problema 1.md",
+    "Materias/Física/Resolución de problemas.md",
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
     "Materias/Lenguaje/Épocas literarias.md",
     "Materias/Lenguaje/Romanticismo.md",

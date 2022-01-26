@@ -30,4 +30,64 @@ $$n = 5 * 9.8$$
 $$f_k = 0.20 * 49$$
 $$f_k = 9.8 N$$
 
+Por lo tanto, ahora podemos sustituir en la fórmula que teníamos anteriormente:
+
+$$\large T - 9.8 = 5a$$
+(Donde m = 5kg, por lo que también puede ser sustituida).
+
+---
+
+- Ahora, debemos utilizar la segunda caja para completar el sistema de ecuaciones (incógnitas $T$ y $a$):
+
+$$\large \Sigma F_y = ma$$
+
+Para el siguiente paso, debemos tener en cuenta uno de los conceptos importantes que definimos al comenzar el ejercicio: **Invertimos los ejes Y**. Por lo tanto, podemos hacer lo siguiente:
+   - Como los ejes están invertidos, tomamos los ángulos que corresponderían a cada uno de los ejes con su valor o signo correspondiente. Es decir, si hacia arriba eran 90°, ahora dicho ángulo correspondera *hacia abajo*, y viceversa para el ángulo de 180°.
+
+Asi, con las consideraciones anteriores, tendríamos la siguiente ecuación para la caja B:
+
+$$\LARGE T\sin{270°} + w\sin{90°} = ma$$
+
+- Luego, simplificamos con normalidad, sustituyendo cada seno por su valor en unidades (-1 y 1, respectivamente):
+
+$$\large w - T = ma$$
+
+Calculamos el peso, usando la fórmula $w = mg$:
+
+$$\large 19.6 - T = 2a$$
+(sustituyendo la masa, la cual es 2.0kg para la caja B)
+
+---
+
+Luego de todo lo anterior, tenemos las siguientes ecuaciones:
+
+- Caja A: $\large T - 9.8 = 5a$
+- Caja B: $\large 19.6 - T = 2a$
+
+Finalmente, debemos resolver el sistema de ecuaciones como normalmente lo haríamos. En este caso, podemos despejar $T$ en ambas ecuaciones:
+
+- Caja A: $T = 5a + 9.8$
+- Caja B: $T = 19.6 - 2a$
+
+Utilizamos el método de preferencia. Para el ejemplo, se utiliza igualación:
+
+$$T_A = T_B$$
+Como ambas tensiones son iguales, podemos sustitiur:
+
+$$\large 5a - 9.8 = 19.6 - 2a$$
+$$\large 5a + 2a = 19.6 + 9.8$$
+$$\large 7a = 29.4 N$$
+$$\large \frac{29.4}{7} \ =\ a$$
+$$\LARGE a = 4.2 \frac{m}{s^2}$$
+
+## Respuesta final
+
+Por lo tanto, la respuesta a la pregunta inicial:
+
+> Se desea encontrar la aceleración $\large a$ del sistema...
+
+Sería 
+
+$$\LARGE a = 4.2 \frac{m}{s^2}$$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
