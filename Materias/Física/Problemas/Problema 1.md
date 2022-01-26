@@ -74,11 +74,11 @@ Utilizamos el método de preferencia. Para el ejemplo, se utiliza igualación:
 $$T_A = T_B$$
 Como ambas tensiones son iguales, podemos sustitiur:
 
-$$\large 5a - 9.8 = 19.6 - 2a$$
-$$\large 5a + 2a = 19.6 + 9.8$$
-$$\large 7a = 29.4 N$$
-$$\large \frac{29.4}{7} \ =\ a$$
-$$\LARGE a = 4.2 \frac{m}{s^2}$$
+$$\large 5a + 9.8 = 19.6 - 2a$$
+$$\large 5a + 2a = 19.6 - 9.8$$
+$$\large 7a = 9.8 N$$
+$$\large \frac{9.8}{7} \ =\ a$$
+$$\LARGE a = 1.4 \frac{m}{s^2}$$
 
 ## Respuesta final
 
