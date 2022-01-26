@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Reacciones de desplazamiento simple.md",
+            "file": "2022-01-26.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Reacciones de desplazamiento simple.md",
+                "file": "2022-01-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "d65ae9160acc346d",
   "lastOpenFiles": [
-    "Materias/Química/Reacciones de desplazamiento simple.md",
+    "2022-01-26.md",
+    "Materias/Química/Reaccion de combustión.md",
     "Materias/Química/Reacciones químicas.md",
+    "Materias/Química/Reacciones de desplazamiento doble.md",
+    "Materias/Química/Reacciones de desplazamiento simple.md",
     "Materias/Química/Reacciones de descomposición.md",
     "Materias/Química/Reacciones de composición.md",
-    "2022-01-26.md",
     "Materias/Física/Problemas/Problema 1.md",
     "Materias/Física/Resolución de problemas.md",
-    "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
-    "Materias/Lenguaje/Épocas literarias.md",
-    "Materias/Lenguaje/Romanticismo.md"
+    "Materias/Matemáticas/Ecuaciones bicuadráticas.md"
   ]
 }
