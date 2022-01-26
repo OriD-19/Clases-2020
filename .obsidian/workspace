@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Épocas literarias.md",
+            "file": "Materias/Lenguaje/Romanticismo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Épocas literarias.md",
+                "file": "Materias/Lenguaje/Romanticismo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d65ae9160acc346d",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Romanticismo.md",
     "Materias/Lenguaje/Épocas literarias.md",
     "Materias/Lenguaje/Medievo.md",
     "Materias/Lenguaje/Neoclasicismo.md",
@@ -96,7 +97,6 @@
     "Materias/Lenguaje/Época grecolatina.md",
     "Materias/Lenguaje/Renacimiento.md",
     "Materias/Lenguaje/Análisis de texto.md",
-    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
-    "Materias/Matemáticas/Ecuaciones bicuadráticas.md"
+    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md"
   ]
 }
