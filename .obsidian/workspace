@@ -7,8 +7,11 @@
         "id": "d65ae9160acc346d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Química/Reacciones de desplazamiento simple.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Química/Reacciones de desplazamiento simple.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -82,8 +86,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "084fa6e1c1dda214",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -92,15 +105,15 @@
   },
   "active": "d65ae9160acc346d",
   "lastOpenFiles": [
+    "Materias/Química/Reacciones de desplazamiento simple.md",
+    "Materias/Química/Reacciones químicas.md",
+    "Materias/Química/Reacciones de descomposición.md",
+    "Materias/Química/Reacciones de composición.md",
+    "2022-01-26.md",
     "Materias/Física/Problemas/Problema 1.md",
     "Materias/Física/Resolución de problemas.md",
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
     "Materias/Lenguaje/Épocas literarias.md",
-    "Materias/Lenguaje/Romanticismo.md",
-    "Materias/Lenguaje/Medievo.md",
-    "Materias/Lenguaje/Neoclasicismo.md",
-    "Materias/Lenguaje/Barroco.md",
-    "Materias/Lenguaje/Época clásica precolombina.md",
-    "Materias/Lenguaje/Época grecolatina.md"
+    "Materias/Lenguaje/Romanticismo.md"
   ]
 }

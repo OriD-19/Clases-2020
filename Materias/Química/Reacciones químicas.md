@@ -51,6 +51,8 @@ Estos nos ayudan a conocer si una reacción está bien balanceada.
 
 - [[Reacciones de composición]]
 - [[Reacciones de descomposición]]
+- [[Reacciones de desplazamiento simple]]
+- [[Reacciones de desplazamiento doble]]
 
 
 **Página 146-149 del libro de texto**.
