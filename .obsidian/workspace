@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Romanticismo.md",
-            "mode": "source"
+            "file": "Materias/Física/Resolución de problemas.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Romanticismo.md",
+                "file": "Materias/Física/Resolución de problemas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "07abd909821cc642",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 289.3999938964844,
     "collapsed": true
   },
   "active": "d65ae9160acc346d",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Romanticismo.md",
+    "Materias/Física/Resolución de problemas.md",
+    "Materias/Física/Problemas/Problema 1.md",
+    "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
     "Materias/Lenguaje/Épocas literarias.md",
+    "Materias/Lenguaje/Romanticismo.md",
     "Materias/Lenguaje/Medievo.md",
     "Materias/Lenguaje/Neoclasicismo.md",
     "Materias/Lenguaje/Barroco.md",
     "Materias/Lenguaje/Época clásica precolombina.md",
-    "Materias/Lenguaje/Época grecolatina.md",
-    "Materias/Lenguaje/Renacimiento.md",
-    "Materias/Lenguaje/Análisis de texto.md",
-    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md"
+    "Materias/Lenguaje/Época grecolatina.md"
   ]
 }
