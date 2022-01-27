@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eb671db9cdaaa36d",
+        "id": "7a58b4d3d919da31",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Cinética química.md",
+            "file": "Materias/Sociales/Jorge Rafael Videla.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Cinética química.md",
+                "file": "Materias/Sociales/Jorge Rafael Videla.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,10 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "eb671db9cdaaa36d",
+  "active": "7a58b4d3d919da31",
   "lastOpenFiles": [
+    "Materias/Sociales/Jorge Rafael Videla.md",
+    "Materias/Sociales/Juan Domingo Perón.md",
     "Materias/Química/Cinética química.md",
     "Materias/Química/Velocidad de reacción.md",
     "Materias/Química/Catalizadores.md",
@@ -112,8 +114,6 @@
     "Materias/Química/Evaluaciones BIMESTRE I.md",
     "Materias/Química/Productos.md",
     "Materias/Química/Reaccion de combustión.md",
-    "Materias/Química/Reacciones de descomposición.md",
-    "Materias/Química/Reacciones químicas.md",
-    "Materias/Química/Reacciones de desplazamiento simple.md"
+    "Materias/Química/Reacciones de descomposición.md"
   ]
 }
