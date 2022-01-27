@@ -31,4 +31,9 @@ El tema, por ejemplo, es el hilo conductor de las ideas, las cuales son transmit
 
 Una de las pruebas más importantes para saber si se ha realizado bien el proceso de comprensión o análisis, es tener la capacidad de comprender el **mensaje y el tema que trata el texto**.
 
+#### El tema de un texto
+
+Usualmente está formado por un **sintagma nominal**, es decir, un determinante y un sustantivo (opcionalmente, un adjetivo). 
+Se debe corroborar que el tema se repite **a lo largo del texto**. Esto no quiere decir que el tema se encuentra de manera textual, sino que puede *presentar variaciones* a la hora de identificarlo.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
