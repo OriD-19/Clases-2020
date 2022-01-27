@@ -94,7 +94,7 @@ Sólo dos lograron huir de la isla. El resto fueron torturados y asesinados.
 
 Luego de la muerte del dictador, **su hijo llegó casi inmediatamente** para tomar posesión de República Dominicana.
 
-Sin embargo, los Estados Unidos decidieron poner al presidente de ese momento, **Joaquín Balager**, para romper con el mandato de los Trujillo.
+Sin embargo, los Estados Unidos decidieron poner al presidente de ese momento, **Joaquín Balaguer**, para romper con el mandato de los Trujillo.
 
 Este presidente gobernó 7 períodos, y formó parte de la política hasta sus 90 años.
 
