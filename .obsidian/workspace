@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d65ae9160acc346d",
+        "id": "eb671db9cdaaa36d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
+            "file": "Materias/Química/Cinética química.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
+                "file": "Materias/Química/Cinética química.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "d65ae9160acc346d",
+  "active": "eb671db9cdaaa36d",
   "lastOpenFiles": [
-    "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Rafael Leónidas Trujillo.md",
-    "templates/Concept_template.md",
-    "Materias/Sociales/Jorge Rafael Videla.md",
-    "Materias/Sociales/Juan Domingo Perón.md",
-    "Materias/Sociales/Dictadura Argentina.md",
-    "Materias/Sociales/Dictaduras latinoamericanas.md",
-    "Materias/Sociales/Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Anastasio Somoza García.md",
-    "Materias/Sociales/Dinastía Somoza.md"
+    "Materias/Química/Cinética química.md",
+    "Materias/Química/Velocidad de reacción.md",
+    "Materias/Química/Catalizadores.md",
+    "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
+    "Materias/Química/Evaluaciones BIMESTRE I.md",
+    "Materias/Química/Productos.md",
+    "Materias/Química/Reaccion de combustión.md",
+    "Materias/Química/Reacciones de descomposición.md",
+    "Materias/Química/Reacciones químicas.md",
+    "Materias/Química/Reacciones de desplazamiento simple.md"
   ]
 }

@@ -55,6 +55,9 @@ Estos nos ayudan a conocer si una reacción está bien balanceada.
 - [[Reacciones de desplazamiento doble]]
 - [[Reaccion de combustión]]
 
+## Velocidad de reacción
+
+Otro de los factores que afectan a las reacciones químicas es la [[Velocidad de reacción]].
 
 **Página 146-149 del libro de texto**.
 
