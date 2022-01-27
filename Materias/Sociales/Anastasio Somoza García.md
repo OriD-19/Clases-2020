@@ -12,6 +12,9 @@ Se casó con la señora **Salvadora Debayle**, una de las hijas de la familia *m
 
 Durante este tiempo, hubieron ciertos levantamientos en contrar del *imperialismo estadounidense*, en nombre de César Augusto Sandino.
 
+En ese tiempo, los estadounidense tenían el llamado **Lema Monroe**, el cual promovía el lema "América para los americanos".
+Debido a esto, Nicaragua se alió en contra de los Estados Unidos.
+
 Durante ese tiempo, el señor Somoza traicionó a Sandino, tendiéndole una trampa y asesinándolo a tiros.
 Luego de esto, Somoza quedó como uno de los héroes de la nación, y, aunado al poder de la familia Debayle, logró asumir el poder.
 
@@ -29,7 +32,7 @@ Sumando al nepotismo, sus hijos fueron nombrados rápidamente altos cargos milit
 
 Durante una fiesta, un grupo de personas le dispararon múltiples veces, dejándolo agonizante.
 
-Cuando lo atienden en el hospital, **fallece bajo causas extrañas, por una mala práxis de los médicos**.
+Cuando lo atienden en el hospital, **fallece bajo causas extrañas, por una mala práxis de los médicos** en Panamá.
 
 Después de su muerte, sus hijos continúan la [[Dinastía Somoza]].
 

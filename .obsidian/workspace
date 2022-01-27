@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Análisis de texto.md",
-            "mode": "source"
+            "file": "Materias/Sociales/Jorge Rafael Videla.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Análisis de texto.md",
+                "file": "Materias/Sociales/Jorge Rafael Videla.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "d65ae9160acc346d",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Análisis de texto.md",
-    "Materias/Lenguaje/Barroco.md",
-    "Materias/Matemáticas/Ecuaciones radicales.md",
-    "Materias/Física/Problemas/Problema 1.md",
-    "Materias/Física/Resolución de problemas.md",
-    "2022-01-26.md",
-    "Materias/Química/Reaccion de combustión.md",
-    "Materias/Química/Reacciones químicas.md",
-    "Materias/Química/Reacciones de desplazamiento doble.md",
-    "Materias/Química/Reacciones de desplazamiento simple.md"
+    "Materias/Sociales/Jorge Rafael Videla.md",
+    "Materias/Sociales/Juan Domingo Perón.md",
+    "Materias/Sociales/Dictadura Argentina.md",
+    "Materias/Sociales/Dictaduras latinoamericanas.md",
+    "Materias/Sociales/Anastasio Somoza Debayle.md",
+    "Materias/Sociales/Anastasio Somoza García.md",
+    "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
+    "Materias/Sociales/Rafael Leónidas Trujillo.md",
+    "Materias/Sociales/Dinastía Somoza.md",
+    "Materias/Lenguaje/Análisis de texto.md"
   ]
 }
