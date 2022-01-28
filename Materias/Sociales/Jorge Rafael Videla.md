@@ -35,6 +35,21 @@ Las personas tenían miedo de salir a ciertas horas de la noche, pues los solada
 
 No hace faltar mencionar que las violaciones y agresiones sexuales estaban a la orden del día, y las condiciones eran sumamente deplorables para todos los prisioneros. Las que sufrieron las peores torturas fueron las mujeres.
 
+#### Confesiones de Videla
+
+Durante los juicios que se dieron para condenar al dictador, algunos de los militares dieron ciertas declaraciones, confesando ciertos abusos que ocurrieron.
+
+Por ejemplo, un capitán, Francisco Scilingo, mencionó que **se tiraban personas desde el helicóptero** como forma de pena capital.
+
+Se les llevaba dormidos, y se les engañaba para "ir a prisión". Una vez en el helicóptero, los dormían completamente, y **los arrojaban al mar**.
+
+El capitán que lo confiesa hace un parelelismo entre el ejército argentino y los nazis alemanes.
+Confiesa como algunas de las escenas que presenció eran **réplicas casi exctas de los campos de exterminio**.
+
+Luego de tirar a las víctimas, los militares sentían vergüenza, pues aunque cometían esos asesinatos, sabían que estaban rompiendo el código de conducta militar.
+
+## Condenas y muerte
+
 El único que murió en la cárcel, condenado judicialmente después de su mandato.
 Sin embargo, el presidente Menem decidió liberar a todos los militares. Todos volvieron a la cárcel en el gobierno sucesor a este último.
 
