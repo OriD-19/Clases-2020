@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Física/Problemas/Problema 2.md",
+            "file": "Materias/Química/Cinética química.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Física/Problemas/Problema 2.md",
+                "file": "Materias/Química/Cinética química.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "7a58b4d3d919da31",
   "lastOpenFiles": [
+    "Materias/Química/Cinética química.md",
+    "Materias/Química/Reacciones químicas.md",
+    "Materias/Lenguaje/Repaso de gramática.md",
+    "Materias/Lenguaje/Untitled.md",
     "Materias/Física/Problemas/Problema 2.md",
     "Materias/Física/Problemas/Problema 1.md",
-    "Materias/Lenguaje/Repaso de gramática.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
     "Materias/Sociales/Juan Domingo Perón.md",
-    "Materias/Química/Cinética química.md",
     "Materias/Química/Velocidad de reacción.md",
-    "Materias/Química/Catalizadores.md",
-    "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
-    "Materias/Química/Evaluaciones BIMESTRE I.md"
+    "Materias/Química/Catalizadores.md"
   ]
 }

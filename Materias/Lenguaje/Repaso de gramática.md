@@ -19,4 +19,20 @@ tags: Lenguaje 27/01/2022
 9. Aprende a vivir bien y sabrás morir .
 10. Un caballero se avergüenza de que sus palabras sean más importantes que sus actos.
 
+## Tipos de análisis de la oración
+
+### [[Análisis morfológico]]
+Hace referencia al estudio de las palabras, y su clasificación.
+
+### [[Análisis sintáctico]]
+Hace referencia al estudio de la menor parte con un significado propio del lenguaje: *los sintagmas*.
+
+### Análisis morfosintáctico
+
+Es una fusión de los dos anteriores.
+
+### [[Complemento de régimen verbal]]
+
+- ¿Por qué no se dice *hubieron*? ¿En qué casos realmente se utiliza?
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
