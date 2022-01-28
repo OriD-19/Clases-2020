@@ -16,7 +16,7 @@ Primero que nada, debemos hacer unos cuantos cambios en el diagrama de fuerzas d
 
 - Para comenzar a analizar los cuerpos, debemos comenzar calculando las fuerzas de cada uno (segunda ley de Newton):
 
-$$\large \SigmaF_y = ma_y$$
+$$\large \Sigma F_y = ma_y$$
 
 Luego, tendríamos la siguiente fórmula:
 
@@ -35,9 +35,31 @@ Ahora, también podemos sustituir los valores que ya conocíamos (masa, y el pes
 
 $$\large 98 - T = 10a_y$$
 
-**Como la aceleración es la misma para todo el sistema, entonces podemos obviar el eje**:
+**Como la aceleración es la misma para todo el sistema, entonces podemos obviar el eje**
+Finalmente, simultaneamos ambas ecuaciones para resolver el sistema:
 
+*Caja A:* $\large T = 2a - 19.6$
 
-$$
+*Caja B:* $\large T = 98 - 10a$
+
+Luego, resolvemos con el método de preferencia (en este caso igualación):
+
+$$\large 2a + 19.6 = 98 - 10a$$
+$$\large 12a = 78.4$$
+$$\LARGE a = 6.53 \frac{m}{s^2}$$
+
+---
+
+Para el inciso B, simplemente debemos sustituir el valor de $\large a$ en una de las ecuaciones que ya teníamos despejadas anteriormente:
+
+$$\large T = 2a + 19.6$$
+$$\large T = 2(6.53) + 19.6$$
+$$\LARGE T = 32.66 N$$
+
+## Respuesta final
+
+a. La aceleración del sistema es igual a $\LARGE a = 6.53 \frac{m}{s^2}$
+
+b. La tensión de la cuerda es igual a $\LARGE T = 32.66 N$
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['PROBLEMAS]]
