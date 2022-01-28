@@ -18,4 +18,26 @@ Primero que nada, debemos hacer unos cuantos cambios en el diagrama de fuerzas d
 
 $$\large \SigmaF_y = ma_y$$
 
+Luego, tendríamos la siguiente fórmula:
+
+$$\large T - w = ma_y$$
+
+Con los valores que tenemos:
+
+$$\large T - (2)(9.8) = 2a_y$$
+
+- Segundo, necesitamos calcular las fuerzas del segundo peso (teniendo cuidado de invertir los signos a la hora de sustituir las fuerzas):
+
+$$\large \Sigma F_y = ma_y$$
+$$\large w - T = ma_y$$
+
+Ahora, también podemos sustituir los valores que ya conocíamos (masa, y el peso es calculable): 
+
+$$\large 98 - T = 10a_y$$
+
+**Como la aceleración es la misma para todo el sistema, entonces podemos obviar el eje**:
+
+
+$$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['PROBLEMAS]]
