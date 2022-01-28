@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Cinética química.md",
+            "file": "2021-12-28.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Cinética química.md",
+                "file": "2021-12-28.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,11 +100,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.3999938964844,
-    "collapsed": true
+    "width": 289.3999938964844
   },
   "active": "7a58b4d3d919da31",
   "lastOpenFiles": [
+    "2021-12-28.md",
     "Materias/Química/Cinética química.md",
     "Materias/Química/Reacciones químicas.md",
     "Materias/Lenguaje/Repaso de gramática.md",
@@ -113,7 +113,6 @@
     "Materias/Física/Problemas/Problema 1.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
     "Materias/Sociales/Juan Domingo Perón.md",
-    "Materias/Química/Velocidad de reacción.md",
-    "Materias/Química/Catalizadores.md"
+    "Materias/Química/Velocidad de reacción.md"
   ]
 }
