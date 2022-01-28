@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Jorge Rafael Videla.md",
-            "mode": "preview"
+            "file": "Materias/Lenguaje/Repaso de gramática.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Jorge Rafael Videla.md",
+                "file": "Materias/Lenguaje/Repaso de gramática.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "7a58b4d3d919da31",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Repaso de gramática.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
     "Materias/Sociales/Juan Domingo Perón.md",
     "Materias/Química/Cinética química.md",
@@ -113,7 +114,6 @@
     "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
     "Materias/Química/Evaluaciones BIMESTRE I.md",
     "Materias/Química/Productos.md",
-    "Materias/Química/Reaccion de combustión.md",
-    "Materias/Química/Reacciones de descomposición.md"
+    "Materias/Química/Reaccion de combustión.md"
   ]
 }
