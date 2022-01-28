@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Repaso de gramática.md",
+            "file": "Materias/Física/Problemas/Problema 2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Repaso de gramática.md",
+                "file": "Materias/Física/Problemas/Problema 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "7a58b4d3d919da31",
   "lastOpenFiles": [
+    "Materias/Física/Problemas/Problema 2.md",
+    "Materias/Física/Problemas/Problema 1.md",
     "Materias/Lenguaje/Repaso de gramática.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
     "Materias/Sociales/Juan Domingo Perón.md",
@@ -112,8 +114,6 @@
     "Materias/Química/Velocidad de reacción.md",
     "Materias/Química/Catalizadores.md",
     "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
-    "Materias/Química/Evaluaciones BIMESTRE I.md",
-    "Materias/Química/Productos.md",
-    "Materias/Química/Reaccion de combustión.md"
+    "Materias/Química/Evaluaciones BIMESTRE I.md"
   ]
 }
