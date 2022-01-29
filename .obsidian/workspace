@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Reacciones de desplazamiento simple.md",
+            "file": "Materias/Química/Velocidad de reacción.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Reacciones de desplazamiento simple.md",
+                "file": "Materias/Química/Velocidad de reacción.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,18 +86,27 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "a37c9cb33e6a57a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.3999938964844
+    "width": 289.3999938964844,
+    "collapsed": true
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Química/Velocidad de reacción.md",
     "Materias/Química/Reacciones de desplazamiento simple.md",
     "Materias/Química/Reacciones de desplazamiento doble.md",
-    "Materias/Química/Velocidad de reacción.md",
     "Materias/Química/Reacciones químicas.md",
     "Materias/Química/Reacciones físicas.md",
     "2021-12-28.md",

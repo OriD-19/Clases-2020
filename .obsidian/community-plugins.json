@@ -1,8 +1,8 @@
 [
+  "calendar",
   "obsidian-git",
-  "table-editor-obsidian",
   "oz-image-plugin",
   "sliding-panes-obsidian",
-  "calendar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "table-editor-obsidian"
 ]
