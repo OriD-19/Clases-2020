@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Reacciones de desplazamiento doble.md",
-            "mode": "source",
+            "file": "Materias/Lenguaje/Renacimiento.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Reacciones de desplazamiento doble.md",
+                "file": "Materias/Lenguaje/Renacimiento.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
-    "Materias/Química/Reacciones de desplazamiento doble.md",
-    "Materias/Química/Reacciones endotérmicas.md",
-    "Materias/Química/Reacciones químicas.md",
-    "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
-    "Materias/Química/Temperatura (Factor de una reacción).md",
+    "Materias/Lenguaje/Renacimiento.md",
+    "Materias/Física/Problemas/Problema 1.md",
+    "Materias/Sociales/Dictaduras latinoamericanas.md",
+    "Materias/Sociales/Dictadura chilena.md",
+    "Materias/Sociales/Augusto Pinochet.md",
+    "Materias/Física/Problemas/Problema 2.md",
+    "Materias/Matemáticas/Ecuaciones radicales.md",
+    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Química/Reactivos.md",
-    "Materias/Química/Reacción Exotérmica.md",
-    "Materias/Química/Cinética química.md",
-    "Materias/Química/Concentración de los compuestos.md",
     "Materias/Química/Velocidad de reacción.md"
   ]
 }
