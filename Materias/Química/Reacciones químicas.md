@@ -6,9 +6,19 @@ tags: Química 24/01/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 24/01/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 24/01/2022</div>
 
-Las reacciones químicas son las **transformaciones de la materia que producen cambios en una sustancia** para obtener otras diferentes. 
+Las reacciones químicas son las **transformaciones de la materia que producen cambios en una sustancia** para obtener otras diferentes. A diferencia de las [[Reacciones físicas]], estas **no son reversibles**. Asimismo, los cambios químicos son capaces de producir, a su vez, **ciertos cambios físicos**.
 
 En estas transformaciones , se parte de unas sustancias en el estado inicial, *llamadas [[Reactivos]]*, y se obtienen otras diferentes en el estado final, llamadas *[[Productos]]*.
+
+## Evidencias de una reacción química
+
+Las diversas manifestaciones que puede tener una reacción química son las siguientes:
+
+- Desprendimiento de un gas.
+- Formación de material sólido.
+- Cambio de coloración.
+- Consumo de materia sólida (al consumirse un metal con un ácido, por ejemplo).
+- Desprendimiento de energía en forma de calor o luz.
 
 ## Ejemplo: La quema del carbón.
 Una reaacción química muy común es cuando se quema un pedazo de carbón.
@@ -27,7 +37,7 @@ Para entender una reacción den detalle debe tenerse información acerca de:
 - **La estructura de los reactivos y los productos** (en una representación como *Lewis*, donde los electrones se representan junto con los elementos).
 - **Las condiciones en las que tiene lugar la reacción, como la situación atmosférica o climática.**
 - **Una descripción detallada de los caminos por los que los *núcleos y los electrones* cambian de posición, a medida que los reactivos se convierten en los productos**. Esto hace referencia a la forma en la cual se realizan las reacciones, significando que *el órden de los factores SÍ altera al producto*.
-- **Las reacciones químicas se representan mediante *ecuaciones químicas*, las cuales se representan con ayuda de la [[Tabla Periódica]]**.
+- **Las reacciones químicas se representan mediante *ecuaciones químicas*, las cuales se representan con ayuda de la [[Tabla Periódica]]**. Cabe resaltar que estas ecuaciones deben contar con el estado de cada elemento en modo de *subíndices* (Por ejemplo, $\large NaOH_{(ac)}$ indica que el elemento está en estado acuoso).
 
 ## Evidencia experimental
 
