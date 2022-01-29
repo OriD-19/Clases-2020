@@ -15,5 +15,5 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "img",
   "legacyEditor": true,
-  "useTab": false
+  "useTab": true
 }
