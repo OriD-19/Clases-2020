@@ -14,5 +14,6 @@
   "foldHeading": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "img",
-  "legacyEditor": true
+  "legacyEditor": true,
+  "useTab": false
 }

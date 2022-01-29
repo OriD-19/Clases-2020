@@ -10,16 +10,6 @@ Las reacciones químicas son las **transformaciones de la materia que producen c
 
 En estas transformaciones , se parte de unas sustancias en el estado inicial, *llamadas [[Reactivos]]*, y se obtienen otras diferentes en el estado final, llamadas *[[Productos]]*.
 
-## Evidencias de una reacción química
-
-Las diversas manifestaciones que puede tener una reacción química son las siguientes:
-
-- Desprendimiento de un gas.
-- Formación de material sólido.
-- Cambio de coloración.
-- Consumo de materia sólida (al consumirse un metal con un ácido, por ejemplo).
-- Desprendimiento de energía en forma de calor o luz.
-
 ## Ejemplo: La quema del carbón.
 Una reaacción química muy común es cuando se quema un pedazo de carbón.
 

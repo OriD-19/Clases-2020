@@ -33,6 +33,25 @@ Un ejemplo real de este proceso se da en la siguiente reacción:
 
 $$\Large Cl_{2(g)} + 2NaBr_{(ac)} \rightarrow 2NaCl_{(ac)} + Br_{2(l)}$$
 
-## 
+## Caso 2: El metal sustituye al ión positivo
+
+En la otra cara de la moneda, tenemos el caso contrario al anterior: *El metal sustituye al ión positivo del compuesto*.
+
+Este caso sucede de la siguiente manera: Sea $\large D$ un elemento metálico, y $\large C$ un ión positivo en el compuesto:
+
+$$\Large D + BC \rightarrow BD + C$$
+
+Con la anterior reacción, tenemos prueba de que el metal (elemento) sustituye al elemento C, que corresponde a un ión positivo del compuesto $\large BC$.
+
+Lo anterior es fácilemente evidenciable con la siguiente reacción:
+
+$$\large 2Zn_{s} + 2HCl_{(ac)} \rightarrow ZnCl_{2(ac)} + H_{2(g)}$$
+
+## Claves para identificar los casos.
+
+Una de las claves para identificar el tipo de reacción de desplazamiento simple es fijarnos en los estados de valencia del compuesto en cuestión.
+Si el compuesto posee un ión positivo, y después de la reacción es sustituido por el metal, estaremos ante **un ejemplo del caso dos**.
+
+Por el otro lado, si hay otro elemento del compuesto que es un ión negativo, y después es sustituido por el metal, estaremos ante **un ejemplo del caso uno**.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]

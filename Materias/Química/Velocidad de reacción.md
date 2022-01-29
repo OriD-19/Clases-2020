@@ -10,4 +10,12 @@ Es el factor que involucra la velocidad en la cual las sustancias reaccionan en 
 
 Los elementos que alteran la velocidad de reacción se llaman [[Catalizadores]], y la ciencia que estudia la velocidad de las reacciones se denomina [[Cinética química]].
 
+## Ejemplos de reacciones lentas y rápidas
+
+| Procesos que implican reacciones lentas              | Procesos que implican reacciones rápidas |
+| ---------------------------------------------------- | ---------------------------------------- |
+| La formación del humus que hace fértiles los suelos. | La combustión de la gasolina             |
+| La comida refrigerada se descompone lentamente       | El cocimiento de un huevo en agua hirviendo                                         |
+|                                                      |                                          |
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
