@@ -7,8 +7,12 @@
         "id": "277d51e18812bc40",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Química/Reacciones de desplazamiento doble.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Química/Reacciones de desplazamiento doble.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,15 +105,15 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
-    "Materias/Química/Velocidad de reacción.md",
+    "Materias/Química/Reacciones de desplazamiento doble.md",
+    "Materias/Química/Reacciones endotérmicas.md",
+    "Materias/Química/Reacciones químicas.md",
     "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
-    "Materias/Química/Teoría de las colisiones.md",
-    "Materias/Química/Untitled.md",
-    "Materias/Química/Catalizadores.md",
-    "Materias/Química/Fraccionamiento.md",
     "Materias/Química/Temperatura (Factor de una reacción).md",
+    "Materias/Química/Reactivos.md",
+    "Materias/Química/Reacción Exotérmica.md",
+    "Materias/Química/Cinética química.md",
     "Materias/Química/Concentración de los compuestos.md",
-    "Materias/Química/Reacciones de desplazamiento simple.md",
-    "Materias/Química/Reacciones de desplazamiento doble.md"
+    "Materias/Química/Velocidad de reacción.md"
   ]
 }

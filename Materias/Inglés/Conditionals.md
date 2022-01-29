@@ -33,4 +33,10 @@ You can change your reality, but you can't revert your past actions.
 
 > If my computer hadn't crashed, I would be playing my favorite videogame.
 
+### Special considerations
+
+A special thing to note when working with conditional sentences is the use of **were instead of was**.
+
+This applies for both **negative and positive form** of those verbs
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
