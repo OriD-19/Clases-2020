@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Laboratorio/Segunda práctica/Marco Teórico.md",
+            "file": "Materias/Matemáticas/Ecuaciones radicales.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Laboratorio/Segunda práctica/Marco Teórico.md",
+                "file": "Materias/Matemáticas/Ecuaciones radicales.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Ecuaciones radicales.md",
+    "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
+    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Laboratorio/Segunda práctica/Marco Teórico.md",
     "Materias/Laboratorio/Segunda práctica/Experimentación.md",
     "Materias/Química/Velocidad de reacción.md",
     "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
     "Materias/Química/Cinética química.md",
     "Materias/Química/Reacciones químicas.md",
-    "2022-01-26.md",
-    "2022-01-28.md",
-    "Materias/Sociales/Augusto Pinochet.md",
-    "Materias/Lenguaje/Renacimiento.md"
+    "2022-01-26.md"
   ]
 }

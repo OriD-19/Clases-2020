@@ -98,10 +98,47 @@ $$\large \sqrt{3 - \frac{1}{3} + (\frac{1}{3})^2} = \frac{1}{3} - 2$$
 
 $$\large \sqrt\frac{25}{9} = -\frac{5}{3}$$
 
-Ahora, debemos recordar que, a la hora de trabajar con valores **individuales** SÍ podemos trabajar con ambos valores de la raíz. Por ello, la igualdad satisface:
+Ahora, como bien habíamos visto anteriormente, las raíces cuadradas, en el caso de las ecuaciones radicales, **no se puede operar con el valor negativo de una raíz cuadrada**. Por ello, la igualdad es falsa, y el **conjunto solución está vacío**.
 
-$$\LARGE -\frac{5}{3} = -\frac{5}{3}$$
+$$\LARGE \frac{5}{3} = -\frac{5}{3}$$
 
+## Ejemplo 4:
 
+$$\Large \sqrt{4x + 1} + x = 5$$
+
+El primer paso sería, para motivos de conveniencia, **pasar la x hacia el otro lado de la igualdad.**
+
+$$\large \sqrt{4x + 1} = 5 - x$$
+
+Luego, elevamos al cuadrado ambos lados de la igualdad.
+$$\large 4x + 1 = (5 - x)^2$$
+Resolvemos el caso de factoreo que se nos presenta.
+$$\large 4x + 1 = 25 - 10x + x^2$$
+Después, reducimos términos semajantes
+
+$$\large 0 = x^2 - 14x + 24$$
+
+Finalmente, resolvemos la ecuación cuadrática resultante:
+
+$$\large (x - 12)(x - 2)$$
+$$\large x = 12$$
+$$\large x = 2$$
+EL último paso para resolver esta ecuación es sustituir en la ecuación original.
+$$\large \sqrt{4(2) + 1} + 2 = 5$$
+Resultado final: $\large 5 = 5$
+
+## Ejemplo 5: Utilizando otro método para resolver las ecuaciones radicales
+
+$$\Large \sqrt{5x + 1} - \sqrt{2x + 1} = 2$$
+
+### Utilizando el método convencional
+
+Primero, movemos la raíz hacia el otro lado de la igualdad:
+
+$$\large \sqrt{5x + 1} = 2 + \sqrt{2x + 1}$$
+
+Luego, elevamos al cuadrado ambos miembros de la igualdad.
+
+$$\large 5x + 1 = 4 + 4\sqrt{2x + 1} + (2x + 1)$$
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
