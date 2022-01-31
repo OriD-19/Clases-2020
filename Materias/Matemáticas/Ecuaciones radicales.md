@@ -148,4 +148,18 @@ Por último, volvemos a elevar al cuadrado, y conseguimos una ecuación cuadrát
 
 $$\large (3x - 4)^2 = (4\sqrt{2x + 4})^2$$
 
+Resolvemos ambos lados, y simplificamos la ecuación cuadrática:
+
+$$\large 9x^2 - 24x + 16 = 16(2x + 4)$$
+$$\large 9x^2 + 56x = 0$$
+
+Finalmente, encontramos las soluciones para esta ecuación (factor común):
+$$\large x(9x + 56) = 0$$
+$$\large x = 0; x = \frac{56}{9}$$
+
+Al comprobar la ecuación original, nos daremos cuenta que el valor de $x$ que satisface la ecuación es $\frac{56}{9}$
+
+$$\large \sqrt{5(\frac{56}{9}) + 1} - \sqrt{2(\frac{56}{9}) + 1} = 2 $$
+$$\Large 2 = 2$$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
