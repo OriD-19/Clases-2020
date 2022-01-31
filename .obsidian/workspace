@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Cinética química.md",
+            "file": "2022-01-26.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Cinética química.md",
+                "file": "2022-01-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "2022-01-26.md",
+    "2022-01-28.md",
+    "Materias/Sociales/Augusto Pinochet.md",
     "Materias/Química/Cinética química.md",
     "Materias/Química/Velocidad de reacción.md",
     "Materias/Lenguaje/Renacimiento.md",
     "Materias/Física/Problemas/Problema 1.md",
     "Materias/Sociales/Dictaduras latinoamericanas.md",
     "Materias/Sociales/Dictadura chilena.md",
-    "Materias/Sociales/Augusto Pinochet.md",
-    "Materias/Física/Problemas/Problema 2.md",
-    "Materias/Matemáticas/Ecuaciones radicales.md",
-    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md"
+    "Materias/Física/Problemas/Problema 2.md"
   ]
 }
