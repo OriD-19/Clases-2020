@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-01-31.md",
+            "file": "Materias/Inglés/Vocabulary Unit 1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-01-31.md",
+                "file": "Materias/Inglés/Vocabulary Unit 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.3999938964844
+    "width": 289.3999938964844,
+    "collapsed": true
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
-    "2022-01-31.md",
-    "Materias/Matemáticas/Ecuaciones radicales.md",
+    "Materias/Inglés/Vocabulary Unit 1.md",
+    "Materias/Inglés/Conditionals.md",
+    "Materias/Física/Problemas/Problema 2.md",
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
     "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
+    "2022-01-31.md",
+    "Materias/Matemáticas/Ecuaciones radicales.md",
     "Materias/Laboratorio/Segunda práctica/Marco Teórico.md",
     "Materias/Laboratorio/Segunda práctica/Experimentación.md",
-    "Materias/Química/Velocidad de reacción.md",
-    "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
-    "Materias/Química/Cinética química.md",
-    "Materias/Química/Reacciones químicas.md"
+    "Materias/Química/Velocidad de reacción.md"
   ]
 }
