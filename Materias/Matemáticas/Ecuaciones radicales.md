@@ -141,4 +141,11 @@ Luego, elevamos al cuadrado ambos miembros de la igualdad.
 
 $$\large 5x + 1 = 4 + 4\sqrt{2x + 1} + (2x + 1)$$
 
+Después, reducimos términos semejantes para quedarnos con otra ecuación radical:
+
+$$\large 3x - 4 = 4\sqrt{2x + 1}$$
+Por último, volvemos a elevar al cuadrado, y conseguimos una ecuación cuadrática.
+
+$$\large (3x - 4)^2 = (4\sqrt{2x + 4})^2$$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
