@@ -6,6 +6,8 @@ tags: Segunda práctica 31/01/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 31/01/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 31/01/2022</div>
 
+## [[Marco Teórico]]
+
 ## Experimentando con los volumenes de las sustancias (temperatura 25°)
 ![[Pasted image 20220131143005.png]]
 ![[Pasted image 20220131143119.png]]
@@ -58,4 +60,4 @@ tags: Segunda práctica 31/01/2022
 ## Gráfico 4: Reacción B (35°)
 ![[Pasted image 20220131211023.png]]
 
-<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEGUNDA PRÁCTICA]]
+<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LABORATORIO]]

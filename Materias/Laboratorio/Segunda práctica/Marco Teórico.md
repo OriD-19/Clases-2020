@@ -10,4 +10,4 @@ Cuando a una reacción química se le añade una cierta cantidad de compuestos, 
 
 ## [[Experimentación]]
 
-<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEGUNDA PRÁCTICA]]
+<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LABORATORIO]]

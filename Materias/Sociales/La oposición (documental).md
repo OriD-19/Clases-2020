@@ -23,6 +23,8 @@ Después de que [[Augusto Pinochet]] asumiera la presidencia de Chile, y comenza
 
 Por ello, y como sabía que era uno de los lugares más concurridos por todos los chilenos, **transformó el Estadio Nacional de Santiago en un campo de concentración**.
 
+**Se calcula que cerca de 40,000 personas fueron prisioneros en este estadio, convertido en un campo de concentración para los chilenos**.
+
 ## Juego contra la URSS
 
 Después de la llegada de Pinochet, y de que **Chile rompiera toda relación con la Unión Soviética**, todavía tenían pendiente su partido de clasificación a la Copa Mundial del '74. Por ello, el *26 de septiembre de 1973* llegaron a jugar contra los soviéticos, quienes se mostraron fríos ante la llegada del "nuevo enemigo", aliado del capitalismo y de los estadounidenses.
@@ -43,7 +45,15 @@ La decisión final de la FIFA: **O Rusia iba al partido a Santiago, o perdían a
 
 Luego de varios momentos de incertudumbre, se anuncia que **los soviéticos no llegarían a jugar el partido contra Chile.**
 
-Sin embargo, y por extraño que suene, los miembros del comité de fútbol *solicitaron a los jugadores entrar a la cancha para anotar un gol*, en símbolo de victoria
+Sin embargo, y por extraño que suene, los miembros del comité de fútbol *solicitaron a los jugadores entrar a la cancha para anotar un gol*, en símbolo de victoria.
+Todo este "show" fue parte de un entramado por parte del régimen totalitario de Pinochet para humillar a los soviéticos, cosa que *fue bien vista por parte de la propia FIFA*.
+
+### El mundial y la represión a los jugadores
+
+Cuando finalmente llegaron al mundial de Alemania en 1974, los jugadores chilenos estaban siendo *meticulosamente observados por el gobierno de Pinochet*. 
+
+Una de las medidas más atroces que fue tomada para cumplir su objetivo fue el secuestro de la madre de uno de los jugadores, **Carlos Caszely**, la cual fue *brutalmente torturada durante el tiempo en el que su hijo jugaba en el mundial*.
+Todo lo anterior simplemente para **mantener callado al jugador mientras se encontraba en el extranjero**.
 
 ## Personajes
 
@@ -54,7 +64,7 @@ Considerado uno de los mejores jugadores chilenos de su época, era muy querido 
 
 ### Leonardo Veliz
 
-Al igual que Carlos, fue jugador de la selección chilena durante el período de 1966 - 1981. Este jugador también fue duramente castigado durante el régimen de Pinochet.
+Al igual que Carlos, fue jugador de la selección chilena durante el período de 1966 - 1981. Este jugador nos narra la historia de cómo se vivió la dictadura chilena como parte del equipo de fútbol nacional, y el impacto tan grande que significó el 11 de septiembre para todos los jugadores del equipo.
 
 ### Julio Salviat
 
