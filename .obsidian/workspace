@@ -7,8 +7,12 @@
         "id": "277d51e18812bc40",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Sociales/La oposición (documental).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Sociales/La oposición (documental).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Sociales/La oposición (documental).md",
+    "Materias/Matemáticas/MCM de polinomios.md",
     "Materias/Laboratorio/Segunda práctica/Marco Teórico.md",
     "Materias/Laboratorio/Segunda práctica/Experimentación.md",
-    "Materias/Sociales/La oposición (documental).md",
     "Materias/Sociales/Augusto Pinochet.md",
     "Materias/Sociales/Dictadura chilena.md",
     "Materias/Lenguaje/Época grecolatina.md",
     "Materias/Lenguaje/Barroco.md",
     "Evaluaciones.md",
-    "Materias/Lenguaje/Actividades evaluadas.md",
-    "Materias/Lenguaje/Repaso de gramática.md"
+    "Materias/Lenguaje/Actividades evaluadas.md"
   ]
 }
