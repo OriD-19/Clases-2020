@@ -35,4 +35,45 @@ Es una fusión de los dos anteriores.
 
 - ¿Por qué no se dice *hubieron*? ¿En qué casos realmente se utiliza?
 
+## Pasos para analizar una oración
+
+- Buscar el verbo (sino, no se trata de una oración).
+- Buscar el sujeto, y realizar las preguntas "¿Quién o quiénes?".
+- Determinar el tipo de predicado. (Nominal o verbal)
+	- Para el predicado nominal, identificamos el atributo.
+	- Para el predicado verbal, identificamos los complementos (Complemento directo, indirecto, circunstancial, etc.)
+	
+### Perífrasis verbal
+
+La perífrasis verbal se encarga de **unir dos verbos, uno auxiliar y otro verbo principal**.
+
+Ejemplo:
+
+**Voy a llamar a mi mamá**.
+
+Exite un sujeto tácito, *yo*, y una *perífrasos verbal*, "voy a llamar...". A todo esto se le denomina **núcleo del predicado**, pues toda esa expresión cumple una sola función sintáctica.
+
+Aclaración: En el caso de "a mi mamá" se trata de un **complemento directo**, ya que, a la hora de sustituir por "lo" y por "la", es más correcto decir "la" y, por lo tanto, es correcto considerarlo un **complemento directo.**
+
+#### Complemento indirecto
+
+Pronombres como *me, a mi* y demás, **siempre se refieren a complemento indirecto de la oración**, ya que el sujeto suele estar siempre al final.
+
+Ejemplo 2:
+
+> **Había muchos niños en el parque**
+
+El error más común es pensar que le verbo haber puede decirse como "*habían*" en lugar de "*había*".
+Esto se debe a que esto es una **oración impersonal**, y una de las propiedades que poseen estas oraciones es la **carencia de plural**.
+
+### Verbo compuesto
+
+Es aquel que tiene un verbo auxiliar y uno principal. Usualmente, el verbo auxiliar es el verbo **haber**. Esto, por ejemplo, admite el uso del infame *hubieron*. Por ejemplo, *Cuando hubieron comido se marcharon*. Este ejemplo es **correcto**, ya que el verbo haber actúa como verbo auxiliar, y no como verbo principal.
+
+Cuando el verbo haber es principal, *hubieron no es válido*.
+
+## Ejercicios.
+
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
