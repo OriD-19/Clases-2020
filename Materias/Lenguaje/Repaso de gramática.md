@@ -74,6 +74,8 @@ Cuando el verbo haber es principal, *hubieron no es válido*.
 
 ## Ejercicios.
 
+1. Leer libros nos enriquece culturalmente.
 
+En el caso de este ejericio, se introduce un nuevo tema. Para el vebo *Leer* se puede sustituir por un sustantivo.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
