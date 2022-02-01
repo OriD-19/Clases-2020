@@ -48,4 +48,9 @@ tags: Segunda práctica 31/01/2022
 | 35°         | 10 ml     | 25 ml     | 56 s   |
 | 35°         | 10 ml     | 30 ml     | 52 s   |
 
+## Gráfico 1: Sustancia A (25°)
+![[Pasted image 20220131205953.png]]
+
+## Gráfico 2: Sustancia B (25°)
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEGUNDA PRÁCTICA]]
