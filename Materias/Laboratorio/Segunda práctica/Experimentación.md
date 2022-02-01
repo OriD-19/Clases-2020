@@ -51,6 +51,11 @@ tags: Segunda práctica 31/01/2022
 ## Gráfico 1: Sustancia A (25°)
 ![[Pasted image 20220131205953.png]]
 
-## Gráfico 2: Sustancia B (25°)
+## Gráfico 2: Reacción B (25°)
+![[Pasted image 20220131210543.png]]
+## Gráfico 3: Reacción A (35°)
+![[Pasted image 20220131210834.png]]
+## Gráfico 4: Reacción B (35°)
+![[Pasted image 20220131211023.png]]
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEGUNDA PRÁCTICA]]
