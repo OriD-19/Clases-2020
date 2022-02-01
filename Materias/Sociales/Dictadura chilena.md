@@ -23,6 +23,24 @@ El 11 de septiembre de 1973, los militares finalmente se revelaron contra Allend
 
 ## Dictadura de Pinochet (1973 - 1990)
 
+### Curiosidades
 
+#### La marcha de la unidad
+
+Luego de la represión de lo chilenos, muchos de los reprimidos compusieron una canción a modo de protesta. La historia de esta canción en Chile se remonta al disgusto que sufrían cuando eran reprimidos por **la dictadura de Pinochet**.
+
+En la canción se reclama el derecho del pueblo a ser libres. Sabiendo el contexto de represión que sufrían los chilenos en aquel momento, esta composición musical era una una de las maneras *más claras de protestas*, y los une a todos como pueblo.
+
+#### Los partidos del Mundial
+
+Fue uno de los momentos más bochornosos de la dictadura de [[Augusto Pinochet]]. Momento de represión absoluta, incluso hacia los propios deportistas de la selección chilena.
+
+*Para más información: [[La oposición (documental)]]*
+
+#### El matador 
+
+En el momento en el cual solicitaron un músico que hiciera una aparición en el Estadio Nacional de Santiago, los soldados chilenos hicieron que este tocara la canción **con los dedos quebrados.** Luego de que este intentó continuar aún con todo el dolor que aquello le causaba, los soldados decidieron finalmente asesinarlo a tiros y abandonarlo fuera del estadios.
+
+A raíz de esta situación, un grupo de músicos deicidió componer la canción *el Matador*. en esta canción se menciona en multitud de ocasiones las situaciones violentas que sufrió todo el pueblo chileno, pero en especial **el músico el cual fue asesinado en el estadio. (Victor Jara)**.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
