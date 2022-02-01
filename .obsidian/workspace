@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Repaso de gramática.md",
+            "file": "Materias/Física/Movimiento en plano inclinado.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Repaso de gramática.md",
+                "file": "Materias/Física/Movimiento en plano inclinado.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Física/Movimiento en plano inclinado.md",
+    "Materias/Física/Resolución de problemas.md",
+    "Materias/Física/Problemas/Problema 1.md",
     "Materias/Lenguaje/Repaso de gramática.md",
     "Materias/Sociales/La oposición (documental).md",
     "Materias/Sociales/Salvador Allende.md",
     "Materias/Sociales/Dictadura chilena.md",
     "Materias/Matemáticas/MCM de polinomios.md",
     "Materias/Laboratorio/Segunda práctica/Marco Teórico.md",
-    "Materias/Laboratorio/Segunda práctica/Experimentación.md",
-    "Materias/Sociales/Augusto Pinochet.md",
-    "Materias/Lenguaje/Época grecolatina.md",
-    "Materias/Lenguaje/Barroco.md"
+    "Materias/Laboratorio/Segunda práctica/Experimentación.md"
   ]
 }
