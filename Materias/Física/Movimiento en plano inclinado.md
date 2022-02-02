@@ -48,4 +48,32 @@ $$\Large \Sigma  F_x = ma_x$$
 $$\large w\cos{300°} - f_k = ma_x$$
 El peso posee ahora un **ángulo de 300°**, debido a la rotación que efectuamos previamente.
 
+$$\large m*g(cos(300)) - u_k*n = ma_x$$
+Hemos descompuesto la fórmula que teníamos originalmente.
+Ahora, ya no podemos seguir progresando en por este lado, por lo que debemos obligatoriamente obtener la **suma de fuerzas en Y**.
+
+### Suma de fuerzas en Y
+
+$$\Large \Sigma F_y = 0 \rightarrow w\sin(300) + n = 0$$
+
+Ahora, podemos obtener una fórmula que nos de información sobre la **fuerza normal**.
+Despejamos la n de la ecución, y obtenemos lo siguiente:
+$$\large n = -w\sin{300}$$
+$$\large n = -mg\sin(300)$$
+
+### Valores finales
+
+Ahora, volvemos a sustituir en la suma de fuerzas en X.
+
+$$\large -(0.10)(-mg\sin{300}) + (mg\cos{300}) = ma_x$$
+Después de esto, podemos dividirlos a todos por la misma letra $\large m$, que corresponde a un mismo valor para todas las ecuaciones.
+
+$$\large \frac{\large -(0.10)(-mg\sin{300}) + (mg\cos{300}) = ma_x}{m}$$
+Simplificando...
+$$\large (0.10)(9.8)(\sin{300}) + (9.8)(\cos{300}) = a_x$$
+
+Por ende, la respuesta final será:
+
+$$\LARGE a_x = 4.05 \frac{m}{s^2}$$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
