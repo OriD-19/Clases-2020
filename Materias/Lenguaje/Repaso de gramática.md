@@ -42,7 +42,6 @@ Es una fusión de los dos anteriores.
 - Determinar el tipo de predicado. (Nominal o verbal)
 	- Para el predicado nominal, identificamos el atributo.
 	- Para el predicado verbal, identificamos los complementos (Complemento directo, indirecto, circunstancial, etc.)
-	
 ### Perífrasis verbal
 
 La perífrasis verbal se encarga de **unir dos verbos, uno auxiliar y otro verbo principal**.
