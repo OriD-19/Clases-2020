@@ -24,4 +24,22 @@ Tenemos los siguientes datos:
 - Pendiente: $\large 30°$
 - Coeficiente de fricción cinética: $\large 0.10$
 
+### Fuerzas que actúan sobre el esquiador
+
+#### Previo a la rotación del eje
+
+- Fuerza normal ($\large n$). En este caso, es **perpendicular con la rampa**. Y como la rampa tiene 30°, la fuerza normal es representada como un vector en diagonal.
+- Peso ($\large w$). Siempre es hacia abajo.
+- Fricción cinética ($\large f_k$). Se opone al movimiento, por lo que **también se encuentra en diagonal**
+
+#### Luego de rotar el eje
+
+Después de mover el eje de modo que quede sobre el plano inclinado, tendremos que los ángulos que corresponden a la fuerza normal y a la fricción cinética **quedan sobre los ejes horizontales.**
+
+Para definir el signo de cada uno de los ejes, tenemos que fijarnos en algunos conceptos claves:
+- Para el eje Y, tenemos que fijarnos en la *fuerza normal*, pues hacia donde vaya esta última será el eje positivo.
+- Para el eje X, tenemos que fijarnos en el *movimiento del cuerpo en cuestión,* pues hacia donde se mueva corresponde al eje positivo.
+
+Para el caso del peso, debemos **fijarnos en la pendiente del plano inclinado**. Para ello, debemos ver hacia dónde rotó, y calcular la cantidad de grados que aumentó o disminuyó con respecto al eje Y (270°).
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
