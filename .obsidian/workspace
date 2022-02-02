@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Balanceo de ecuaciones.md",
+            "file": "Materias/Física/Movimiento en plano inclinado.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Balanceo de ecuaciones.md",
+                "file": "Materias/Física/Movimiento en plano inclinado.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Física/Movimiento en plano inclinado.md",
     "Materias/Química/Balanceo de ecuaciones.md",
     "Materias/Química/Balanceo redox.md",
     "Materias/Química/Balanceo algebráico.md",
@@ -114,7 +115,6 @@
     "Materias/Química/Reactivos.md",
     "Materias/Inglés/Vocabulary Unit 1.md",
     "Materias/Inglés/Evaluations first bimester.md",
-    "Materias/Inglés/Conditionals.md",
-    "Materias/Química/Precitipitado.md"
+    "Materias/Inglés/Conditionals.md"
   ]
 }

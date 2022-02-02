@@ -42,4 +42,10 @@ Para definir el signo de cada uno de los ejes, tenemos que fijarnos en algunos c
 
 Para el caso del peso, debemos **fijarnos en la pendiente del plano inclinado**. Para ello, debemos ver hacia dónde rotó, y calcular la cantidad de grados que aumentó o disminuyó con respecto al eje Y (270°).
 
+Finalmente, sumamos las fuerzas que afectan a la aceleración. (Segunda Ley de Newton)
+
+$$\Large \Sigma  F_x = ma_x$$
+$$\large w\cos{300°} - f_k = ma_x$$
+El peso posee ahora un **ángulo de 300°**, debido a la rotación que efectuamos previamente.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
