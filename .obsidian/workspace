@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/MCM de polinomios.md",
+            "file": "Materias/Inglés/Evaluations first bimester.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/MCM de polinomios.md",
+                "file": "Materias/Inglés/Evaluations first bimester.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Inglés/Evaluations first bimester.md",
+    "Materias/Inglés/Conditionals.md",
+    "Materias/Inglés/Vocabulary Unit 1.md",
+    "Materias/Química/Precitipitado.md",
+    "Materias/Química/Reaccion de combustión.md",
+    "Materias/Química/Evaluaciones BIMESTRE I.md",
+    "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
     "Materias/Matemáticas/MCM de polinomios.md",
     "Materias/Física/Movimiento en plano inclinado.md",
-    "Materias/Física/Resolución de problemas.md",
-    "Materias/Física/Problemas/Problema 1.md",
-    "Materias/Lenguaje/Repaso de gramática.md",
-    "Materias/Sociales/La oposición (documental).md",
-    "Materias/Sociales/Salvador Allende.md",
-    "Materias/Sociales/Dictadura chilena.md",
-    "Materias/Laboratorio/Segunda práctica/Marco Teórico.md",
-    "Materias/Laboratorio/Segunda práctica/Experimentación.md"
+    "Materias/Física/Resolución de problemas.md"
   ]
 }
