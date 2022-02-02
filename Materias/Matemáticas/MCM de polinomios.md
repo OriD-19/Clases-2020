@@ -30,5 +30,16 @@ El concepto de **polinomio primo** es usualmente definido como **aquel polinomio
 
 No se debe efectuar la multiplicación final.
 
+### Aclaraciones
+
+Para el paso final, en el cual debemos multiplicar los elementos repetidos una vez, **en caso de estar en forma descompuesta, tomaríamos el término cuyo exponente sea mayor**.
+
+Por ejemplo, si existe un caso de la siguiente forma:
+
+$$\large (x + 2)(x + 2)$$
+Se podría escribir de la siguiente manera:
+$$\large (x + 2)^2$$
+Por ello, a la hora de escribir el MCM, escribiríamos **esta última opción**, ya que cuenta con el mayor exponente.
+
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
