@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Análisis sintáctico.md",
+            "file": "Materias/Lenguaje/Repaso de gramática.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Análisis sintáctico.md",
+                "file": "Materias/Lenguaje/Repaso de gramática.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Análisis sintáctico.md",
     "Materias/Lenguaje/Repaso de gramática.md",
+    "Materias/Lenguaje/Análisis sintáctico.md",
     "Materias/Matemáticas/Ecuaciones racionales.md",
     "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Física/Movimiento en plano inclinado.md",

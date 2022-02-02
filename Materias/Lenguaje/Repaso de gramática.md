@@ -77,4 +77,18 @@ Cuando el verbo haber es principal, *hubieron no es válido*.
 
 En el caso de este ejericio, se introduce un nuevo tema. Para el vebo *Leer* se puede sustituir por un sustantivo.
 
+### Complemento de régimen verbal
+
+El C.R.V es un tipo de complemento que inicia con las **preposiciones de, con, en.** A su vez, el complemento de régimen verbal puede ser sustituido por el **pronombre "eso"**.
+
+También hay que darnos cuenta de que, al hacer la sustitución, todo el sintagma es sustituido. Por ello, la oración **debe manterne el sentido original**.
+*Si el sintamga no tiene preposición, suele tratarse de complemento directo (C.D)*.
+
+### Complemento predicativo
+
+Es un adjetivo en el predicado. Usualmente, tiene la función de **describir a la acción que se está realizando**.
+
+Es muy similar al complemento circunstancial de modo, pero con la diferencia que la palabra que lo forma **siempre es un adjetivo**, contrario a este último, pues lo forma un adverbio.
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
