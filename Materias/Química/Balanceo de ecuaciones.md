@@ -26,6 +26,6 @@ O: 3 - 6
 
 Para ello, podemos añadir un **2 en el coeficiente del compuesto reactivo,** y la ecuación termina balanceada:
 
-$$\large 2HNO_# \rightarrow N_2O_5 + H_2O$$
+$$\large 2HNO_ \rightarrow N_2O_5 + H_2O$$
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
