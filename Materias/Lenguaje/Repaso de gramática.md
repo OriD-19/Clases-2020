@@ -90,5 +90,4 @@ Es un adjetivo en el predicado. Usualmente, tiene la función de **describir a l
 
 Es muy similar al complemento circunstancial de modo, pero con la diferencia que la palabra que lo forma **siempre es un adjetivo**, contrario a este último, pues lo forma un adverbio.
 
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
