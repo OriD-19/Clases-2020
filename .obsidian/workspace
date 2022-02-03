@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/OPV/El noviazgo.md",
-            "mode": "source",
+            "file": "Materias/Inglés/Vocabulary Unit 1.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/OPV/El noviazgo.md",
+                "file": "Materias/Inglés/Vocabulary Unit 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Inglés/Vocabulary Unit 1.md",
     "Materias/OPV/El noviazgo.md",
     "Materias/OPV/El amor.md",
     "Materias/Religión/Características del Islam.md",
@@ -114,7 +115,6 @@
     "Materias/Laboratorio/Primera práctica/Conclusiones.md",
     "Materias/Laboratorio/Primera práctica/Verificación.md",
     "Materias/Laboratorio/Primera práctica/Preparación del experimento.md",
-    "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md",
-    "Materias/Laboratorio/Primera práctica/Materiales.md"
+    "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md"
   ]
 }
