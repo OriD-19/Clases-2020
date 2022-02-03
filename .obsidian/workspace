@@ -7,8 +7,12 @@
         "id": "277d51e18812bc40",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/OPV/El amor.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/OPV/El amor.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/OPV/El amor.md",
     "Materias/Religión/Características del Islam.md",
     "Materias/Religión/Cinco pilares del Islam.md",
     "Materias/Religión/Sitios sagrados del Islam.md",
@@ -109,7 +115,6 @@
     "Materias/Laboratorio/Primera práctica/Preparación del experimento.md",
     "Materias/Laboratorio/Primera práctica/Obtención de óxidos.md",
     "Materias/Laboratorio/Primera práctica/Materiales.md",
-    "Materias/Laboratorio/Primera práctica/Hipótesis.md",
-    "Materias/Laboratorio/Primera práctica/Ecuaciones.md"
+    "Materias/Laboratorio/Primera práctica/Hipótesis.md"
   ]
 }
