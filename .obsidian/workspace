@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/La oposición (documental).md",
+            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/La oposición (documental).md",
+                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
     "Materias/Sociales/La oposición (documental).md",
     "Materias/Lenguaje/Repaso de gramática.md",
     "Materias/Lenguaje/Análisis sintáctico.md",
@@ -114,7 +115,6 @@
     "Materias/Física/Movimiento en plano inclinado.md",
     "Materias/Química/Balanceo de ecuaciones.md",
     "Materias/Química/Balanceo redox.md",
-    "Materias/Química/Balanceo algebráico.md",
-    "Materias/Química/Balanceo por tanteo.md"
+    "Materias/Química/Balanceo algebráico.md"
   ]
 }
