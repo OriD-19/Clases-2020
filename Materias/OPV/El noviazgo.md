@@ -12,4 +12,6 @@ Este último es sumamente importante pues, entre más tiempo *de calidad* se le 
 Nótese el *tiempo de calidad*, pues no necesariamente una relación a la que se le dedique todo el tiempo del mundo será mejor.
 
 
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['OPV]]
