@@ -34,11 +34,20 @@ Classify the following words: *Achieve, pursue, ambition, realize, broaden, targ
 | Ambition  | True      | Achieve   |
 | Target    | Wildest   | Pursue    |
 | Obstacles |           | Realize   |
-| Target    |           | Broaden   |
+|           |           | Broaden   |
 |           |           | Fulfill   |
 |           |           | Grab      |
 |           |           | Undertake |
-|           |           |           |
 
+
+### Exercise: create 5 sentences
+
+With the words of the past exercise, write 5 sentences:
+
+1. She has a big **ambition:** to graduate with honors.
+2. Is it **true** that you want to become a doctor?
+3. Pedro wants to **achieve** a new record for the most powerful computer ever created.
+4. If you want to be successful, you are going to face many **obstacles**.
+5. You need to **broaden** your knowledge to understand the system.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
