@@ -16,4 +16,8 @@ Su religión se resume en la proclamación del *shahada*, la cual reza lo siguie
 
 Todos los musulmanes deben reconocer y recitar esta frase para ser considerados parte de la religión.
 
+*Fuentes:*
+*[¿Qué es el islam? (lavanguardia.com)](https://www.lavanguardia.com/internacional/20060505/51256368078/que-es-el-islam.html)*
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['RELIGIÓN]]
