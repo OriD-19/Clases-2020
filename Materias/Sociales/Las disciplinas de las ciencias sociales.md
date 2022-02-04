@@ -10,6 +10,7 @@ tags: Sociales 02/02/2022
 
 - Economía: ciencia que estudia la administración de recursos finitos para necesidades infinitas.
 - Historia: Es el conocimiento del pasado, que nos ayudan a comprender el presente, y a proyectar el futuro.
+- Demografía: Analiza los datos numéricos acerca de la población, y toma decisiones en base a ellos.
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
