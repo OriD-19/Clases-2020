@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+            "file": "Materias/Lenguaje/Repaso de gramática.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+                "file": "Materias/Lenguaje/Repaso de gramática.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Repaso de gramática.md",
     "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
     "Materias/Religión/Cinco pilares del Islam.md",
     "Materias/Religión/Sitios sagrados del Islam.md",
@@ -114,7 +115,6 @@
     "Materias/OPV/El amor.md",
     "Materias/Religión/Características del Islam.md",
     "Materias/Laboratorio/Primera práctica/Conclusiones.md",
-    "Materias/Laboratorio/Primera práctica/Verificación.md",
-    "Materias/Laboratorio/Primera práctica/Preparación del experimento.md"
+    "Materias/Laboratorio/Primera práctica/Verificación.md"
   ]
 }
