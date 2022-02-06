@@ -1,5 +1,5 @@
 {
-  "renderAll": true,
+  "renderAll": false,
   "cm6RenderAll": false,
   "renderImages": true,
   "renderPDF": true,

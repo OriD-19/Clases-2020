@@ -2,15 +2,22 @@
 tags: Segunda práctica 31/01/2022
 ---
 
-# Experimentación
-<div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 31/01/2022</div>
-<div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 31/01/2022</div>
+# Segunda práctica - cinética química y velocidad de reacción
+<div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 06/02/2022</div>
+<div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 06/02/2022</div>
 
-## [[Marco Teórico]]
+En esta práctica se realizaron múltiples simulaciones con el fin de **comprobar la velocidad de reacción** entre el reactivo A y el reactivo B.
 
-## Experimentando con los volumenes de las sustancias (temperatura 25°)
-![[Pasted image 20220131143005.png]]
+## Marco Teórico
+
+Cuando a una reacción química se le añade una cierta cantidad de compuestos, el tiempo de esta puede reducir o aumentar. Esto depende de muchos factores; uno de ellos es la interacción de las **sustancias entre ellas**.
+
+## Experimentación
+
+### Experimentando con los volumenes de las sustancias (temperatura 25°)
+![[Pasted_image_20220131143005.png]]
 ![[Pasted image 20220131143119.png]]
+
 | Temperatura | Volumen A | Volumen B | Tiempo |
 | ----------- | --------- | --------- | ------ |
 | 25°         | 10 ml     | 10 ml     | 60 s   |
@@ -27,7 +34,7 @@ tags: Segunda práctica 31/01/2022
 | 25°         | 10 ml     | 25 ml     | 56 s   |
 | 25°         | 10 ml     | 30 ml     | 60 s   | 
 
-## Segunda parte del experimento (temperatura 35°)
+### Segunda parte del experimento (temperatura 35°)
 
 
 ![[Pasted image 20220131141530.png]]
