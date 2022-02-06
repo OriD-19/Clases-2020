@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02-04.md",
+            "file": "Materias/Física/Movimiento en plano inclinado.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-04.md",
+                "file": "Materias/Física/Movimiento en plano inclinado.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,10 +101,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.3999938964844
+    "width": 289.3999938964844,
+    "collapsed": true
   },
   "active": "277d51e18812bc40",
   "lastOpenFiles": [
+    "Materias/Física/Movimiento en plano inclinado.md",
     "2022-02-04.md",
     "Materias/Religión/Cinco pilares del Islam.md",
     "Materias/Religión/Características del Islam.md",
@@ -113,7 +115,6 @@
     "Materias/Religión/Sitios sagrados del Islam.md",
     "Materias/Inglés/Vocabulary Unit 1.md",
     "Materias/OPV/El noviazgo.md",
-    "Materias/OPV/El amor.md",
-    "Materias/Laboratorio/Primera práctica/Conclusiones.md"
+    "Materias/OPV/El amor.md"
   ]
 }
