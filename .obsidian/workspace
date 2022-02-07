@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Ecuaciones racionales.md",
+            "file": "Materias/Química/Reacción reversible.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Ecuaciones racionales.md",
+                "file": "Materias/Química/Reacción reversible.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "9f2a7d8d3d063b02",
   "lastOpenFiles": [
+    "Materias/Química/Reacción reversible.md",
+    "Materias/Química/Equilibrio químico.md",
     "Materias/Matemáticas/Ecuaciones racionales.md",
     "Materias/Matemáticas/Ecuaciones radicales.md",
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
@@ -113,8 +115,6 @@
     "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
     "img/Pasted image 20220124140254.png",
     "Materias/Matemáticas/MCM de polinomios.md",
-    "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
-    "Materias/Laboratorio/Primera práctica/Conclusiones.md",
-    "Materias/Laboratorio/Primera práctica/Contrastación de sustancias.md"
+    "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md"
   ]
 }
