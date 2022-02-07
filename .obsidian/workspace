@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
-            "mode": "preview",
+            "file": "Materias/Inglés/Future forms.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
+                "file": "Materias/Inglés/Future forms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "9f2a7d8d3d063b02",
   "lastOpenFiles": [
+    "Materias/Inglés/Future forms.md",
+    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
     "img/Pasted image 20220207140414.png",
     "Materias/Química/Equilibrio químico.md",
@@ -113,8 +115,6 @@
     "Materias/Matemáticas/Ecuaciones racionales.md",
     "Materias/Matemáticas/Ecuaciones radicales.md",
     "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
-    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
-    "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
-    "img/Pasted image 20220124140254.png"
+    "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md"
   ]
 }
