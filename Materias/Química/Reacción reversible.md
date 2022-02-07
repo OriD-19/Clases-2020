@@ -12,4 +12,6 @@ La flecha de la reacción apunta hacia ambos lados:
 
 ![[Pasted image 20220207131113.png]]
 
+Estas fórmulas pueden alcanzar el [[Equilibrio químico]].
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
