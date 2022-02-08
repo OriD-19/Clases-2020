@@ -18,6 +18,7 @@ tags: Sociales 02/02/2022
 - Semiología: Es la disciplina que estudia los **signos ligados en la comunicación**.
 - Geografía: La *actividad humana* en un lugar determinado.
 - Arqueología: Estudia los *vestigios físicos* de la civilizaciones humanas.
+- Ciencias de la comunicación: Es la disciplina que estudia *la modernización de la transmisión* de ideas. Véase la tecnología, los medios.
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
