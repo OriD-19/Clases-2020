@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Inglés/Future forms.md",
+            "file": "Materias/Lenguaje/Culturas precolombinas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/Future forms.md",
+                "file": "Materias/Lenguaje/Culturas precolombinas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "9f2a7d8d3d063b02",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Culturas precolombinas.md",
     "Materias/Inglés/Future forms.md",
     "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
@@ -114,7 +115,6 @@
     "Materias/Química/Reacción reversible.md",
     "Materias/Matemáticas/Ecuaciones racionales.md",
     "Materias/Matemáticas/Ecuaciones radicales.md",
-    "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
-    "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md"
+    "Materias/Matemáticas/Ecuaciones bicuadráticas.md"
   ]
 }
