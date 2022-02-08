@@ -15,7 +15,9 @@ tags: Sociales 02/02/2022
 - Derecho (abogacía): Estudia qué normas de convivencia se van a poner en cada sociedad **de acuerdo a su cultura**. Las leyes son *cambiantes, al igual que la sociedad*.
 
 - Antropología: Es la disciplina que estudia la **cultura humana**.
-- Semiología: Es la disciplina que estudia los **símbolos ligados en la comunicación**.
+- Semiología: Es la disciplina que estudia los **signos ligados en la comunicación**.
+- Geografía: La *actividad humana* en un lugar determinado.
+- Arqueología: Estudia los *vestigios físicos* de la civilizaciones humanas.
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
