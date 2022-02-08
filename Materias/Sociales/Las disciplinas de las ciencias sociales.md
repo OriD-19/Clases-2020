@@ -23,5 +23,7 @@ tags: Sociales 02/02/2022
 - Ética: Un comportamiento determinado en un ámbito de la vida. **Es lo que se espera** de una persona (su manera de actuar) en una situación determinada.
 - Moral: La distinción de lo bueno y lo malo.
 
+**Analizar situaciones y describir qué ciencias sociales pueden estudiarlas.**
+
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
