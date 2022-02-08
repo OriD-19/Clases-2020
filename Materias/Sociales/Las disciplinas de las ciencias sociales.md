@@ -19,6 +19,9 @@ tags: Sociales 02/02/2022
 - Geografía: La *actividad humana* en un lugar determinado.
 - Arqueología: Estudia los *vestigios físicos* de la civilizaciones humanas.
 - Ciencias de la comunicación: Es la disciplina que estudia *la modernización de la transmisión* de ideas. Véase la tecnología, los medios.
+- Etnología: Estudia las etnias que coexisten en cada territorio del mundo.
+- Ética: Un comportamiento determinado en un ámbito de la vida. **Es lo que se espera** de una persona (su manera de actuar) en una situación determinada.
+- Moral: La distinción de lo bueno y lo malo.
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
