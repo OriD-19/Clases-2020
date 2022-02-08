@@ -7,8 +7,12 @@
         "id": "9f2a7d8d3d063b02",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "9f2a7d8d3d063b02",
   "lastOpenFiles": [
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+    "Materias/Física/Movimiento en plano inclinado.md",
+    "Materias/Física/Problemas/Problema 1.md",
     "Materias/Lenguaje/Culturas precolombinas.md",
     "Materias/Inglés/Future forms.md",
     "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
     "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
     "img/Pasted image 20220207140414.png",
     "Materias/Química/Equilibrio químico.md",
-    "Materias/Química/Reacción reversible.md",
-    "Materias/Matemáticas/Ecuaciones racionales.md",
-    "Materias/Matemáticas/Ecuaciones radicales.md",
-    "Materias/Matemáticas/Ecuaciones bicuadráticas.md"
+    "Materias/Química/Reacción reversible.md"
   ]
 }
