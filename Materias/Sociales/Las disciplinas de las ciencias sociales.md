@@ -13,7 +13,6 @@ tags: Sociales 02/02/2022
 - Demografía: Analiza los datos numéricos acerca de la población, y toma decisiones en base a ellos.
 - Pedagogía: Estudia la transmisión del conocimiento.
 - Derecho (abogacía): Estudia qué normas de convivencia se van a poner en cada sociedad **de acuerdo a su cultura**. Las leyes son *cambiantes, al igual que la sociedad*.
-
 - Antropología: Es la disciplina que estudia la **cultura humana**.
 - Semiología: Es la disciplina que estudia los **signos ligados en la comunicación**.
 - Geografía: La *actividad humana* en un lugar determinado.
