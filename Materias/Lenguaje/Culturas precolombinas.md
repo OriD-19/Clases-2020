@@ -23,4 +23,8 @@ Todos estos aspectos han evolucionado en la cultura latinoamericana de hoy en d√
 
 Un aspecto importante de la cultura precolombina es su **recurrencia**, es decir, es un tema relevante en todo momento de la historia en la literatura latinoamericana.
 
+#### La parte literaria
+
+
+
 <span style="opacity: 0.7; font-style: italic;">P√°gina principal de la materia:</span> [['LENGUAJE]]

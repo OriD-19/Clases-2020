@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
+            "file": "Materias/Lenguaje/Culturas precolombinas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
+                "file": "Materias/Lenguaje/Culturas precolombinas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "95a351aa6e7469e5",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Culturas precolombinas.md",
+    "Materias/Lenguaje/Época clásica precolombina.md",
+    "Materias/Lenguaje/Repaso de gramática.md",
+    "Materias/Lenguaje/Análisis sintáctico.md",
     "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
     "Materias/Matemáticas/La recta.md",
     "Materias/Matemáticas/Untitled.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificando las variables.md",
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Criminalidad y pena de muerte en El Salvador del siglo XX.md",
-    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
-    "Materias/Física/Movimiento en plano inclinado.md"
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md"
   ]
 }
