@@ -2,7 +2,7 @@
 
 Para realizar la investigación, el investigador en cuestión pudo haberse planteado las siguientes problemáticas:
 
-## ¿Qué efectos tuvo la pena de muerte en El Salvador?
+## ¿Cómo se penalizaba la criminalidad en El Salvador?
 
 Esta pregunta va dirigida directamente a los **motivos de la legalización de la pena de muerte**, siendo esta planteada como una posible solución a un problema mayor, relevante en aquel momento.
 
