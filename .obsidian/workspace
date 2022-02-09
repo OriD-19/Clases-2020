@@ -6,6 +6,7 @@
       {
         "id": "9f2a7d8d3d063b02",
         "type": "leaf",
+        "dimension": 61.21372031662269,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "95a351aa6e7469e5",
         "type": "leaf",
+        "dimension": 38.78627968337731,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
+                "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,10 +118,10 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "95a351aa6e7469e5",
+  "active": "9f2a7d8d3d063b02",
   "lastOpenFiles": [
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Identificando las variables.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Criminalidad y pena de muerte en El Salvador del siglo XX.md",

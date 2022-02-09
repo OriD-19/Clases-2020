@@ -2,6 +2,10 @@
 
 Para realizar la investigación, el investigador en cuestión pudo haberse planteado las siguientes problemáticas:
 
+## ¿Cómo funcionaba el sistema punitivo en El Salvador?
+
+Esta pregunta es tratada en los primeros capítulos del informe, y es la base para comprender el por qué de una pena capital y los motivos que impulsaron su uso durante el siglo XX.
+
 ## ¿Cómo se penalizaba la criminalidad en El Salvador?
 
 Esta pregunta va dirigida directamente a los **motivos de la legalización de la pena de muerte**, siendo esta planteada como una posible solución a un problema mayor, relevante en aquel momento.
