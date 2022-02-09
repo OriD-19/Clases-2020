@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+            "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "95a351aa6e7469e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+                "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +118,15 @@
   },
   "active": "9f2a7d8d3d063b02",
   "lastOpenFiles": [
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificando las variables.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Criminalidad y pena de muerte en El Salvador del siglo XX.md",
     "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
     "Materias/Física/Movimiento en plano inclinado.md",
     "Materias/Física/Problemas/Problema 1.md",
     "Materias/Lenguaje/Culturas precolombinas.md",
-    "Materias/Inglés/Future forms.md",
-    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
-    "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
-    "img/Pasted image 20220207140414.png",
-    "Materias/Química/Equilibrio químico.md",
-    "Materias/Química/Reacción reversible.md"
+    "Materias/Inglés/Future forms.md"
   ]
 }
