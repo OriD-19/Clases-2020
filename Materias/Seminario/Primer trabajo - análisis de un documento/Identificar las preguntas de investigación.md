@@ -10,6 +10,10 @@ Esta pregunta va dirigida directamente a los **motivos de la legalización de la
 
 La anterior pregunta nos ayudaría a comprender *el proceso de aprobación de ciertas leyes*, y la historia del código penal en El Salvador.
 
+## ¿Qué funciones cumplía la pena de muerte en El Salvador?
+
+Conocer la perspectiva social de al pena de muerte ayudará a conocer *qué problemas se buscaba solucionar* mediante su implementanción en el sistema penitenciario de nuestro país.
+
 ## ¿A quiénes se les condenaba a la pena de muerte?
 
 Este debate moral también es una situación muy interesante, sobre todo, por las *fuertes raíces cristianas* que poseen muchas personas en nuestro país. Es un debate muy recurrente en diferentes partes del mundo.
