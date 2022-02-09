@@ -6,7 +6,7 @@ tags: Matemáticas 09/02/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 09/02/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 09/02/2022</div>
 
-La línea recta es uno de los objetos más estudiados en el campo de la geometría analítica. 
+La línea recta es uno de los objetos más estudiados en el campo de la geometría analítica. La recta **siempre viene definida** por dos o más [[Distancia entre dos puntos y punto medio|puntos]] en el plano cartesiano.
 Posee los siguientes elementos:
 
 ## La pendiente
