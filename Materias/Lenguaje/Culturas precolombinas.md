@@ -25,6 +25,15 @@ Un aspecto importante de la cultura precolombina es su **recurrencia**, es decir
 
 #### La parte literaria
 
+La temática precolombina es abordada en multitud de ejemplos en la literatura latinoamericana.
+Los temas tratados tienen que ver, usualmente, con dos temas: 
 
+- Crítica social acerca de la llegada de los españoles y la colonización
+- Comentario cultural de las raíces precolombinas.
+
+Algunos ejemplos de esta literatura son:
+- *El naranjo*, de Carlos Fuentes. Trata la conquista y el tema del **sincretismo** de las culturas precolombinas y la europea.
+- *Sube a nacer conmigo hermano,* Poema de Pablo Neruda.
+![[Pasted image 20220209180023.png]]
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
