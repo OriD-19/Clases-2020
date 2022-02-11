@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3740c1ef76a1a89",
+        "id": "02c7429b2e236be1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Lenguaje/Culturas precolombinas.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Culturas precolombinas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,17 +99,17 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "e3740c1ef76a1a89",
+  "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Religión/Las respuestas a la vida.md",
+    "Materias/Religión/Religión.md",
+    "Materias/Religión/Ciencias ocultas.md",
+    "Materias/Religión/Humanismo.md",
+    "Materias/Religión/Cultura.md",
     "Materias/Lenguaje/Culturas precolombinas.md",
     "Materias/Lenguaje/Época clásica precolombina.md",
     "Materias/Inglés/Present and past forms.md",
     "Materias/Inglés/Evaluations first bimester.md",
-    "Materias/Química/Ecuaciones de velocidad.md",
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
-    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificando las variables.md",
-    "Materias/Lenguaje/Análisis sintáctico.md"
+    "Materias/Química/Ecuaciones de velocidad.md"
   ]
 }
