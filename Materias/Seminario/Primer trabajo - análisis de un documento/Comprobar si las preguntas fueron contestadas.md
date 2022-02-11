@@ -11,6 +11,8 @@ Finalmente, se trata el tema de la **vulnerabilidad del sistema penitenciario** 
 
 Sobre el sistema punitivo, se exponen diversos puntos que evidencian la *vulnerabilidad del mismo*, como un pobre suministro de recursos (tanto monetarios como de otra índole), un manejo muy anticuado de la cantidad de reos (las penitenciarías desbordaban de personas), etc.
 
+Otro concepto interesante mencionado en el segundo capítulo del informe, es el de **estado criminalizador**. Con la llegada al poder del presidente *Maximiliano Hernández Martínez,* el estado se convirtió en el juez supremo a nivel nacional, el cual ya no consideraba a sus ciudadanos objetos de protección, sino **posibles amenazas**.
+
 La conclusión que se obtiene se resume en:
 
 > El Salvador quiso implementar un sistema punitivo moderno a pesar de la falta de recursos económicos y humanos.
@@ -26,3 +28,7 @@ Por ello, debido a la falta de recursos económicos y humanos que se dispusieran
 A raíz de lo anterior, y viendo el gobierno del general Maximiliano Hernández Martínez que la criminalidad crecía cada día, **la solución más radical fue tomada**, retomando así la pena capital como una condena recurrente en la sociedad salvadoreña. 
 
 Diarios como *La Prensa*, como se menciona en el informe, presentaron *multitud de noticias a partir del año 1927* sobre la tremenda ola de criminalidad que se vivía en el país. La pena capital, pues, **cumple una función de orden para la sociedad**, una sociedad caótica y muy desorganizada. Si bien es debatible si la pena de muerte fue una razón de peso para reducir la criminalidad en el país o sí, por el contario, fueron todas las medidas represivas del autoritarismo militar las responsables de esto, lo cierto es que la **pena capital, en sí misma, es una manera de amedrentar y de infundir miedo** en aquel que comete un crímen.
+
+---
+
+Contenstando a otra de las preguntas, *¿a quiénes se les condenaba a la pena de muerte?*, tenemos que el informe nos presenta, en el apartado **2.3**, el proceso mediante el cual un criminal era condenado a la pena capital. En la **Revista Judicial**, documento publicado por la *Corte Suprema de Justicia*,  se exponen numerosos casos de personas condenadas a la pena de muerte durante el período anteriormente mencionado.
