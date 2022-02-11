@@ -7,8 +7,12 @@
         "id": "95a351aa6e7469e5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Lenguaje/Culturas precolombinas.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Lenguaje/Culturas precolombinas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
   },
   "active": "95a351aa6e7469e5",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Culturas precolombinas.md",
     "Materias/Sociales/René Descártes.md",
     "Materias/Sociales/La historia del pensamiento científico.md",
     "Materias/Sociales/Martín Lutero.md",
@@ -109,7 +115,6 @@
     "Materias/Sociales/Diógenes.md",
     "Materias/Sociales/Platón.md",
     "Materias/Sociales/Aristóteles.md",
-    "Materias/Química/Ecuaciones de velocidad.md",
-    "Materias/Química/Velocidad de reacción.md"
+    "Materias/Química/Ecuaciones de velocidad.md"
   ]
 }

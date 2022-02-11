@@ -36,4 +36,6 @@ Algunos ejemplos de esta literatura son:
 - *Sube a nacer conmigo hermano,* Poema de Pablo Neruda.
 ![[Pasted image 20220209180023.png]]
 
+**Los títulos no llevan punto y final**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
