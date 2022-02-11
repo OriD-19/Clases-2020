@@ -33,9 +33,23 @@ Los temas tratados tienen que ver, usualmente, con dos temas:
 
 Algunos ejemplos de esta literatura son:
 - *El naranjo*, de Carlos Fuentes. Trata la conquista y el tema del **sincretismo** de las culturas precolombinas y la europea.
+
 - *Sube a nacer conmigo hermano,* Poema de Pablo Neruda.
 ![[Pasted image 20220209180023.png]]
 
 **Los títulos no llevan punto y final**.
+
+Este poema evidencia una **serie de acciones** que Pablo Neruda intenta recrear sobre la *cultura precolombina de la zona de los andes (andinos)*.
+
+Los pueblos, en antaño, **tendían a la agricultura**. Asimismo, otras actividades evidencian la realidad de la cultura precolombina, y de los pueblos antiguos.
+
+Una de las ideas principales es el *contraste entre el olvido y el recuerdo*. La parte en la que se menciona:
+> No volverás del tiempo subterráneo.
+
+Se contrasta con otro verso, que prosigue en la siguiente estrofa:
+
+> Yo vengo a hablar por vosotros.
+
+Estas dos ideas demuestran que el *yo lírico* del poema **se siente identificado con la penurias que sufrieron estos pueblos**.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
