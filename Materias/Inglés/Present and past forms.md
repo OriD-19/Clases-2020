@@ -16,4 +16,17 @@ tags: Inglés 10/02/2022
 
 5. Letter J, because we can add a future action after the class eventually starts.
 
+## Exercise 11
+
+1. was targeting
+2. looked
+3. broke (had broken)
+4. had already helped
+5. had missed
+6. had been anticipating
+7. was
+8. had even reached
+9. struggles
+10. has never prevented
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
