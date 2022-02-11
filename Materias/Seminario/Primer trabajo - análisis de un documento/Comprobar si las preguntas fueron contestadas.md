@@ -15,3 +15,14 @@ La conclusión que se obtiene se resume en:
 
 > El Salvador quiso implementar un sistema punitivo moderno a pesar de la falta de recursos económicos y humanos.
 
+
+## La pena de muerte en El Salvador
+
+Si bien no se explica realmente **cómo fue aprobada en su origen la pena de muerte,** el informe *sí presenta múltiples razones y motivos* por los cuales el sistema judicial veía con buenos ojos la pena capital.
+
+Primero que nada, la delincuencia en el país a partir de la década de 1920, comienza a aumentar increíblemente. **¿Por qué?** Gran parte de la respuesta a la anterior pregunta la encontramos en el capítulo anterior: *las cárceles, además de estar abarrotadas, ahora eran mal vistas* como una especie de epicentro de la criminalidad en todo el país.
+Por ello, debido a la falta de recursos económicos y humanos que se dispusieran a trabajar para mejorar la situación de las penitenciarías, la criminalidad en el país aumentó.
+
+A raíz de lo anterior, y viendo el gobierno del general Maximiliano Hernández Martínez que la criminalidad crecía cada día, **la solución más radical fue tomada**, retomando así la pena capital como una condena recurrente en la sociedad salvadoreña. 
+
+Diarios como *La Prensa*, como se menciona en el informe, presentaron *multitud de noticias a partir del año 1927* sobre la tremenda ola de criminalidad que se vivía en el país. La pena capital, pues, **cumple una función de orden para la sociedad**, una sociedad caótica y muy desorganizada. Si bien es debatible si la pena de muerte fue una razón de peso para reducir la criminalidad en el país o sí, por el contario, fueron todas las medidas represivas del autoritarismo militar las responsables de esto, lo cierto es que la **pena capital, en sí misma, es una manera de amedrentar y de infundir miedo** en aquel que comete un crímen.

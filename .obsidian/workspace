@@ -6,10 +6,24 @@
       {
         "id": "95a351aa6e7469e5",
         "type": "leaf",
+        "dimension": 62.620932277924354,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Culturas precolombinas.md",
+            "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8dcf2d42876e5177",
+        "type": "leaf",
+        "dimension": 37.37906772207564,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Culturas precolombinas.md",
+                "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +120,15 @@
   },
   "active": "95a351aa6e7469e5",
   "lastOpenFiles": [
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificando las variables.md",
+    "Materias/Lenguaje/Análisis sintáctico.md",
+    "Evaluaciones.md",
+    "Materias/Lenguaje/Análisis de texto.md",
     "Materias/Lenguaje/Culturas precolombinas.md",
     "Materias/Sociales/René Descártes.md",
-    "Materias/Sociales/La historia del pensamiento científico.md",
-    "Materias/Sociales/Martín Lutero.md",
-    "Materias/Sociales/Alejandro Magno.md",
-    "Materias/Sociales/Los macabeos.md",
-    "Materias/Sociales/Diógenes.md",
-    "Materias/Sociales/Platón.md",
-    "Materias/Sociales/Aristóteles.md",
-    "Materias/Química/Ecuaciones de velocidad.md"
+    "Materias/Sociales/La historia del pensamiento científico.md"
   ]
 }
