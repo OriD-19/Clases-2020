@@ -6,24 +6,10 @@
       {
         "id": "95a351aa6e7469e5",
         "type": "leaf",
-        "dimension": 62.62093227792436,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8dcf2d42876e5177",
-        "type": "leaf",
-        "dimension": 37.37906772207564,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
+            "file": "Materias/Química/Ecuaciones de velocidad.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
+                "file": "Materias/Química/Ecuaciones de velocidad.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,6 +106,7 @@
   },
   "active": "95a351aa6e7469e5",
   "lastOpenFiles": [
+    "Materias/Química/Ecuaciones de velocidad.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Comprobar si las preguntas fueron contestadas.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
@@ -128,7 +115,6 @@
     "Evaluaciones.md",
     "Materias/Lenguaje/Análisis de texto.md",
     "Materias/Lenguaje/Culturas precolombinas.md",
-    "Materias/Sociales/René Descártes.md",
-    "Materias/Sociales/La historia del pensamiento científico.md"
+    "Materias/Sociales/René Descártes.md"
   ]
 }

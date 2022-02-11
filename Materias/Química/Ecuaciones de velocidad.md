@@ -78,4 +78,43 @@ $$\LARGE K_c = \frac{\frac{[productos]}{v} * \frac{[productos]}{v}}{\frac{[react
 
 $$\LARGE K_c = \frac{\frac{[0.558]}{v} * \frac{[0.558]}{v}}{\frac{[0.442]}{v} * \frac{[0.442]}{v}}$$
 
+## Ejercicio: Santillana 170, #19
+
+Utilizando la fórmula de la concentración molar que es $\large M = \frac{moles\space de\space soluto}{Litros\space de\space solución}$ y la ley de acción de masas.
+
+Tenemos **10 litros de agua (solución)**, y **4 moles de nitrógeno y 12 moles de hidrógeno.**
+
+Operando los datos anteriores, tenemos:
+
+- Para el nitrógeno:
+$$\large M_N = \frac{4\space moles\space de\space N_2}{10\space Litros\space de\space agua} = 0.4 M$$
+
+- Para el hidrógeno:
+$$\large M_N = \frac{12\space moles\space de\space N_2}{10\space Litros\space de\space agua} = 0.4 M$$
+
+### Construir la tabla para los datos
+
+Ahora, sólo quedaría construir la tabla para organizar los datos. Esto se logra de la siguiente manera:
+
+|            | $\large N_2$ | $\large 3H_2$ | $\large \rightarrow$ | $2NH_3$ |
+| ---------- | ------------ | ------------- | -------------------- | ------- |
+| Inicial    | 0.4          | 1.2           |                      | 0       |
+| Reacciona  | 0.2          | 0.6           |                      | 0.8     | 
+| Equilibrio | 0.2          | 0.6           |                      | 0.8     |
+
+*Los valores iniciales de los reactantes vienen dados de las fórmulas que calculamos previamente*.
+
+Según la tabla, **cuatro compuestos trabajan para resultar en dos (2 moléculas de amoníaco)**. Para balancear químicamente, pues, debemos cambiar **los valores que reaccionan en función de la cantidad de resultantes**.
+
+Por ejemplo, en este caso, el 0.8 corresponde a $4x$, donde $x$ corresponde al valor del aporte cada molécula, y el 4 la cantidad de moléculas que participan. Debido a lo anterior, debemos calcular, *¿Qué valor de x satisface que el resultado sea 0.8?*, y luego de saber el valor $x$, debemos calcular la cantidad que aporta cada reactante.
+
+Por ello, la fórmula que tenemos sería:
+
+$$\Large x + 3x$$
+*Cada x representa la cantidad de Moles que aportan las moléculas de los reactantes.*
+
+Por ello, finalmente, (como el producto presenta 2 moléculas) podemos decir que las moléculas del producto aportan 1.6 (0.8x2) moles a la reacción.
+
+Sin embargo, lo que nos interesa, es conocer **el medio de la ecuación, el cual coincide con 0.8**. Por lo tanto, hemos completado los valores de la tabla.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
