@@ -25,4 +25,12 @@ Una de sus mayores ambiciones fue descubrir nuevas tierras en el **oriente del m
 
 Posteriormente, quería investigar qué había más allá del océano Atlántico, sin conseguir su objetivo primordial, pero consiguiendo algo mucho más importante: *la propagación de la cultura griega*.
 
+## Legado
+
+Gracias a todo lo anterior, el griego fue un lenguaje universalizado **en toda Europa.**
+
+## Bárbaros
+
+Fueron aquellos grupos de personas que, Alejandro Magno, **criticó por carecer de un sistema político**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

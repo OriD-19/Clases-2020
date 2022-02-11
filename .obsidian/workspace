@@ -7,12 +7,8 @@
         "id": "95a351aa6e7469e5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Química/Ecuaciones de velocidad.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Ecuaciones de velocidad.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +101,15 @@
   },
   "active": "95a351aa6e7469e5",
   "lastOpenFiles": [
-    "Materias/Química/Ecuaciones de velocidad.md",
-    "Materias/Química/Velocidad de reacción.md",
-    "Materias/Química/UNIDAD 6 - Interacciones de la materia.md",
-    "Materias/Química/co.md",
-    "Materias/Inglés/Present and past forms.md",
-    "Materias/Inglés/Future forms.md",
-    "Materias/Inglés/Evaluations first bimester.md",
-    "Materias/Religión/Cultura.md",
+    "Materias/Sociales/René Descártes.md",
+    "Materias/Sociales/La historia del pensamiento científico.md",
+    "Materias/Sociales/Martín Lutero.md",
     "Materias/Sociales/Alejandro Magno.md",
-    "Materias/Sociales/La historia del pensamiento científico.md"
+    "Materias/Sociales/Los macabeos.md",
+    "Materias/Sociales/Diógenes.md",
+    "Materias/Sociales/Platón.md",
+    "Materias/Sociales/Aristóteles.md",
+    "Materias/Química/Ecuaciones de velocidad.md",
+    "Materias/Química/Velocidad de reacción.md"
   ]
 }
