@@ -75,4 +75,25 @@ Se define como **toda manifestación literaria** *PREVIA* a la llegada de los es
 
 ![[Pasted image 20220211153938.png]]
 
+### La tradición oral
+
+Esta característica de la literatura precolombina enfatiza el hecho de la **transmisión oral, también conocida como el boca a boca**. Este es uno de los factores determinantes, y mediante el cual *muchos historiadores ponen en duda la veracidad y la fidelidad de muchos de los relatos* comparados con el relato original.
+
+Esto debido a:
+- El paso del tiempo.
+- La pérdida de la lengua.
+- El sincretismo entre la cultura europea y la precolombina.
+
+### La naturaleza del Popol Vuh
+
+Por ejemplo, el **Popol Vuh** es un ejemplo de la *carencia de estructura y de categorización*, y la masiva recopilación de cuentos, historias, libros, mitos, fábulas, etc. Por ello, libros como el Popol Vuh no pueden ser clasificadas mediante los géneros literarios que conocemos actualmente.
+Esta característica refuerza la *pérdida del conocimiento* que pudo haber ocurrido en el paso de los siglos. 
+
+Estos textos están **llenos de símbolos**.
+
+Otra característica que concierne a este libro es la **pluralidad lingüística que representa**. Según la historia, el *Popol Vuh fue escrito en Maya-Quiché*, pero existieron hasta **22 dialectos de la lengua maya**.
+
+Relacionado con los mayas, también tenemos los [[Códices mayas]].
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
