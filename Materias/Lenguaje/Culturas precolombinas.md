@@ -68,7 +68,7 @@ En este caso, este poema está relacionado con la **cultura azteca**. Este poema
 
 La literatura precolombina, en verdad, es un término poco exacto. Sin embargo, **sí es un término correcto** para referírnos a los *textos orales transmitidos de generación en generación*.
 
-Se define como **toda manifestación literaria** *PREVIA* a la llegada de los españoles; a su descubrimiento y a su conquista.
+Se define como **toda manifestación literaria** *PREVIA* a la llegada de los españoles; a su descubrimiento y a su conquista. Por ello, los ejemplos anteriores **NO SON LITERATURA PRECOLOMBINA**, sino que se trata de una vena temática que retoman los escritores.
 
 
 ### Características de la literatura precolombina
