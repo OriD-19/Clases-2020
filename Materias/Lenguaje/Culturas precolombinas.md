@@ -52,4 +52,27 @@ Se contrasta con otro verso, que prosigue en la siguiente estrofa:
 
 Estas dos ideas demuestran que el *yo lírico* del poema **se siente identificado con la penurias que sufrieron estos pueblos**.
 
+### El título
+
+El título del poema también hace referencia a la cultura inca, pues **estos vivían en las alturas, y en la cordillera de los andes**. Por ello, tiene un sentido *literal*, referente a la cultura, pero también *un sentido figurado*, con dirección hacia la admiración que tenía a sus antepasados y lo identificado que se siente con la cultura precolombina.
+
+## Asociar poemas con la cultura precolombina
+
+**Poema: Los nietos del jaguar**:
+![[Pasted image 20220211153138.png]]
+
+En este caso, este poema está relacionado con la **cultura azteca**. Este poema fue escrito por un salvadoreño, y 
+
+
+## La literatura precolombina, ¿existe?
+
+La literatura precolombina, en verdad, es un término poco exacto. Sin embargo, **sí es un término correcto** para referírnos a los *textos orales transmitidos de generación en generación*.
+
+Se define como **toda manifestación literaria** *PREVIA* a la llegada de los españoles; a su descubrimiento y a su conquista.
+
+
+### Características de la literatura precolombina
+
+![[Pasted image 20220211153938.png]]
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
