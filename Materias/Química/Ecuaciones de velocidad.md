@@ -90,7 +90,7 @@ Operando los datos anteriores, tenemos:
 $$\large M_N = \frac{4\space moles\space de\space N_2}{10\space Litros\space de\space agua} = 0.4 M$$
 
 - Para el hidrógeno:
-$$\large M_N = \frac{12\space moles\space de\space N_2}{10\space Litros\space de\space agua} = 0.4 M$$
+$$\large M_N = \frac{12\space moles\space de\space N_2}{10\space Litros\space de\space agua} = 1.2M$$
 
 ### Construir la tabla para los datos
 
