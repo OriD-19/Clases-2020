@@ -78,6 +78,8 @@ $$\LARGE K_c = \frac{\frac{[productos]}{v} * \frac{[productos]}{v}}{\frac{[react
 
 $$\LARGE K_c = \frac{\frac{[0.558]}{v} * \frac{[0.558]}{v}}{\frac{[0.442]}{v} * \frac{[0.442]}{v}}$$
 
+$$\LARGE K_c = 0.6274$$
+
 ## Ejercicio: Santillana 170, #19
 
 Utilizando la fórmula de la concentración molar que es $\large M = \frac{moles\space de\space soluto}{Litros\space de\space solución}$ y la ley de acción de masas.
