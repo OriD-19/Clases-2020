@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
+            "file": "Materias/Inglés/Reading - Living the dream.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
+                "file": "Materias/Inglés/Reading - Living the dream.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Inglés/Reading - Living the dream.md",
+    "Materias/Inglés/Present and past forms.md",
     "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
     "Materias/Matemáticas/Untitled.md",
     "Materias/Química/Cuarta práctica - Ecuaciones de velocidd.md",
@@ -113,8 +115,6 @@
     "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
     "Materias/Lenguaje/Códices mayas.md",
     "Materias/Lenguaje/Culturas precolombinas.md",
-    "Materias/Lenguaje/Medievo.md",
-    "Materias/Lenguaje/Época clásica precolombina.md",
-    "Materias/Lenguaje/Análisis sintáctico.md"
+    "Materias/Lenguaje/Medievo.md"
   ]
 }
