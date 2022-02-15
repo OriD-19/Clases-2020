@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
+            "file": "Materias/Sociales/Modelos de producción.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
+                "file": "Materias/Sociales/Modelos de producción.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
-    "Materias/Matemáticas/Punto medio entre dos puntos.md",
-    "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
-    "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
-    "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
-    "img/Pasted image 20220207143324.png",
-    "img/Pasted image 20220207143248.png",
-    "img/Pasted image 20220207143239.png",
-    "img/Pasted image 20220207142807.png",
-    "img/Pasted image 20220207142713.png",
-    "img/Pasted image 20220207142630.png"
+    "Materias/Sociales/Modelos de producción.md",
+    "Materias/Sociales/Karl Marx.md",
+    "Materias/Sociales/El nacimiento de la sociología.md",
+    "Materias/Sociales/John Locke.md",
+    "Materias/Sociales/La historia del pensamiento científico.md",
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+    "Materias/Sociales/Augusto Comte.md",
+    "Materias/Sociales/Louis XVI.md",
+    "Materias/Sociales/Burgueses.md",
+    "Materias/Sociales/El siglo de las luces.md"
   ]
 }

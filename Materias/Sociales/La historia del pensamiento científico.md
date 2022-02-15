@@ -45,5 +45,10 @@ No existía la **libertad religiosa** en la época, pues todos los ciudadanos de
 ## Nuevas corrientes de pensamiento
 
 ### [[René Descártes]]
+### [[Francis Bacon]]
+
+## [[El siglo de las luces]]
+
+## [[El nacimiento de la sociología]]
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

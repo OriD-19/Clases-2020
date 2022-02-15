@@ -48,6 +48,14 @@ Significa **ORDENAR las cosas, e ir de lo SIMPLE a lo COMPLEJO**.
 
 Sintetizar *NO ES LO MISMO QUE RESUMIR*. Resumir viene dado de cualquier orden, pero la síntesis tiene que ser de manera *gradual*.
 
+### Intuición
+
+**Cuando partimos desde un conocimiento DADO**. Existen ideas sobre un concepto, partiendo de una idea previa.
+
+### Deducción
+
+**Debido al conocimiento previo que se tiene acerca de un concepto**, tomamos decisiones o formulamos ideas sobre algo que puede ser verdad.
+
 ### Enumerar
 
 **Concluir el trabajo**, enumerando los conceptos aprendido a lo largo de la investigación. Se trata de *resumir y organizar el conocimiento aprendido*.
