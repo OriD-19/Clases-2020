@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
-            "mode": "source",
+            "file": "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
+                "file": "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
-    "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
-    "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
-    "img/Pasted image 20220124141504.png",
-    "img/Pasted image 20220124141231.png",
-    "img/Pasted image 20220124140710.png",
-    "img/Pasted image 20220124140653.png",
-    "img/Pasted image 20220124140639.png",
-    "img/Pasted image 20220124140623.png",
-    "img/Pasted image 20220124140608.png",
-    "img/Pasted image 20220124140547.png"
+    "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
+    "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
+    "img/Pasted image 20220207143324.png",
+    "img/Pasted image 20220207143248.png",
+    "img/Pasted image 20220207143239.png",
+    "img/Pasted image 20220207142807.png",
+    "img/Pasted image 20220207142713.png",
+    "img/Pasted image 20220207142630.png",
+    "img/Pasted image 20220207142507.png",
+    "img/Pasted image 20220207142436.png"
   ]
 }
