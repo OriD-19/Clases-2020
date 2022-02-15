@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
-            "mode": "preview",
+            "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
+                "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Punto medio entre dos puntos.md",
+    "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
     "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
     "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
     "img/Pasted image 20220207143324.png",
@@ -113,8 +115,6 @@
     "img/Pasted image 20220207143239.png",
     "img/Pasted image 20220207142807.png",
     "img/Pasted image 20220207142713.png",
-    "img/Pasted image 20220207142630.png",
-    "img/Pasted image 20220207142507.png",
-    "img/Pasted image 20220207142436.png"
+    "img/Pasted image 20220207142630.png"
   ]
 }

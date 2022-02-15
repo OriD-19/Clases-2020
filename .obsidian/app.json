@@ -8,7 +8,7 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "promptDelete": false,
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "current",
   "spellcheck": false,
   "foldHeading": true,
