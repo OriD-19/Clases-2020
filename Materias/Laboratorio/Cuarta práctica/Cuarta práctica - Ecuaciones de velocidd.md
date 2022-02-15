@@ -33,7 +33,7 @@ Utilizando las concentraciones $\large SCN$ = 2 ml y $\large Fe$ = 3 ml
 |            | $\Large SCN$ | $\Large Fe^{3+}$ | $\rightarrow$ | $\Large FeSCN^{2+}$ |
 | ---------- | ------------ | ---------------- | ------------- | ------------------- |
 | Inicio     | 0.02M        | 0.03M            |               | 0                   |
-| Reaccionan | 0.008        | 0.008            |               | 0.0185M             |
+| Reaccionan | 0.008        | 0.008            |               | 0.016M             |
 | Equilibrio | 0.012        | 0.022            |               | 0.016M              |
 
 Ahora, calculamos el coeficiente:
@@ -47,21 +47,21 @@ $$\Large K_c = 60.61$$
 
 ## Ejercicio 3
 
-Utilizando las concentraciones $\large SCN$ = 2 ml y $\large Fe$ = 3 ml
+Utilizando las concentraciones $\large SCN$ = 1 ml y $\large Fe$ = 4 ml
 
 |            | $\Large SCN$ | $\Large Fe^{3+}$ | $\rightarrow$ | $\Large FeSCN^{2+}$ |
 | ---------- | ------------ | ---------------- | ------------- | ------------------- |
-| Inicio     | 0.02M        | 0.03M            |               | 0                   |
-| Reaccionan | 0.008        | 0.008            |               | 0.0185M             |
-| Equilibrio | 0.012        | 0.022            |               | 0.016M              |
+| Inicio     | 0.01M        | 0.04M            |               | 0                   |
+| Reaccionan | 0.0045       | 0.0045           |               | 0.009M              | 
+| Equilibrio | 0.0055       | 0.0355           |               | 0.009M              |
 
 Ahora, calculamos el coeficiente:
 
 $$\LARGE K_c = \frac{\frac{[productos]}{v} * \frac{[productos]}{v}}{\frac{[reactantes]}{v} * \frac{[reactantes]}{v}}$$
 
-$$\LARGE K_c = \frac{[0.016]}{[0.012] * [0.022]}$$
+$$\LARGE K_c = \frac{[0.009]}{[0.0055] * [0.0355]}$$
 
-$$\Large K_c = 60.61$$
+$$\Large K_c = 46.1$$
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]

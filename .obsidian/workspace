@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Códices mayas.md",
+            "file": "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "9fbb3b85881c1caf",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "img/Pasted image 20220124140254.png"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Códices mayas.md",
+                "file": "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +116,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
+    "img/Pasted image 20220124140254.png",
+    "img/Pasted image 20220124135952.png",
+    "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
+    "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
     "Materias/Lenguaje/Códices mayas.md",
     "Materias/Inglés/Reading - Living the dream.md",
     "Materias/Inglés/Present and past forms.md",
     "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
-    "Materias/Matemáticas/Untitled.md",
-    "Materias/Química/Cuarta práctica - Ecuaciones de velocidd.md",
-    "Materias/Química/Ecuaciones de velocidad.md",
-    "Materias/Laboratorio/Tercera práctica/Tercera Práctica - Balanceo de ecuaciones..md",
-    "Materias/Lenguaje/Culturas precolombinas.md",
-    "Materias/Lenguaje/Medievo.md"
+    "Materias/Matemáticas/Untitled.md"
   ]
 }
