@@ -9,19 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
-            "mode": "source",
+            "file": "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
+            "mode": "preview",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "9fbb3b85881c1caf",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "img/Pasted image 20220124140254.png"
           }
         }
       }
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
+                "file": "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
     "Materias/Laboratorio/Primera práctica/Primera práctica - Reacciones químicas.md",
-    "img/Pasted image 20220124140254.png",
-    "img/Pasted image 20220124135952.png",
-    "Materias/Laboratorio/Primera práctica/Ecuaciones.md",
-    "Materias/Laboratorio/Cuarta práctica/Cuarta práctica - Ecuaciones de velocidd.md",
-    "Materias/Lenguaje/Códices mayas.md",
-    "Materias/Inglés/Reading - Living the dream.md",
-    "Materias/Inglés/Present and past forms.md",
-    "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
-    "Materias/Matemáticas/Untitled.md"
+    "img/Pasted image 20220124141504.png",
+    "img/Pasted image 20220124141231.png",
+    "img/Pasted image 20220124140710.png",
+    "img/Pasted image 20220124140653.png",
+    "img/Pasted image 20220124140639.png",
+    "img/Pasted image 20220124140623.png",
+    "img/Pasted image 20220124140608.png",
+    "img/Pasted image 20220124140547.png"
   ]
 }

@@ -112,8 +112,8 @@ Para comparar los resultados, analizamos la naturaleza de cada sustancia, y el r
 ## Conclusiones
 
 Después de analizar todas las sustancias, podemos concluir lo siguiente:
-
 ![[Pasted image 20220124142909.png|#small]]
+
 
 1. **Los metales y el oxígeno**:
 
