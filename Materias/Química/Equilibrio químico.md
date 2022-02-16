@@ -35,7 +35,6 @@ Otro de los puntos importantes es *la naturaleza de la reacción*.
 - Si la reacción es [[Reacción Exotérmica|exotérmica]], esto significa que la reacción **producirá** calor, por lo que tendremos que tenerlo en cuenta a la hora de balancear una reacción.
 - Por otro lado, si la reacción es [[Reacciones endotérmicas|endotérmica]], **necesitará calor** para llevarse a cabo. Esto, nuevamente, debe ser tomado en cuenta a la hora de alcanzar el equilibrio.
 
-
 ---
 
 El otro factor, la **presión**, afecta directamente a los *enlaces que se producen en la reacción*. A mayor presión, menor serán los enlaces, pues se romperan.
