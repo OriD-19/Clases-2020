@@ -7,9 +7,11 @@
         "id": "02c7429b2e236be1",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MicrosoftTeams-image (4).png"
+            "file": "Materias/Religión/Las dimensiones del ser humano.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicrosoftTeams-image (4).png",
+                "file": "Materias/Religión/Las dimensiones del ser humano.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Religión/Las dimensiones del ser humano.md",
+    "Materias/Religión/Religión.md",
+    "Materias/Religión/Las respuestas a la vida.md",
+    "Materias/Religión/Humanismo.md",
+    "Materias/Religión/Cultura.md",
+    "Materias/Religión/Ciencias ocultas.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
+    "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
     "MicrosoftTeams-image (4).png",
-    "Materias/Física/Trabajo, energía y potencia.md",
-    "Materias/Física/Resolución de problemas.md",
-    "Materias/Física/Problemas/Problema 1.md",
-    "Materias/Física/Movimiento en plano inclinado.md",
-    "Materias/Química/Equilibrio químico.md",
-    "Materias/Química/Ecuaciones de velocidad.md",
-    "Materias/Química/Elementos inorgánicos.md",
-    "Materias/Matemáticas/Punto medio entre dos puntos.md",
-    "Materias/Sociales/Modelos de producción.md"
+    "Materias/Física/Trabajo, energía y potencia.md"
   ]
 }
