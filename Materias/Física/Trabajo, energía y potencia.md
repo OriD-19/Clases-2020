@@ -21,6 +21,6 @@ Sin embargo, si el objeto no recorre distancia alguna, significa que **no existe
 
 Este último requisito se refiere a la **efectividad de la fuerza que se está aplicando, y verificar que, en efecto, la fuerza que nosotros ejercemos es la responsable del movimiento**.
 
-
+> El trabajo es una magnitud escalar, y no vectorial.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
