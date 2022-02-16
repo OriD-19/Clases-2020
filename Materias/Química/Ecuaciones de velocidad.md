@@ -32,7 +32,7 @@ Después de señalar la cantidad de concentraciones en cada enunciado, **constru
 | Reacciona  | 0.558             |     | 0.558               |               | 0.558        |     | 0.558              | 
 | Equilibrio | 0.442             |     | 0.442               |               | 0.558        |     | 0.558              |
 
-En esta tabla, debemos anotar cada concentración **antes y después de la reacción**. Estos datos vienen dados usualmente en el enunciado. En caso de que un compuesto no posea concentración inicial, *está se intuirá como 0*.
+En esta tabla, debemos anotar cada concentración **antes y después de la reacción**. Estos datos vienen dados usualmente en el enunciado. En caso de que un compuesto no posea concentración inicial, *esta se intuirá como 0*.
 
 Para encontrar las casillas de **equilibrio** tenemos que restar la cantidad de moléculas de productos y la cantidad inicial de moléculas de reactantes.
 
