@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Materias/Química/Ecuaciones de velocidad.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -107,14 +107,14 @@
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
     "Materias/Química/Ecuaciones de velocidad.md",
+    "Materias/Química/Elementos inorgánicos.md",
+    "Materias/Química/Equilibrio químico.md",
     "Materias/Matemáticas/Punto medio entre dos puntos.md",
     "Materias/Física/Trabajo, energía y potencia.md",
     "Materias/Sociales/Modelos de producción.md",
     "Materias/Sociales/Karl Marx.md",
     "Materias/Sociales/El nacimiento de la sociología.md",
     "Materias/Sociales/John Locke.md",
-    "Materias/Sociales/La historia del pensamiento científico.md",
-    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
-    "Materias/Sociales/Augusto Comte.md"
+    "Materias/Sociales/La historia del pensamiento científico.md"
   ]
 }
