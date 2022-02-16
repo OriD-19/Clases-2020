@@ -46,4 +46,14 @@ $$\large M(x,y) = (\frac{6}{2}, -\frac{3}{2})$$
 
 $$\large \large M(x,y) = (3, -\frac{3}{2})$$
 
+## Ejemplo 3
+
+> El vértice A de un triángulo ABC tiene coordenadas (-2,4). Si los puntos medios de los lados AB y BC son (-3,1) y (1,0) respectivamente, ¿cuáles son las coordenadas de los vértices B y C?
+
+### Planteamiento
+
+El problema brinda **un vértice y dos puntos medios**. 
+Primero, tenemos que determinar *¿a cuál de los vértices corresponde cada punto medio?*
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]

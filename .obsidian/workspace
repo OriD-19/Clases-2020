@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Religión/Las dimensiones del ser humano.md",
+            "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Religión/Las dimensiones del ser humano.md",
+                "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Punto medio entre dos puntos.md",
     "Materias/Religión/Las dimensiones del ser humano.md",
     "Materias/Religión/Religión.md",
     "Materias/Religión/Las respuestas a la vida.md",
@@ -114,7 +115,6 @@
     "Materias/Religión/Ciencias ocultas.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Relacionar los objetivos con las preguntas planteadas.md",
     "Materias/Seminario/Primer trabajo - análisis de un documento/Identificar las preguntas de investigación.md",
-    "MicrosoftTeams-image (4).png",
-    "Materias/Física/Trabajo, energía y potencia.md"
+    "MicrosoftTeams-image (4).png"
   ]
 }
