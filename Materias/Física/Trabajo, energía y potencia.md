@@ -21,6 +21,16 @@ Sin embargo, si el objeto no recorre distancia alguna, significa que **no existe
 
 Este último requisito se refiere a la **efectividad de la fuerza que se está aplicando, y verificar que, en efecto, la fuerza que nosotros ejercemos es la responsable del movimiento**.
 
-> El trabajo es una magnitud escalar, y no vectorial.
+> Trabajo es una cantidad escalar igual al producto de las magnitudes del desplazamiento y de la componente de la fuerza en la dirección del desplazamiento.
+
+### Fórmula del trabajo
+
+La fórmula para calcular el trabajo es:
+
+$$\Large W = Fx\cos\theta$$
+
+Donde se lee como *"Trabajo es igual a la fuerza por el desplazamiento multiplicado por el coseno del ángulo del desplazamiento"*.
+
+
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]

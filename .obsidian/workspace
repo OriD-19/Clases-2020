@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Equilibrio químico.md",
+            "file": "Materias/Física/Trabajo, energía y potencia.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Equilibrio químico.md",
+                "file": "Materias/Física/Trabajo, energía y potencia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Física/Trabajo, energía y potencia.md",
+    "Materias/Física/Movimiento en plano inclinado.md",
     "Materias/Química/Equilibrio químico.md",
     "Materias/Química/Ecuaciones de velocidad.md",
     "Materias/Química/Elementos inorgánicos.md",
     "Materias/Matemáticas/Punto medio entre dos puntos.md",
-    "Materias/Física/Trabajo, energía y potencia.md",
     "Materias/Sociales/Modelos de producción.md",
     "Materias/Sociales/Karl Marx.md",
     "Materias/Sociales/El nacimiento de la sociología.md",
-    "Materias/Sociales/John Locke.md",
-    "Materias/Sociales/La historia del pensamiento científico.md"
+    "Materias/Sociales/John Locke.md"
   ]
 }
