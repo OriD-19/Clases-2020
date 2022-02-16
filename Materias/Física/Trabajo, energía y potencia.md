@@ -31,6 +31,6 @@ $$\Large W = Fx\cos\theta$$
 
 Donde se lee como *"Trabajo es igual a la fuerza por el desplazamiento multiplicado por el coseno del ángulo del desplazamiento"*.
 
-
+El ángulo que corresponde al desplazamiento es aquel ángulo $\theta$ formado entre **el vector de la fuerza y el vector del desplazamiento.**
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
