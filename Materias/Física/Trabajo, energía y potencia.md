@@ -8,7 +8,7 @@ tags: Física 15/02/2022
 
 ## Trabajo
 
-En física, la palabra trabajo tiene un significado diferente y más precios: **se realiza trabajo siempre que la fuerza produzca movimiento**. Cuanto maayor sea la fuerza aplicada y más grande la distancia recorrida, mayor será el trabajo efectuado.
+En física, la palabra trabajo tiene un significado diferente y más precios: **se realiza trabajo siempre que la fuerza produzca movimiento**. Cuanto mayor sea la fuerza aplicada y más grande la distancia recorrida, mayor será el trabajo efectuado.
 
 Por ello, se dice que la fuerza es proporcional a la distancia recorrida.
 Sin embargo, si el objeto no recorre distancia alguna, significa que **no existe trabajo**.
