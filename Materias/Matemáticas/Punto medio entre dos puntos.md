@@ -55,5 +55,38 @@ $$\large \large M(x,y) = (3, -\frac{3}{2})$$
 El problema brinda **un vértice y dos puntos medios**. 
 Primero, tenemos que determinar *¿a cuál de los vértices corresponde cada punto medio?*
 
+Con lo anterior, podemos establecer ciertas relaciones:
+- Primero que nada, tenemos que el punto medio AB es equivalente a utiizar la fórmula para los puntos A(-2,4) y $B(x_1, y_1)$. Por ello, podemos aplicar la siguiente regla:
+
+$$\large (-3, 1) = (\frac{-2 + x_1}{2}, \frac{4 + y_1}{2})$$
+Ahora, los puntos en un plano cumplen la siguiente propiedad:
+- Cuando un punto es igual a otro, podemos establecer que **sus componentes x y sus componenetes en y también tienen que ser iguales**. Por tanto, podemos decir lo siguiente:
+
+$$\large -3 = \frac{-2 + x_1}{2} = -6 = -2 + x_1$$
+$$\large -4 = x_1$$
+Y la misma lógica aplicamos para la coordenada Y.
+
+Al final, tendremos lo siguiente:
+
+$$\Large B = (-4, -2)$$
+
+#### Calculando C
+
+Luego de haber calculado el procedimiento para el vértice B, entonces tendremos información suficiente para **calcular el vértice B**, pues también tenemos información entre el punto medio de B y de C.
+
+Lo hacemos de la siguiente manera:
+
+$$\Large (1, 0) = (\frac{-4 + x_2}{2}, \frac{-2 + y_2}{2})$$
+
+Siguiente la misma lógica que utilizamos para calcular el punto B, entonces llegaremos a las siguientes ecuaciones:
+
+$$\large 1 = \frac{-4 + x_2}{2}; 0 = \frac{-2 + y_2}{2}$$
+
+Finalmente, llegaremos a la siguiente respuesta:
+
+$$\Large C = (6, 2)$$
+Ahora, ya tenemos la respuesta final.
+![[Pasted image 20220216164407.png]]
+
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
