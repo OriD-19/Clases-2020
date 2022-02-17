@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Francisco Ximenez (1666 - 1722).md",
+            "file": "Materias/Sociales/Karl Marx.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Francisco Ximenez (1666 - 1722).md",
+                "file": "Materias/Sociales/Karl Marx.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Sociales/Karl Marx.md",
+    "Materias/Sociales/John Locke.md",
+    "Materias/Sociales/Augusto Comte.md",
+    "Materias/Sociales/Aristóteles.md",
+    "Materias/Sociales/Louis XVI.md",
+    "Materias/Sociales/El siglo de las luces.md",
+    "Materias/Sociales/La historia del pensamiento científico.md",
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
     "Materias/Lenguaje/Francisco Ximenez (1666 - 1722).md",
-    "Materias/Lenguaje/El Popol Vuh.md",
-    "Materias/Lenguaje/Culturas precolombinas.md",
-    "Materias/Matemáticas/Ecuación punto-pendiente.md",
-    "Materias/Matemáticas/Punto medio entre dos puntos.md",
-    "Materias/Religión/Las dimensiones del ser humano.md",
-    "Materias/Religión/Religión.md",
-    "Materias/Religión/Las respuestas a la vida.md",
-    "Materias/Religión/Humanismo.md",
-    "Materias/Religión/Cultura.md"
+    "Materias/Lenguaje/El Popol Vuh.md"
   ]
 }

@@ -17,9 +17,9 @@ A partir de este momento, el reto era llevar la ciencia a lo largo de Europa.
 
 ### La ilustración como cambio social
 
-**La familia Habsburgo** tenía un problema a inicios del siglo XVIII, pues el rey de aquel momento no tenía descendencia que fuera heredera al trono. Por ello, el rey decidió *desposar a su sobrina,* para tener descendencia válida.
+**La familia Habsburgo** tenía un problema a inicios del siglo XVIII, pues el rey de aquel momento, **Felipe IV** no tenía descendencia que fuera heredera al trono. Por ello, el rey decidió *desposar a su sobrina,* para tener descendencia válida.
 
-Sin embargo, tuvo dos niñas, por lo que no eran herederas directas. De estas dos niñas, nació un niño. La primera de las niñas se casó con el rey francés, y la segunda se casó con el heredero al trono alemán. El niño que nació se llamaba **Carlos**.
+Sin embargo, tuvo dos niñas, por lo que no eran herederas directas. De estas dos niñas, nació un niño. La primera de las niñas se casó con el rey francés, y la segunda se casó con el heredero al trono alemán. El niño que nació se llamaba **Carlos**, y fue apodado **II, el hechizado**.
 
 Este chico que nació, tenía muchas enfermedades desde, por lo que su calidad y expectativa de vida eran muy deplorables. Nació y se desarrolló con las críadas y con los bufones, por lo que, cuando no quedaba remedio, recién comenzaron a educarlo y a nutrirlo para mantenerlo con vida, y prepararlo para el trono. A los **12 años fue declarado rey,  y rápidamente le consiguieron a una mujer para que formara descendencia**.
 
@@ -58,7 +58,7 @@ El **barón de Montesquieu**, decidió que el estado debería de estar *dvididio
 
 El pensador ilustrado **Jean Jacques Russeau** también cuestionó el sistema actual, *concluyendo que el sistema actual no les ofrecía nada a cambio de sus servicios*.
 
-### La llegada de Louis XVI
+### La llegada de [[Louis XVI]]
 
 
 ## [[Características de la ilustración]]
