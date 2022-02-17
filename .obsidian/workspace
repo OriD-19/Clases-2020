@@ -7,11 +7,9 @@
         "id": "02c7429b2e236be1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Materias/Sociales/Emil Durkheim.md",
-            "mode": "source",
-            "source": false
+            "file": "MicrosoftTeams-image (4).png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Emil Durkheim.md",
+                "file": "MicrosoftTeams-image (4).png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "MicrosoftTeams-image (4).png",
+    "Materias/OPV/La manipulación en el noviazgo.md",
+    "Materias/Laboratorio/Segunda práctica/Segunda práctica - cinética química y velocidad de reacción.md",
     "Materias/Sociales/Emil Durkheim.md",
     "Materias/Sociales/Max Weber.md",
     "Materias/Sociales/Las clases sociales.md",
     "Materias/Sociales/Modelos de producción.md",
     "Materias/Sociales/Karl Marx.md",
     "Materias/Sociales/John Locke.md",
-    "Materias/Sociales/Augusto Comte.md",
-    "Materias/Sociales/Aristóteles.md",
-    "Materias/Sociales/Louis XVI.md",
-    "Materias/Sociales/El siglo de las luces.md"
+    "Materias/Sociales/Augusto Comte.md"
   ]
 }
