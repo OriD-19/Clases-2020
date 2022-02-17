@@ -25,4 +25,16 @@ En la víctima hay una **sensación de incredulidad**, negándose a aceptar que 
 Esta etapa suele venir después de la segunda fase. El agresor, en contraste con el momento anterior, **se muestra amable, cariñoso y arrepentido** por las actitudes mostradas. 
 La intención de *apaciguar la situación que el mismo agresor causó* es una de las tácticas que logran que, en última instancia, **las víctimas se nieguen a denunciar los casos de abuso**.
 
+## Teoría del apego (Walter Riso)
+
+Es la vinculación **obsesiva (insistente)** hacia un objeto o una persona. Esta creencia cree hacer a la persona que *su felicidad depende de dicha vinculación, y le da sentido a su vida*.
+Es la incapacidad de **rechazar un deseo cuando este afecta severamente a tu calidad de vida**.
+
+Este apego obsesivo es uno de los mayores problemas que presentan las víctimas de abuso. Las técnicas para identificar este tipo de apego son las siguientes:
+
+- Un deseo insaciable, lo cual implica que **no hay manera de satisfacer el deseo**.
+- El autocontrol; cuando esta capacidad desaparece del individuo, *es una de las más claras señales* de un apego enfermizo.
+- La dependencia. Signfica que, cuando nosotros no estamos cerca de ese objeto o persona a la que nos hemos vinculado, **toda nuestra vida se ve alterada negativamente**.
+- La persistencia; la incapacidad de **discernir acerca de lo bueno y lo malo**, siendo absorbido totalmente por el apego.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['OPV]]
