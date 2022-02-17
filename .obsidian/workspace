@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Karl Marx.md",
+            "file": "Materias/Sociales/Max Weber.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Karl Marx.md",
+                "file": "Materias/Sociales/Max Weber.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Sociales/Max Weber.md",
+    "Materias/Sociales/Las clases sociales.md",
+    "Materias/Sociales/Modelos de producción.md",
     "Materias/Sociales/Karl Marx.md",
     "Materias/Sociales/John Locke.md",
     "Materias/Sociales/Augusto Comte.md",
     "Materias/Sociales/Aristóteles.md",
     "Materias/Sociales/Louis XVI.md",
     "Materias/Sociales/El siglo de las luces.md",
-    "Materias/Sociales/La historia del pensamiento científico.md",
-    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
-    "Materias/Lenguaje/Francisco Ximenez (1666 - 1722).md",
-    "Materias/Lenguaje/El Popol Vuh.md"
+    "Materias/Sociales/La historia del pensamiento científico.md"
   ]
 }

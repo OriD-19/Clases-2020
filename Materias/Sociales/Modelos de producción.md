@@ -24,4 +24,16 @@ Basado en el **feudalismo**.
 
 Se comienzan a hablar de **capitalismo**.
 
+#### Definición de capitalista
+
+Para que una persona sea considerada un capitalista, una persona debe:
+- Tener riquezas.
+- Tener medios de producción.
+
+#### Definición de proletario
+
+Es **aquella persona que presta sus servicios** para hacer un bien a la sociedad, y trabaja en nombre de otros.
+
+Una persona puede ser un **capitalista y un proletario a la vez,** por lo que estos conceptos *no son incompatibles*.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
