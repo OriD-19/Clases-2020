@@ -7,11 +7,9 @@
         "id": "02c7429b2e236be1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Materias/Química/Escala de pH.md",
-            "mode": "source",
-            "source": false
+            "file": "MicrosoftTeams-image (4).png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Escala de pH.md",
+                "file": "MicrosoftTeams-image (4).png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
-    "Materias/Química/Escala de pH.md",
     "MicrosoftTeams-image (4).png",
+    "README.md",
+    "Materias/Química/Escala de pH.md",
+    "Evaluaciones.md",
+    "Materias/Religión/Las dimensiones del ser humano.md",
+    "Materias/Religión/Las respuestas a la vida.md",
     "Materias/Física/Problemas/Ejemplo 1 - Trabajo.md",
     "Materias/Física/Trabajo, energía y potencia.md",
     "Materias/Matemáticas/Ecuación punto-pendiente.md",
-    "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
-    "Materias/Matemáticas/La recta.md",
-    "Materias/Matemáticas/Punto medio entre dos puntos.md",
-    "Materias/Lenguaje/El Popol Vuh.md",
-    "Materias/Lenguaje/Medievo.md"
+    "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md"
   ]
 }
