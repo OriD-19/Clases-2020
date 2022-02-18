@@ -36,6 +36,4 @@ Además de las características particulares de cada corriente, estas compartía
 - **Temática religiosa o mitológica**, evidenciada en textos más conocidos, como el *Popol Vuh*.
 - **Otras temáticas**, como la naturaleza, astronomía, guerra, agricultura, etc.
 
-
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
