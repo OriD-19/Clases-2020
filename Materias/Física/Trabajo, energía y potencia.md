@@ -33,4 +33,10 @@ Donde se lee como *"Trabajo es igual a la fuerza por el desplazamiento multiplic
 
 El ángulo que corresponde al desplazamiento es aquel ángulo $\theta$ formado entre **el vector de la fuerza y el vector del desplazamiento.**
 
+#### Casos del resultado
+
+- Positivo: La fuerza y el desplazamiento van en la misma dirección. En este caso, el trabajo será *mayor que cero*.
+- Negativo: La fuerza y el desplazamient van en direcciones opuestas. En este caso, el trabajo será *menor que cero*.
+- Cero: No habría trabajo cuando, entre la fuerza y el desplazamiento se forme un **ángulo de 90°** (perpendiculares). Por ello, el *trabajo es igual a 0*.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
