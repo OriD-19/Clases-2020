@@ -39,4 +39,8 @@ El ángulo que corresponde al desplazamiento es aquel ángulo $\theta$ formado e
 - Negativo: La fuerza y el desplazamient van en direcciones opuestas. En este caso, el trabajo será *menor que cero*.
 - Cero: No habría trabajo cuando, entre la fuerza y el desplazamiento se forme un **ángulo de 90°** (perpendiculares). Por ello, el *trabajo es igual a 0*.
 
+### La fricción (cinética)
+
+De acuerdo a lo anterior, podemos afirmar que, en el caso de la *fricción*, esta **siempre será opuesta al movimiento** y, por ende, siempre hará **trabajo negativo**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
