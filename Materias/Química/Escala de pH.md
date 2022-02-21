@@ -65,4 +65,26 @@ Por lo tanto, estamos hablando de una sustancia **ácida (ph <  7)**.
 
 0.01
 
+## Resolución de ejercicios
+
+- $\large [H^+]= 2.5 * 10^{-5}$
+
+Para resolver este ejercicio, simplemente debemos utilizar la fórmula del menos logaritmo
+
+$$\Large pH = -log(2.5 * 10^{-5})$$
+
+Lo cual nos da un resultado de:
+
+$$\Large pH = 4.6$$
+---
+
+- $\large NaOH 0.020 M$
+
+En este caso, debemos fijarnos en una cosa cerca del compuesto: **Posee un grupo hidróxilo**. Eso significa que estamos hablando *de una base*.
+
+Partiendo de lo anterior, podemos deducir que su pH estará por encima de 7.5, lo cual es una de las garantías para comprobar que las operaciones que hemos realizado son correctas.
+
+
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]

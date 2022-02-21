@@ -7,9 +7,11 @@
         "id": "02c7429b2e236be1",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MicrosoftTeams-image (4).png"
+            "file": "Materias/Química/Escala de pH.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MicrosoftTeams-image (4).png",
+                "file": "Materias/Química/Escala de pH.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,9 +106,9 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Química/Escala de pH.md",
     "MicrosoftTeams-image (4).png",
     "README.md",
-    "Materias/Química/Escala de pH.md",
     "Evaluaciones.md",
     "Materias/Religión/Las dimensiones del ser humano.md",
     "Materias/Religión/Las respuestas a la vida.md",
