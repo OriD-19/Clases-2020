@@ -84,7 +84,26 @@ En este caso, debemos fijarnos en una cosa cerca del compuesto: **Posee un grupo
 
 Partiendo de lo anterior, podemos deducir que su pH estará por encima de 7.5, lo cual es una de las garantías para comprobar que las operaciones que hemos realizado son correctas.
 
+## Ejercicio 3:
 
+> HNO3 - Tengo H+ de 0.75 M, calcular pH, pOH y OH-
 
+Para calcular la cantidad de pH y de pOH, simplemente tenemos que aplicar la fórmula que ya teníamos previamente:
+
+$$\Large pH = -log(0.75)$$
+
+Para luego tener la siguiente respuesta:
+
+$$\Large pH = 0.12$$
+
+Entonces, realizamos la resta para encontrar el pOH:
+
+$$\Large 14 - 0.1249 = pOH$$
+$$\large pOH = 13.8751$$
+
+Finalmente, debemos hallar la concentración de OH-. Para ello, podemos hacerlo de manera muy sencilla:
+
+$$\large OH- = 10^{-pOH}$$
+$$\large OH- = 1.3332 * 10^{-14}$$
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
