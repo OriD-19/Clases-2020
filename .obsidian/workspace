@@ -7,11 +7,9 @@
         "id": "02c7429b2e236be1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Materias/Inglés/Grammar Reference - Unit 1.md",
-            "mode": "source",
-            "source": false
+            "file": "MicrosoftTeams-image (4).png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/Grammar Reference - Unit 1.md",
+                "file": "MicrosoftTeams-image (4).png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,8 +104,8 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
-    "Materias/Inglés/Grammar Reference - Unit 1.md",
     "MicrosoftTeams-image (4).png",
+    "Materias/Inglés/Grammar Reference - Unit 1.md",
     "Materias/OPV/Métodos de planificación familiar.md",
     "Materias/Química/Escala de pH.md",
     "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",

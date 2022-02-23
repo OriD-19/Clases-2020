@@ -15,6 +15,6 @@ tags: Inglés 23/02/2022
 5. Large numbers of people are walking or biking to work every day because of the traffic problems. (Correct)
 6. Excuse me. I'm wanting to go to the health center. Is this the right way? (*I want instead of I'm wanting*)
 7. This piano piece is really difficult. I'm practicing it for weeks now, and I'm still making mistakes. (Correct)
-8. Let me tell you, if you want to realize your potential here, you weren't trying hard enough.
+8. Let me tell you, if you want to realize your potential here, you weren't trying hard enough up to now.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
