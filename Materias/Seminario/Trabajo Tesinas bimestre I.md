@@ -55,5 +55,18 @@ Es importante **precisar una teoría ya existente** para fundamentar la explicac
 
 Redactar en tiempo **pasado**. Hace referencia sobre lo que *ya se hizo en el trabajo*.
 
+## Los objetivos y las preguntas
+
+Cuando planteamos las preguntas de investigación, debemos plantear los sigiuente puntos:
+
+- Para nuestra **pregunta general de investigación**, debemos formular una pregunta *estrechamente relacionado con el tema de investigación que hemos delimitado*.
+- Para las preguntas específicas, **debemos hacer preguntas acerca de la pregunta general**, propniendo ideas puntuales sobre lo que se quiere estudiar.
+
+Las preguntas deben estar relacionadas **tanto con la variable independiente como con la variable dependiente**. Es por ello por lo que *no se debe dedicar todas las preguntas a una sola de las preguntas*.
+
+### Convertir el tema en un objetivo y en una pregunta
+
+Para convertir el tema de investigación en una pregunta, añadimos una **interrogante al inicio del tema**.
+Para convertir el tema de investigación en un objetivo, añadimos un **verbo al inicio del tema**.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEMINARIO]]
