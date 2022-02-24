@@ -16,5 +16,7 @@ tags: Sociales 15/02/2022
 - [[Karl Marx]]
 - [[Emil Durkheim]]
 - [[Sigmund Freud]]
+- [[Michel Foucault]]
+- [[Karl Popper]]
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
