@@ -69,4 +69,20 @@ Las preguntas deben estar relacionadas **tanto con la variable independiente com
 Para convertir el tema de investigación en una pregunta, añadimos una **interrogante al inicio del tema**.
 Para convertir el tema de investigación en un objetivo, añadimos un **verbo al inicio del tema**.
 
+### El verbo en el objetivo
+
+Los verbos en los objetivos son **sumamente importantes**, pues es la pauta que necesitamos para definir que una oración conforma un objetivo.
+
+Verbos como *investigar, analizar* no se utilizan en un trabajo de investigación, pues son **redundantes**. En un caso especial, el verbo *estudiar* se utilizar de manera ocasional, pero depende de la **circunstancia y el tema.**
+
+*Identificar y clasificar* son objetivos especialmente reservados para **objetivos específicos**.
+
+En un trabajo de investigación, usualmente se usan **entre 3 y 4 verbos para todos los objetivos**.
+
+## Alcances y limitaciones
+
+En los alcances se delimitan la **cantidad de recursos** que se tienen disponibles a la hora de llevar a cabo la investigación. Los alcances son afirmaciones que se *estiman realizar*, y se escriben siempre en futuro, pues se parte de que la investigación no ha ocurrido aún.
+
+Las limitaciones, por otro lado, exponen **los límites que tienen los investigadores a la hora de recopilar información** y trabajar con su objeto o sujeto de estudio. Esta información se redacta *en pasado*, pues se parte de la base que *no será posible, desde el vamos, llevar a cabo las actividades que se especifíquen.*
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEMINARIO]]
