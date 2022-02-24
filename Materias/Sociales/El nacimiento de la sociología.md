@@ -14,5 +14,7 @@ tags: Sociales 15/02/2022
 
 - [[John Locke]]
 - [[Karl Marx]]
+- [[Emil Durkheim]]
+- [[Sigmund Freud]]
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
