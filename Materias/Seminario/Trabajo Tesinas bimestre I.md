@@ -79,6 +79,12 @@ Verbos como *investigar, analizar* no se utilizan en un trabajo de investigació
 
 En un trabajo de investigación, usualmente se usan **entre 3 y 4 verbos para todos los objetivos**.
 
+## Verbo, sus características
+
+Todo objetivo implica una acción a realizar, he de ahí que inicie su redacción con un **verbo en infinitivo**.
+
+Ejemplos de esto son: *Elaborar, tipificar, delimitar, clasificar, etc.*
+
 ## Alcances y limitaciones
 
 En los alcances se delimitan la **cantidad de recursos** que se tienen disponibles a la hora de llevar a cabo la investigación. Los alcances son afirmaciones que se *estiman realizar*, y se escriben siempre en futuro, pues se parte de que la investigación no ha ocurrido aún.
