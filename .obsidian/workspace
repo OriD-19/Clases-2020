@@ -7,8 +7,12 @@
         "id": "02c7429b2e236be1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Sociales/Martín Lutero.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Sociales/Martín Lutero.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Sociales/Martín Lutero.md",
     "Materias/Sociales/El nacimiento de la sociología.md",
     "Materias/Sociales/La historia del pensamiento científico.md",
     "Materias/Sociales/Karl Popper.md",
@@ -109,7 +115,6 @@
     "Materias/Sociales/Untitled.md",
     "Materias/Lenguaje/Aztecas.md",
     "Materias/Lenguaje/Ollantay.md",
-    "Materias/Lenguaje/Incas.md",
-    "Materias/Lenguaje/Andina.md"
+    "Materias/Lenguaje/Incas.md"
   ]
 }
