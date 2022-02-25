@@ -26,6 +26,16 @@ En su camino a casa, se encuentra con el doctor **Abrenuncio de Sa Pereira Cao**
 **Abrenuncio había perdido a su caballo**, por lo que el marqués le ayuda a montar en su carroza, y regresaron juntos a casa. En el camino, el marqués mostró gran interés por el tema de la *rabia y los remedios que le daban a tan terrible enfermedad*. Cuando Abrenuncio le mostró un diagnóstico tan fatalista al marqués, este se desanimó enormemente.
 
 ---
-Bernarda se encuentra en su habitación, intentando calmar sus nervios y sus impulsos sexuales, mientras se acordaba de uno de sus mejores *esclavos*: **Judas Iscariote**. Este personaje representa la ruina total de Bernarda Cabrera, en tanto que él la llevo por los bajos mundos de la sexualidad sin control, de las drogas y de la delincuencia.
+Bernarda se encontraba en su habitación, intentando calmar sus nervios y sus impulsos sexuales, mientras se acordaba de uno de sus mejores *esclavos*: **Judas Iscariote**. Este personaje representa la ruina total de Bernarda Cabrera, en tanto que él la llevo por los bajos mundos de la sexualidad sin control, de las drogas y de la delincuencia.
 
+--- 
+Luego de la historia con Bernarda, el libro nos narra los orígenes del marqués de Casalduero, donde se nos revela, entre otras cosas, que fue **desterrado por su propia familia**.
+Ygnacio de Alfaro y Dueñas era el **heredero único** que debía seguir el linaje de la nobleza en las américas, pero, sin embargo, mientras crecía, nunca dio señales *de su ingenio ni de su capacidad para heredar tal cargo*. Sus padres incluso pensaron que tenía algún retraso mental.
+
+Cuando por fin mostró señales de algo, fue para decir que estaba enamorado de una *loca,* una mujer llamada **Dulce Oliva**. Con 20 años, Ygnacio veía a esta mujer como su futura esposa. Sin embargo, sus padres se opusieron terminantemente a su matrimonio, y en su lugar, *decidieron desterrarlo*.
+
+En el momento en el que el marqués se cansó de su nueva vida desterrado, y no tuvo más remedio que volver con su padre, este le impuso una serie de normas que debía cumplir si quiería seguir viviendo con ellos. La primera de ellas, era **desposar a una mujer de la nobleza**, llamada **Olalla de Mendoza**. Esta mujer, hija de una de las familias más poderosas del virreinato de Cartagena de Indias
+
+
+## Personajes
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
