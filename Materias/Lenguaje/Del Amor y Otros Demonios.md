@@ -6,7 +6,7 @@ tags: Lenguaje 25/02/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 25/02/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 25/02/2022</div>
 
-Libro escrito por Gabriel García Márquez, fue publicado en 1996.
+Libro escrito por Gabriel García Márquez, fue publicado en 1994.
 
 ## Historia
 
@@ -38,4 +38,20 @@ En el momento en el que el marqués se cansó de su nueva vida desterrado, y no 
 
 
 ## Personajes
+
+- Sierva María de Todos los Ángeles.
+- Ygnacio de Alfaro y Dueñas, marqués de Casalduero.
+- Bernarda Cabrera, mujer del marqués.
+- Dominga de Adviento, nodriza negra de Sierva María.
+- Sagunta, una anciana negra que vaticinó la perdición de Sierva María.
+- Abrenuncio de Sao Pereira Cao, doctor célebre por su amplio conocimiento.
+- Judas Iscariote, el esclavo que llevó a la perdición a Bernarda Cabrera.
+- Don Toribio de Cáceres y Virtudes, obispo de la diócesis, y enemigo de Josefa Miranda.
+- Cayetano Alcino del Espírituo Santo Delaura y Escudero, el vicario del obispo.
+- Josefa Miranda, abadeas del convento de Santa Clara.
+- Martina Laborde, monja encarcelada por asesinar a otras dos personas en el convento.
+- Tomás de Aquino de Narváez, sacerdote del barrio de los esclavos, sabía todas las lenguas africanas, *yoruba, congo y mandinga*.
+- Dulce Oliva, la primera amada del marqués de Casalduero.
+- Olalla Miranda, la primera mujer del marqués, asesinada por un rayo.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
