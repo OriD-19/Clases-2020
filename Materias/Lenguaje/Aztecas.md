@@ -14,6 +14,6 @@ En la cultura Azteca, al igual que en la [[Incas|inca]], su literatura se basaba
 
 ## Sus gobernantes
 
-*Nezahualcóyotl* fue uno de los gobernadores más importantes de toda la cultura precolombina. Fue el responsable de lo que hoy conocemos como **palacio de Chapultepec**. También fue un conocido poeta y escritor, cuya literatura contribuyó enormemente a preservar ciertos elementos de la cultura azteca para la posteridad.
+*[[Nezahualcóyotl]]* fue uno de los gobernadores más importantes de toda la cultura precolombina. Fue el responsable de lo que hoy conocemos como **palacio de Chapultepec**. También fue un conocido poeta y escritor, cuya literatura contribuyó enormemente a preservar ciertos elementos de la cultura azteca para la posteridad.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]

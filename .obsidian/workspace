@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Del Amor y Otros Demonios.md",
+            "file": "Materias/Lenguaje/Nezahualcóyotl.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Del Amor y Otros Demonios.md",
+                "file": "Materias/Lenguaje/Nezahualcóyotl.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Nezahualcóyotl.md",
+    "Materias/Lenguaje/Aztecas.md",
+    "Materias/Lenguaje/Análisis de texto.md",
+    "Materias/Lenguaje/El Popol Vuh - Control de Lectura Fernando Fuentes.pdf",
+    "Materias/Lenguaje/Neoclasicismo.md",
+    "MicrosoftTeams-image (4).png",
+    "Evaluaciones.md",
     "Materias/Lenguaje/Del Amor y Otros Demonios.md",
     "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
-    "Materias/Sociales/Plan de trabajo.md",
-    "MicrosoftTeams-image (4).png",
-    "Materias/Química/Ejercicio - Completar el cuadro con el pH.md",
-    "Materias/Química/Escala de pH.md",
-    "Materias/Química/Reacciones de descomposición.md",
-    "Materias/Seminario/Ejercicio - clasificar las marcas.md",
-    "Materias/Seminario/Trabajo Tesinas bimestre I.md",
-    "Materias/Sociales/Martín Lutero.md"
+    "Materias/Sociales/Plan de trabajo.md"
   ]
 }
