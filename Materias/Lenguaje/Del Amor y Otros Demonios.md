@@ -27,4 +27,5 @@ En su camino a casa, se encuentra con el doctor **Abrenuncio de Sa Pereira Cao**
 
 ---
 Bernarda se encuentra en su habitación, intentando calmar sus nervios y sus impulsos sexuales, mientras se acordaba de uno de sus mejores *esclavos*: **Judas Iscariote**. Este personaje representa la ruina total de Bernarda Cabrera, en tanto que él la llevo por los bajos mundos de la sexualidad sin control, de las drogas y de la delincuencia.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
