@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
+            "file": "Materias/Lenguaje/Del Amor y Otros Demonios.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
+                "file": "Materias/Lenguaje/Del Amor y Otros Demonios.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Del Amor y Otros Demonios.md",
     "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
     "Materias/Sociales/Plan de trabajo.md",
     "MicrosoftTeams-image (4).png",
@@ -114,7 +115,6 @@
     "Materias/Química/Reacciones de descomposición.md",
     "Materias/Seminario/Ejercicio - clasificar las marcas.md",
     "Materias/Seminario/Trabajo Tesinas bimestre I.md",
-    "Materias/Sociales/Martín Lutero.md",
-    "Materias/Sociales/El nacimiento de la sociología.md"
+    "Materias/Sociales/Martín Lutero.md"
   ]
 }
