@@ -20,7 +20,7 @@ Es bastante básica, y consiste en *anotar todas las cosas que tienen relación 
 
 ### Herramienta: El diario de campo
 
-Esta es la herramienta de la observación directa, pues **es muy básica, y consiste en anotar las observaciones**. Es un recopilatorio de ideas, y se *registran todas *
+Esta es la herramienta de la observación directa, pues **es muy básica, y consiste en anotar las observaciones**. Es un recopilatorio de ideas, y se *registran todos los conceptos importantes y demás observaciones* que tengan relevancia para la investigación.
 
 
 ## Ténicas cuantitativas
