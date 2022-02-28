@@ -76,4 +76,10 @@ Se trata de reconstruir un hecho por medio de varias fuentes.
 
 Los hechos históricos, usualmente, tienen varias perspectivas. Por ello, **entrevistar a varias personas involucradas en ello,** y conocer sus puntos de vista es algo *muy enriquecedor* y permite reconstruir el hecho de manera completa desde sus inicios.
 
+### Consideraciones al momento de una entrevista
+
+**Es una conversación**. Este punto es importante, pues en ninguna situación natural se *escriben preguntas para hacerle a la otra persona*. Por ello, si queremos que el ambiente sea lo más normal posible, tenemos que hacerlo parecer como tal.
+**Comodidad**. Este punto es importante, pues necesitamos crear un ambiente *amistoso* para el entrevistado, quien se ha ofrecido para darnos información sobre ellos mismos o un tema en específico.
+**El arte de escuchar y preguntar**. 
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
