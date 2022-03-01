@@ -20,6 +20,14 @@ Es importante *"No exagerar"*.
 Punto importante: **No interrumpir a los entrevistados**.
 Cuando se tratan temas fuertes, se *coloca un vaso de agua*.
 
+## Entrevista a Auronplay
+
+En esta entrevista, Raúl se abre hacia los demás y sale de su personaje.
+
+Menciona cosas muy interesantes: **Necesitaba reír**. Se sentía vacío por dentro, y necesitaba la compañía de alguien.
+
+## Entrevista a El Rubius
+
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
