@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Sus",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,14 +107,14 @@
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
     "Materias/Química/Sustituyente alquilo.md",
+    "Materias/Química/Alcanos, Alquenos y Alquinos.md",
+    "Materias/Química/Nomenclatura para los alcanos.md",
     "Materias/Lenguaje/Descubrimiento y conquista de América.md",
     "Materias/Lenguaje/Neoclasicismo.md",
     "Materias/Lenguaje/Nezahualcóyotl.md",
     "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
     "Materias/Matemáticas/Untitled.md",
     "Materias/Sociales/Técnicas de investigación.md",
-    "Materias/Sociales/Untitled.md",
-    "Materias/Seminario/Trabajo Tesinas bimestre I.md",
-    "Materias/Sociales/Trabajo final - Investigación cuantitativa.md"
+    "Materias/Sociales/Untitled.md"
   ]
 }

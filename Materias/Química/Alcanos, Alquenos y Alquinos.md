@@ -42,4 +42,6 @@ Para identificar, según su **estructura molecular**, el tipo de compuesto orgá
 
 **La cantidad de carbonos se relaciona con la cantidad de vértices de una figura**. Por ejemplo, si se tienen 5 carbonos, podemos dibujar cinco puntos diferentes para identificar los puntos donde hay carbonos.
 
+## [[Nomenclatura para los alcanos]]
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
