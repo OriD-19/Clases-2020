@@ -17,6 +17,9 @@ Es importante *"No exagerar"*.
 
 ## Entrevista de Jorge Ortiz de Pinedo
 
+Punto importante: **No interrumpir a los entrevistados**.
+Cuando se tratan temas fuertes, se *coloca un vaso de agua*.
+
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
