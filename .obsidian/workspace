@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Descubrimiento y conquista de América.md",
+            "file": "Materias/Química/Nomenclatura para los alcanos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Descubrimiento y conquista de América.md",
+                "file": "Materias/Química/Nomenclatura para los alcanos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Química/Nomenclatura para los alcanos.md",
+    "Materias/Química/Precitipitado.md",
+    "Materias/Química/Sustituyente alquilo.md",
+    "Materias/OPV/Métodos de planificación familiar.md",
     "Materias/Lenguaje/Descubrimiento y conquista de América.md",
     "Materias/Lenguaje/Del Amor y Otros Demonios.md",
     "Materias/Sociales/Puntos importantes de las entrevistas.md",
     "Materias/Sociales/Técnicas de investigación.md",
     "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
-    "Materias/Química/Sustituyente alquilo.md",
-    "Materias/Química/Alcanos, Alquenos y Alquinos.md",
-    "Materias/Química/Nomenclatura para los alcanos.md",
-    "Materias/Lenguaje/Neoclasicismo.md",
-    "Materias/Lenguaje/Nezahualcóyotl.md"
+    "Materias/Química/Alcanos, Alquenos y Alquinos.md"
   ]
 }

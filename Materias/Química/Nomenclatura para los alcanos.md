@@ -91,11 +91,11 @@ De este modo, para ambos sustituyentes, tendríamos los siguientes nombres:
 - Metilo: **3-metil**
 - Etilo: **5-metil**
 
-- Ahora, para unirlo todo, lo único que nos queda es separar por espacios estos dos compuestos, y unir el nombre de la cadena principal al sustituyente **por orden alfabético del nombre del sustituyente**. Es decir, debemos ordenarlos de la siguiente manera:
+- Ahora, para unirlo todo, lo único que nos queda es separar por guiones estos dos compuestos, y unir el nombre de la cadena principal al sustituyente **por orden alfabético del nombre del sustituyente**. Es decir, debemos ordenarlos de la siguiente manera:
 
-> 5-etil 3-metiloctano
+> 5-etil-3-metiloctano
 
-Como vemos, los sustituyentes están ordenados *por orden alfabético* (la "e" en "etil" va antes que la "m" en "metil"). Al final, simpre se junta el nombre del sustituyente con el nombre de la cadena principal.
+Como vemos, los sustituyentes están ordenados *por orden alfabético* (la "e" en "etil" va antes que la "m" en "metil"). Al final, simpre se junta el nombre del sustituyente con el nombre de la cadena principal. Nótese que no se está teniendo en cuenta el número de carbono al que está unido el sustituyente, pues no es importante a la hora de ordenar el nombre.
 
 ## Si posee más de un sustituyente del mismo tipo
 
@@ -123,7 +123,7 @@ Ahora, ya tenemos analizada correctamente la cadena principal.
 
 Para nombrarlos, podemos hacerlo de manera muy simple de la siguiente manera:
 
-> 2-metil 4-metil
+> 2-metil-4-metil
 
 ### El cambio en la nomenclatura
 
@@ -138,7 +138,7 @@ Se hace de la siguiente manera:
 
 Nótese el uso del prefijo "di-" para precisar que estamos hablando de **dos metilos** en la cadena principal.
 
-- Por último, no queda más que unirlo al nombre principal de la cadena que ya teníamso anteriormente.
+- Por último, no queda más que unirlo al nombre principal de la cadena que ya teníamos anteriormente.
 
 > 2,4-dimetilhexano.
 
