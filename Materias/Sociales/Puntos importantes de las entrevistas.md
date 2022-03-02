@@ -28,6 +28,6 @@ Menciona cosas muy interesantes: **Necesitaba reír**. Se sentía vacío por den
 
 ## Entrevista a El Rubius
 
-
+Se da el proceso de **calentamiento**.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
