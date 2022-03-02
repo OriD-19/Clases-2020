@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Untitled.md",
+            "file": "Materias/Lenguaje/El análisis sintático.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Untitled.md",
+                "file": "Materias/Lenguaje/El análisis sintático.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Untitled.md",
     "Materias/Lenguaje/El análisis sintático.md",
+    "Materias/Lenguaje/Complemento directo.md",
     "Materias/Lenguaje/Sujeto.md",
     "Materias/Lenguaje/Sintagma.md",
     "Materias/Seminario/Trabajo Tesinas bimestre I.md",
