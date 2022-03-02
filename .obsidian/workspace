@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/El análisis sintático.md",
+            "file": "Materias/Matemáticas/Punto de intersección entre rectas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/El análisis sintático.md",
+                "file": "Materias/Matemáticas/Punto de intersección entre rectas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Punto de intersección entre rectas.md",
+    "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
     "Materias/Lenguaje/El análisis sintático.md",
     "Materias/Lenguaje/Complemento directo.md",
     "Materias/Lenguaje/Sujeto.md",
@@ -113,8 +115,6 @@
     "Materias/Seminario/Trabajo Tesinas bimestre I.md",
     "Materias/Química/Nomenclatura para los alcanos.md",
     "Materias/Química/Precitipitado.md",
-    "Materias/Química/Sustituyente alquilo.md",
-    "Materias/OPV/Métodos de planificación familiar.md",
-    "Materias/Lenguaje/Descubrimiento y conquista de América.md"
+    "Materias/Química/Sustituyente alquilo.md"
   ]
 }
