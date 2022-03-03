@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Punto de intersección entre rectas.md",
+            "file": "Materias/Sociales/Lenguaje facial (entrevistas).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Punto de intersección entre rectas.md",
+                "file": "Materias/Sociales/Lenguaje facial (entrevistas).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Sociales/Lenguaje facial (entrevistas).md",
+    "Materias/Sociales/Puntos importantes de las entrevistas.md",
+    "Materias/Sociales/Técnicas de investigación.md",
     "Materias/Matemáticas/Punto de intersección entre rectas.md",
     "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
     "Materias/Lenguaje/El análisis sintático.md",
     "Materias/Lenguaje/Complemento directo.md",
     "Materias/Lenguaje/Sujeto.md",
     "Materias/Lenguaje/Sintagma.md",
-    "Materias/Seminario/Trabajo Tesinas bimestre I.md",
-    "Materias/Química/Nomenclatura para los alcanos.md",
-    "Materias/Química/Precitipitado.md",
-    "Materias/Química/Sustituyente alquilo.md"
+    "Materias/Seminario/Trabajo Tesinas bimestre I.md"
   ]
 }
