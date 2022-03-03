@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Lenguaje facial (entrevistas).md",
+            "file": "Materias/Inglés/Listening exercises (Page 19).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Lenguaje facial (entrevistas).md",
+                "file": "Materias/Inglés/Listening exercises (Page 19).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Inglés/Listening exercises (Page 19).md",
     "Materias/Sociales/Lenguaje facial (entrevistas).md",
     "Materias/Sociales/Puntos importantes de las entrevistas.md",
     "Materias/Sociales/Técnicas de investigación.md",
@@ -114,7 +115,6 @@
     "Materias/Lenguaje/El análisis sintático.md",
     "Materias/Lenguaje/Complemento directo.md",
     "Materias/Lenguaje/Sujeto.md",
-    "Materias/Lenguaje/Sintagma.md",
-    "Materias/Seminario/Trabajo Tesinas bimestre I.md"
+    "Materias/Lenguaje/Sintagma.md"
   ]
 }
