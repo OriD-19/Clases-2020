@@ -15,8 +15,8 @@ Se pueden citar datos para reforzar los argumentos.
 
 PARA LA JUSTIFICACIÓN
 
-1. Actualidad o vigencia del tema.
-2. Viabilidad o factibilidad del tema. (facilidad y veracidad de la información que se encuentra sobre el tema de investigación) Si no existe viabilidad en las fuentes de investigación, la tésis se vuelve *inviable.*
-
+1. **Actualidad o vigencia del tema.** Qué tan relevante es el tema para el resto de la población, y para el mundo en general.
+2. **Viabilidad o factibilidad del tema.** (facilidad y veracidad de la información que se encuentra sobre el tema de investigación) Si no existe viabilidad en las fuentes de investigación, la tésis se vuelve *inviable.*
+3. **Interés social del tema.**
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEMINARIO]]
