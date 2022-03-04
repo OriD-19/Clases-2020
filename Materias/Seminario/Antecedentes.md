@@ -16,6 +16,8 @@ Por ejemplo, en una noticia apareció un caso relacionado con la problemática, 
 Definir conceptos clave del tema.
 Exponer un caso, y seguir explicando lo anterior (opcional).
 
+Se debe ir **siempre** de lo internacional a lo nacional, para abordar el tema primero en un espectro más amplio, y después en términos más locales.
+
 **En esta parte SÍ SE DESARROLLAN CONCEPTOS DEL TEMA.**
 
 Con las teorías, se debe dejar hasta el marco teórico. Pero los conceptos se *tratan INMEDIATAMENTE en los antecedentes.*
