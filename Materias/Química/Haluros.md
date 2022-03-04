@@ -16,4 +16,12 @@ Por ejemplo, si un sustituyente cloro está presente en un alcano, entonces pode
 
 Simplemente *se nombra el elemento en la estructura*.
 
+## Ejemplo
+
+![[Pasted image 20220304152544.png]]
+
+Teniendo este compuesto, podemos llamarlo de la siguiente manera:
+
+> 2-cloro-4-metilhexano
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
