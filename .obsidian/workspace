@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Haluros.md",
+            "file": "Materias/Sociales/Entrevista grupal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Haluros.md",
+                "file": "Materias/Sociales/Entrevista grupal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Sociales/Entrevista grupal.md",
+    "Materias/Sociales/Focus Group.md",
+    "Materias/Sociales/Cualidades de una entrevista.md",
     "Materias/Química/Haluros.md",
     "Materias/Física/Problemas/Ejemplo 2 - Energía.md",
     "Materias/Física/Teorema del trabajo y energía.md",
     "Materias/Física/Energía.md",
     "Materias/Seminario/Antecedentes.md",
     "Materias/Seminario/Objetivos y preguntas.md",
-    "Materias/Seminario/Justificación de la investigación.md",
-    "Materias/Sociales/Sigmund Freud.md",
-    "Materias/Lenguaje/Sujeto.md",
-    "Materias/Inglés/Listening exercises (Page 19).md"
+    "Materias/Seminario/Justificación de la investigación.md"
   ]
 }
