@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Seminario/Justificación de la investigación.md",
+            "file": "Materias/Química/Nomenclatura de alquenos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Justificación de la investigación.md",
+                "file": "Materias/Química/Nomenclatura de alquenos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Química/Nomenclatura de alquenos.md",
     "Materias/Seminario/Justificación de la investigación.md",
     "Materias/Seminario/Antecedentes.md",
     "Materias/Seminario/Trabajo Tesinas bimestre I.md",
@@ -114,7 +115,6 @@
     "Materias/Sociales/Cualidades de una entrevista.md",
     "Materias/Química/Haluros.md",
     "Materias/Física/Problemas/Ejemplo 2 - Energía.md",
-    "Materias/Física/Teorema del trabajo y energía.md",
-    "Materias/Física/Energía.md"
+    "Materias/Física/Teorema del trabajo y energía.md"
   ]
 }
