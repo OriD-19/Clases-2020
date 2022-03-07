@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Nomenclatura de alquenos.md",
+            "file": "Materias/Sociales/Encuesta.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Nomenclatura de alquenos.md",
+                "file": "Materias/Sociales/Encuesta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "02c7429b2e236be1",
   "lastOpenFiles": [
+    "Materias/Sociales/Encuesta.md",
+    "Materias/Sociales/Observación no participante.md",
+    "Materias/Sociales/Lista de cotejo.md",
+    "Materias/Sociales/Burgueses.md",
     "Materias/Química/Nomenclatura de alquenos.md",
     "Materias/Seminario/Justificación de la investigación.md",
     "Materias/Seminario/Antecedentes.md",
     "Materias/Seminario/Trabajo Tesinas bimestre I.md",
     "Materias/Sociales/Entrevista grupal.md",
-    "Materias/Sociales/Focus Group.md",
-    "Materias/Sociales/Cualidades de una entrevista.md",
-    "Materias/Química/Haluros.md",
-    "Materias/Física/Problemas/Ejemplo 2 - Energía.md",
-    "Materias/Física/Teorema del trabajo y energía.md"
+    "Materias/Sociales/Focus Group.md"
   ]
 }
