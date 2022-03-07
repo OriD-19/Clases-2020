@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "02c7429b2e236be1",
+        "id": "63147826bbbaeeab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Encuesta.md",
+            "file": "Materias/Matemáticas/Rectas paralelas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Encuesta.md",
+                "file": "Materias/Matemáticas/Rectas paralelas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,10 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "02c7429b2e236be1",
+  "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Rectas paralelas.md",
+    "Materias/Sociales/Untitled 1.md",
     "Materias/Sociales/Encuesta.md",
     "Materias/Sociales/Observación no participante.md",
     "Materias/Sociales/Lista de cotejo.md",
@@ -113,8 +115,6 @@
     "Materias/Química/Nomenclatura de alquenos.md",
     "Materias/Seminario/Justificación de la investigación.md",
     "Materias/Seminario/Antecedentes.md",
-    "Materias/Seminario/Trabajo Tesinas bimestre I.md",
-    "Materias/Sociales/Entrevista grupal.md",
-    "Materias/Sociales/Focus Group.md"
+    "Materias/Seminario/Trabajo Tesinas bimestre I.md"
   ]
 }
