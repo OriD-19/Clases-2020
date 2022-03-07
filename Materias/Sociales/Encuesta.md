@@ -17,4 +17,21 @@ Son muy útiles para:
 
 Una encuesta tiene que **ser la representación de una realidad**. Por ello, tendríamos que hacer una *distribución proporcional entre* la cantidad de la población que pertenece a según qué estratos sociales.
 
+## Partes del cuestionario de una encuesta
+
+### Generalidades
+
+El primer apartado es muy importnate, pues **define a la población específica que se busca encuestar**.
+
+### Desarrollo
+
+La cantidad de preguntar *sale del cuadro de operacionalización de variables.* Esto nos ayuda a determinar la cantidad exacta de preguntas que se buscan para responder a todas las cuestiones y planteamientos.
+
+## Respuestas
+
+Estas llevan un orden. Para procesar correctamente una encuesta, se deben **incluir todas las opciones** que incluyen a todo tipo de personas. 
+Por ejemplo, si se pregunta el *estado civil de las personas* se tiene que incluir todas las posibles respuestas de mínimo a máximo o de máximo a mínimo. En este caso, existen varias opciones, ordenadas desde mayor fortaleca del vínculo a menor:
+
+- 
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
