@@ -30,8 +30,11 @@ La cantidad de preguntar *sale del cuadro de operacionalización de variables.* 
 ## Respuestas
 
 Estas llevan un orden. Para procesar correctamente una encuesta, se deben **incluir todas las opciones** que incluyen a todo tipo de personas. 
-Por ejemplo, si se pregunta el *estado civil de las personas* se tiene que incluir todas las posibles respuestas de mínimo a máximo o de máximo a mínimo. En este caso, existen varias opciones, ordenadas desde mayor fortaleca del vínculo a menor:
+Por ejemplo, si se pregunta el *estado civil de las personas* se tiene que incluir todas las posibles respuestas de mínimo a máximo o de máximo a mínimo. En este caso, existen varias opciones, ordenadas desde mayor fortaleza del vínculo a menor:
 
-- 
+- Casado
+- Viudo
+- Soltero
+- Etc.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
