@@ -100,4 +100,8 @@ Este presidente gobernó 7 períodos, y formó parte de la política hasta sus 9
 
 Finalmente, se descubrió que este presidente también cometió multitud de fraudes, por lo que fue derrocado. 
 
+## La masacre del perejil
+
+Rafael Leónidas Trujillo consultó a gran parte de la población
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

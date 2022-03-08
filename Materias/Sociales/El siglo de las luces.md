@@ -36,6 +36,8 @@ Llegaron a un acuerdo entre la corona española y la corona francesa, pero, *dur
 Por ello, se desató una guerra en toda Europa. 
 Finalmente, el rey que heredó el trono fue **el nieto del rey francés**.
 
+**Luis XV los nombró primero**, bisnieto de Luis XIV.
+
 ### El absolutismo de la sociedad
 
 Durante este tiempo, el poder del rey era **absoluto**. Su voluntad era intocable e irrefutable, y lo que él quería, se hacía inmediatamente.

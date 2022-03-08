@@ -18,7 +18,7 @@ Poseía tanto conocimiento, que algunos alegaron incluso que, realmente, William
 
 ## Legado
 
-Bacon, para explicar algo, empleaba 4 pasos principales:
+Bacon, para explicar algo, empleaba 4 pasos principales, llamado el **método hipotético-deductivo**:
 
 - Observación: Realizar conjeturas acerca de un fenómeno concreto. 
 - Formular preguntas: Se pueden formar preguntas acerca de la naturaleza del fenómeno.

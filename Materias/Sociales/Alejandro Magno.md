@@ -18,7 +18,6 @@ En una ocasión, cuando los Persas acechaban la ciudad de Babilonia, **el rey Al
 
 Se casó con la hija de la familia real, y protegió a todas las personas.
 
-
 ## Ambición
 
 Cuando Alejandro Magno fue a salvar a Babilonia, comenzó a **expandir la cultura griega (helenística)** que había heredado de Aristóteles.
