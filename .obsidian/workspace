@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Rectas paralelas.md",
+            "file": "Materias/Lenguaje/Crónica.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Sus",
+                "query": "Ecuación",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Rectas paralelas.md",
+                "file": "Materias/Lenguaje/Crónica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Crónica.md",
+    "Materias/Física/Problemas/Untitled.md",
+    "Materias/Física/Problemas/Ejemplo 2 - Energía.md",
+    "Materias/Física/Energía.md",
+    "Materias/Física/Teorema del trabajo y energía.md",
+    "Materias/Física/Movimiento en plano inclinado.md",
+    "Materias/Matemáticas/Ecuación punto-pendiente.md",
     "Materias/Matemáticas/Rectas paralelas.md",
     "Materias/Sociales/Untitled 1.md",
-    "Materias/Sociales/Encuesta.md",
-    "Materias/Sociales/Observación no participante.md",
-    "Materias/Sociales/Lista de cotejo.md",
-    "Materias/Sociales/Burgueses.md",
-    "Materias/Química/Nomenclatura de alquenos.md",
-    "Materias/Seminario/Justificación de la investigación.md",
-    "Materias/Seminario/Antecedentes.md",
-    "Materias/Seminario/Trabajo Tesinas bimestre I.md"
+    "Materias/Sociales/Encuesta.md"
   ]
 }
