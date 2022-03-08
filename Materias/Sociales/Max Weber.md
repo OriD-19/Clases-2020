@@ -14,6 +14,8 @@ Para Weber la persona puede cambiar la historia, no necesariamente las masas.
 
 Es considerado el **precursor del pensamiento Cualitativo**. Por ello, era la contraparte de Marx, quien era absolutamente *cuantitativo*.
 
+## Clases sociales
 
+Fue la persona que, contradiciendo a Marx, predijo el tema de las clases sociales.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

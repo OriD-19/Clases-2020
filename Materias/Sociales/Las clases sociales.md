@@ -14,7 +14,7 @@ A lo largo de la historia, **se definieron múltiples tipos de personas y de est
 - Edad Antigua: Esclavo u hombre libre.
 - Edad media: Siervos o patrones (del modelo feudal).
 - Edad moderna: Se diferenciaban los comerciantes y el resto del pueblo.
-- Edad actual: Capitalista o proletario.
+- Edad actual (contemporánea): Capitalista o proletario.
 
 Esta última época fue predecida por [[Karl Marx]], quien nos dijo que las personas serían juzgadas dependiendo de sus riquezas.
 

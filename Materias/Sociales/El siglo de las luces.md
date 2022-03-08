@@ -6,7 +6,7 @@ tags: Sociales 15/02/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 15/02/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 15/02/2022</div>
 
-Los pensadores de la Ilustración sostenían que el conocimiento humano podía combayir la ignorancia, la superstición y la tiranía para construir un mundo mejor.
+Los pensadores de la Ilustración sostenían que el conocimiento humano podía combatir la ignorancia, la superstición y la tiranía para construir un mundo mejor.
 
 Como ya había mencionado [[Francis Bacon]], 
 > "La verdad no nace de la autoridad, el conocimiento viene sólo de la experiencia".
@@ -31,14 +31,14 @@ Finalmente, le consiguieron **a otra mujer**, con la cual se casó por interés.
 Intentaron multiples métodos, uno más asqueroso que el anterior, pues las personas de ese entonces pensaron que la esterilidad tenía alguna cura.
 Para concluir la historia, antes de morir **Carlos escribió un testamento**. En este, heredaba el trono a **su hermana mayor y al rey de Francia**. Después murió.
 
-Sin ebargo, **Nadie estuvo de acuerdo con esta decisión que se había escrito en el testamento**.
+Sin embargo, **Nadie estuvo de acuerdo con esta decisión que se había escrito en el testamento**.
 Llegaron a un acuerdo entre la corona española y la corona francesa, pero, *durante la fiesta de celebración del acuerdo, dijeron todo lo contrario: Francia y España se unían.*
 Por ello, se desató una guerra en toda Europa. 
 Finalmente, el rey que heredó el trono fue **el nieto del rey francés**.
 
 ### El absolutismo de la sociedad
 
-Durante este tiempo, el poder del rey era **absoulto**. Su voluntad era intocable e irrefutable, y lo que él quería, se hacía inmediatamente.
+Durante este tiempo, el poder del rey era **absoluto**. Su voluntad era intocable e irrefutable, y lo que él quería, se hacía inmediatamente.
 
 Por ello, cuando el nieto del rey francés gobernaba en España, el rey Francés no tuvo más remedio que *nombrar a su bisnieto, el cual no estaba ni por cerca preparado*.
 

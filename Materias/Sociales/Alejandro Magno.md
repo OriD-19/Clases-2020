@@ -10,6 +10,8 @@ El **alumno personal de [[Aristóteles]]**.
 
 Su maestro le enseñó tantas cosas, que fue nombrado rey desde una *muy corta edad*. A pesar de que muchas personas se oponían a este nombramiento, otros tantos sabían la **sabiduría que Alejandro Magno poseía**.
 
+A los 20 años, tomó el rumbo del imperio griego.
+
 ## La amenaza a Babilonia
 
 En una ocasión, cuando los Persas acechaban la ciudad de Babilonia, **el rey Alejandro Magno** se ganó la confianza de todos los ciudadanos cuando, en una acción heróica, *salvó a todos de la invasión persa*.
@@ -28,6 +30,7 @@ Posteriormente, quería investigar qué había más allá del océano Atlántico
 ## Legado
 
 Gracias a todo lo anterior, el griego fue un lenguaje universalizado **en toda Europa.**
+Algo así como el inglés acutalmente.
 
 ## Bárbaros
 

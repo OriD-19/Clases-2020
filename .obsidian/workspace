@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Inglés/Telling a story - 2A.md",
+            "file": "Materias/Sociales/El siglo de las luces.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ecuación",
+                "query": "Max Weber",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/Telling a story - 2A.md",
+                "file": "Materias/Sociales/El siglo de las luces.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,15 +106,15 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
-    "Materias/Inglés/Telling a story - 2A.md",
-    "Materias/Sociales/Burgueses.md",
-    "Materias/Sociales/Anastasio Somoza García.md",
-    "Materias/Inglés/Listening exercises (Page 19).md",
-    "Materias/Inglés/Future forms.md",
-    "Materias/Lenguaje/Crónica.md",
-    "Materias/Física/Problemas/Untitled.md",
-    "Materias/Física/Problemas/Ejemplo 2 - Energía.md",
-    "Materias/Física/Energía.md",
-    "Materias/Física/Teorema del trabajo y energía.md"
+    "Materias/Sociales/El siglo de las luces.md",
+    "Materias/Sociales/El nacimiento de la sociología.md",
+    "Materias/Sociales/Karl Popper.md",
+    "Materias/Sociales/Alejandro Magno.md",
+    "Materias/Sociales/La historia del pensamiento científico.md",
+    "Materias/Sociales/Max Weber.md",
+    "Materias/Sociales/Karl Marx.md",
+    "Materias/Sociales/Las clases sociales.md",
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+    "Materias/Sociales/Lenguaje facial (entrevistas).md"
   ]
 }
