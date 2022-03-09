@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evaluaciones.md",
+            "file": "Materias/Sociales/René Descártes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evaluaciones.md",
+                "file": "Materias/Sociales/René Descártes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Sociales/René Descártes.md",
+    "Materias/Sociales/Francis Bacon.md",
     "Evaluaciones.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
     "Materias/Sociales/Juan Domingo Perón.md",
@@ -113,8 +115,6 @@
     "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
     "Materias/Sociales/Dictaduras latinoamericanas.md",
     "Materias/Sociales/Dictadura Argentina.md",
-    "Materias/Lenguaje/Ollantay.md",
-    "Materias/Física/Problemas/Ejemplo 3 - Teoría sobre la energía.md",
-    "Materias/Sociales/Louis XVI.md"
+    "Materias/Lenguaje/Ollantay.md"
   ]
 }

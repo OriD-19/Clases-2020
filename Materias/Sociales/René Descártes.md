@@ -56,6 +56,13 @@ Sintetizar *NO ES LO MISMO QUE RESUMIR*. Resumir viene dado de cualquier orden, 
 
 **Debido al conocimiento previo que se tiene acerca de un concepto**, tomamos decisiones o formulamos ideas sobre algo que puede ser verdad.
 
+### Diferencia entre inducción y deducción
+
+**Deducción**: Pretender que algo que ocurre en un lugar, ocurrirá en otro de igual manera.
+**Inducción**: Pensar que lo que pasa en otras partes tendría que ocurrir en otros lugares. 
+Pensar que lo que pasó en otras partes, tendría que pasar acá. (inducción)
+Pensar que como pasa acá, pasará en otras partes (deducción).
+
 ### Enumerar
 
 **Concluir el trabajo**, enumerando los conceptos aprendido a lo largo de la investigación. Se trata de *resumir y organizar el conocimiento aprendido*.
