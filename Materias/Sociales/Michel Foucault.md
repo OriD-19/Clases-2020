@@ -10,6 +10,6 @@ Fue uno de los mayores pensadores del siglo XX. Propuso uno de sus mayores axiom
 
 Por ejemplo, las cárceles fueron reformadas para que *cumplieran la función de rehabilitación, en lugar de la castigo*. Lo mismo ocurrió con los hospitales psiquiátricos; a los enfermos mentales se les discriminaba de las peores formas posibles, sin posibilidad de **tener un tratamiento propio, y una vida más digna**.
 
-Gracias a Foucault, todos estos puntos de vista fueron reformados para 
+Gracias a Foucault, todos estos puntos de vista fueron reformados para el bien de la humanidad.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
