@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Rafael Leónidas Trujillo.md",
+            "file": "Materias/Matemáticas/Rectas perpendiculares.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tortura",
+                "query": "cultura",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Rafael Leónidas Trujillo.md",
+                "file": "Materias/Matemáticas/Rectas perpendiculares.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,8 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Rectas perpendiculares.md",
+    "Materias/Sociales/René Descártes.md",
     "Materias/Sociales/Rafael Leónidas Trujillo.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
     "Materias/Sociales/La oposición (documental).md",
@@ -113,8 +116,6 @@
     "Materias/Sociales/Augusto Comte.md",
     "Materias/Sociales/Aristóteles.md",
     "Materias/Sociales/Alejandro Magno.md",
-    "Materias/Lenguaje/Códices mayas.md",
-    "Materias/Lenguaje/Barroco.md",
-    "Materias/Lenguaje/Época colonial en la literatura.md"
+    "Materias/Lenguaje/Códices mayas.md"
   ]
 }
