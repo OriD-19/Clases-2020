@@ -23,7 +23,7 @@ La ideología de Somoza Debayle, fuertemente anticomunista, le valió el apoyo i
 
 ## Pedro Joaquín Chamorro
 
-Una de las personas más importantes de Nicaragua, tenía un gran poder adquisitivo. SIn embargo, tenía una **ideología contraria a la del dictador**. Debido a esto, fue asesinado a tiros en el año 1978.
+Una de las personas más importantes de Nicaragua, tenía un gran poder adquisitivo. Sin embargo, tenía una **ideología contraria a la del dictador**. Debido a esto, fue asesinado a tiros en el año 1978.
 
 ## Descontento popular
 
