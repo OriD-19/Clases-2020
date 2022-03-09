@@ -14,7 +14,7 @@ Anastasio Debayle convirtió y ascendió a su familia de status económico.
 Primero que nada, se casó con su prima, la cual era estadounidense. Su familia tenía muchísimos millones y una gran capacidad adquisitiva.
 Tuvo cinco hijos, pero ninguno fue críado en un ambiente sano.
 
-Algunos escándalos realacionados con el matrimonio hacen referencia a la **presencia de una amante**, la cual salía con el dictador abiertamente. 
+Algunos escándalos relacionados con el matrimonio hacen referencia a la **presencia de una amante**, la cual salía con el dictador abiertamente. 
 Debido a ello, luego de su exilio, decidió llevarse a su amante en lugar de a su actual mujer.
 
 ## Apoyo estadounidense
