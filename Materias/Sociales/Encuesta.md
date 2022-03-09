@@ -33,7 +33,9 @@ Estas llevan un orden. Para procesar correctamente una encuesta, se deben **incl
 Por ejemplo, si se pregunta el *estado civil de las personas* se tiene que incluir todas las posibles respuestas de mínimo a máximo o de máximo a mínimo. En este caso, existen varias opciones, ordenadas desde mayor fortaleza del vínculo a menor:
 
 - Casado
+- Novio
 - Viudo
+- Divorciado
 - Soltero
 - Etc.
 
