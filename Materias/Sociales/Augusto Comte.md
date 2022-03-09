@@ -20,7 +20,7 @@ El estado que creía en Dios.
 
 ### El estado metafísico
 
-Era el estado que creía en cosas intangibles, que lo describen a sí mismos. Aquí entran cosas como la **DEMOCRACIA Y LA JUSTICIA**.
+Era el estado que creía en cosas intangibles, que lo describe a sí mismo. Aquí entran cosas como la **DEMOCRACIA Y LA JUSTICIA**.
 
 ### El estado positivista.
 
