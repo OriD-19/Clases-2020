@@ -71,6 +71,6 @@ Pensar que como pasa acá, pasará en otras partes (deducción).
 
 Debido a todos los conceptos anteriores, Descártes ha trascendido a la historia **como uno de los mayores pensardores de la historia**.
 
-Fundo el *racionalismo*, que es la manera de pensar el mundo meidante *ideas*. Cabe resaltar que estas ideas estaban, por primera vez en mucho tiempo, *separados de Dios*.
+Fundó el *racionalismo*, que es la manera de pensar el mundo mediante *ideas*. Cabe resaltar que estas ideas estaban, por primera vez en mucho tiempo, *separadas de Dios*.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

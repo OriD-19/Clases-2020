@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "escol",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,6 +108,7 @@
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
     "Materias/Sociales/René Descártes.md",
+    "Materias/Sociales/La historia del pensamiento científico.md",
     "Materias/Sociales/Francis Bacon.md",
     "Evaluaciones.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
@@ -114,7 +116,6 @@
     "Materias/Sociales/Anastasio Somoza Debayle.md",
     "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
     "Materias/Sociales/Dictaduras latinoamericanas.md",
-    "Materias/Sociales/Dictadura Argentina.md",
-    "Materias/Lenguaje/Ollantay.md"
+    "Materias/Sociales/Dictadura Argentina.md"
   ]
 }
