@@ -22,4 +22,12 @@ La principal característica del arte durante esta época era **suntiosidad** co
 
 *Fuente: [Barroco - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Barroco#Literatura)*
 
+### Ideas sobre el Barroco
+
+![[Pasted image 20220309164814.png]]
+
+La corriente **culterana**, fundada por **Luis de Góngora**.
+
+La corriente **conceptista**, fundada por **Francisco de Quevedo**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
