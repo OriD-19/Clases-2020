@@ -26,7 +26,7 @@ El presidente Videla fue condenado a múltiples crímenes de guerra, y todos los
 ### Testimonios
 
 A muchas personas se les torturaba con instrumentos eléctricos.
-El punto de las torturas era **mantener con vida a las personas la mayor partidad del tiempo**. 
+El punto de las torturas era **mantener con vida a las personas la mayor parte del tiempo**. 
 Realizaban múltiples torturas, de diversas maneras, cada una peor que la anterior.
 
 Asimismo, todos los testimonios concuerdan en la apatía de la milicia, la cual se limitaba simplemente a **divertirse con las torturas**, sabiendo que eran cómplices de cientos de violaciones a los derechos humanos.

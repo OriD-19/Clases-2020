@@ -22,6 +22,6 @@ Gobernó en 3 períodos, y fue elegido de manera "democrática" en tres ocasione
 
 ## Muerte
 
-Después de morir, Juan Domingo Perón, este heredó su posición a su mujer, Maria Estela Martínez de Perón, pero esta fue rechazada por los militares, dando paso a nuevas elecciones, en las cuales [[Jorge Rafael Videla]] resultó ganador.
+Después de morir Juan Domingo Perón, este heredó su posición a su mujer, Maria Estela Martínez de Perón, pero esta fue rechazada por los militares, dando paso a nuevas elecciones, en las cuales [[Jorge Rafael Videla]] resultó ganador.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
