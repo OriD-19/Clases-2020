@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/René Descártes.md",
+            "file": "Materias/Sociales/Sigmund Freud.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "escol",
+                "query": "Sigmund",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/René Descártes.md",
+                "file": "Materias/Sociales/Sigmund Freud.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,15 +106,15 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
-    "Materias/Sociales/René Descártes.md",
-    "Materias/Sociales/La historia del pensamiento científico.md",
+    "Materias/Sociales/Sigmund Freud.md",
+    "Materias/Sociales/El nacimiento de la sociología.md",
+    "Materias/Sociales/Emil Durkheim.md",
+    "Materias/Sociales/Augusto Comte.md",
+    "Materias/Sociales/Louis XVI.md",
+    "Materias/Sociales/Características de la ilustración.md",
+    "Materias/Sociales/El siglo de las luces.md",
     "Materias/Sociales/Francis Bacon.md",
-    "Evaluaciones.md",
-    "Materias/Sociales/Jorge Rafael Videla.md",
-    "Materias/Sociales/Juan Domingo Perón.md",
-    "Materias/Sociales/Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Dictaduras latinoamericanas.md",
-    "Materias/Sociales/Dictadura Argentina.md"
+    "Materias/Sociales/René Descártes.md",
+    "Materias/Sociales/La historia del pensamiento científico.md"
   ]
 }

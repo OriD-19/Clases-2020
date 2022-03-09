@@ -10,5 +10,6 @@ Incluyó **la ESTADÍSTICA** a las ciencias sociales.
 
 Fue el responsable de la inclusión de los números y los análisis en los estudios sociales.
 
+> Fue el que perfeccionó el **método hipotético-deductivo**, inicialmente planteado por [[Francis Bacon]] y posteriormente reformado por [[Karl Popper]].
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

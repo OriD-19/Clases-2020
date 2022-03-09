@@ -29,7 +29,7 @@ Por el otro lado, en el caso de las mujeres, *estas buscan una figura parecida a
 
 ## La sexualidad según Freud
 
-Durante la época de Freud, la **sexualidad todavía era un tema tabú**. Por ello, fue muy criticado por ello, ya que trató con profundidad el tema del *placer en el sexo*.
+Durante la época de Freud, la **sexualidad todavía era un tema tabú**. Por ello, fue muy criticado, ya que trató con profundidad el tema del *placer en el sexo*.
 
 Todas estas cosas fueron tratadas para descubrir que, finalmente, **el sexo puede determinar fuertemente la felicidad de un persona**.
 
