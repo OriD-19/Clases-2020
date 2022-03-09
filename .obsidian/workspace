@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Códices mayas.md",
+            "file": "Materias/Sociales/Rafael Leónidas Trujillo.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sigmund",
+                "query": "tortura",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Códices mayas.md",
+                "file": "Materias/Sociales/Rafael Leónidas Trujillo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Códices mayas.md",
-    "Materias/Lenguaje/Barroco.md",
-    "Materias/Lenguaje/Época colonial en la literatura.md",
+    "Materias/Sociales/Rafael Leónidas Trujillo.md",
+    "Materias/Sociales/Jorge Rafael Videla.md",
+    "Materias/Sociales/La oposición (documental).md",
+    "Materias/Sociales/Augusto Pinochet.md",
     "Materias/Sociales/Augusto Comte.md",
     "Materias/Sociales/Aristóteles.md",
-    "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Dinastía Somoza.md",
-    "Materias/Sociales/Anastasio Somoza García.md",
-    "Materias/Sociales/Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Alejandro Magno.md"
+    "Materias/Sociales/Alejandro Magno.md",
+    "Materias/Lenguaje/Códices mayas.md",
+    "Materias/Lenguaje/Barroco.md",
+    "Materias/Lenguaje/Época colonial en la literatura.md"
   ]
 }

@@ -102,6 +102,6 @@ Finalmente, se descubrió que este presidente también cometió multitud de frau
 
 ## La masacre del perejil
 
-Rafael Leónidas Trujillo consultó a gran parte de la población
+Rafael Leónidas Trujillo consultó a gran parte de la población para que pronunciaran la palabra *Perejil*. Si la decían correctamente, podían vivir; de lo contrario, eran asesinados inmediatamente. Eso porque quería **exterminar a todos los haitianos que habían llegado a la isla**.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
