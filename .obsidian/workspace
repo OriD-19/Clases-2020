@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Rectas perpendiculares.md",
+            "file": "Materias/Sociales/Karl Marx.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Rectas perpendiculares.md",
+                "file": "Materias/Sociales/Karl Marx.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,15 +106,15 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Sociales/Karl Marx.md",
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+    "Materias/Sociales/Las clases sociales.md",
     "Materias/Matemáticas/Rectas perpendiculares.md",
     "Materias/Sociales/René Descártes.md",
     "Materias/Sociales/Rafael Leónidas Trujillo.md",
     "Materias/Sociales/Jorge Rafael Videla.md",
     "Materias/Sociales/La oposición (documental).md",
     "Materias/Sociales/Augusto Pinochet.md",
-    "Materias/Sociales/Augusto Comte.md",
-    "Materias/Sociales/Aristóteles.md",
-    "Materias/Sociales/Alejandro Magno.md",
-    "Materias/Lenguaje/Códices mayas.md"
+    "Materias/Sociales/Augusto Comte.md"
   ]
 }

@@ -12,6 +12,8 @@ Vivió la **realidad de la revolución industrial,** por lo que gran parte de la
 
 Escribió multitud de libros criticando al **capitalismo**, y llegó incluso a decir que el **capitalismo fallaría en algún punto, en el cual quebraría**.
 
+También sostenía que las sociedades **tenían una estructura definida**, y que esta funcionaba en base a una característica llamada *status quo*.
+
 ## El problema en la actualidad
 
 A pesar de ser un pensador muy hábil y prolífico, **la ideología que promovía era completamente incompatible con otro período que no fuera en el que él vivió**.
