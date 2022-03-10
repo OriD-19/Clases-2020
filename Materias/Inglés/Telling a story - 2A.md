@@ -24,4 +24,10 @@ Describe the sentences with **adjectives from the box**:
 11. The title caught my eye. I wanted to find out more, so I watched the trailer. *Gripping, thought-provoking*
 12. A typical blockbuster. No depth to the characters and a hppy ending that, to be honest, left me cold. *Overrated, boring*.
 
+## Exercise 2: Classify the sentences
+
+| Books | Movies             | Either      |
+| ----- | ------------------ | ----------- |
+| 6, 7  | 3, 4, 5, 8, 11, 12 | 1, 2, 9, 10 | 
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
