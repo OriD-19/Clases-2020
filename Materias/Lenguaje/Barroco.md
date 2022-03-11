@@ -30,4 +30,15 @@ La corriente **culterana**, fundada por **Luis de Góngora**.
 
 La corriente **conceptista**, fundada por **Francisco de Quevedo**.
 
+Fue el primer **movimiento literario** que se dio en *ambos mundos*, es decir, se dio en Europa y en América. Sin embargo, no se dio al mismo tiempo, pues el europeo fue el primero, y se hablan de dos períodos:
+
+- Barroco europeo.
+- Barroco americano. 
+
+El barroco europeo fue heredado por el barroco americano en un 75%, y el resto fue lo que ahora conocemos como **sincretismo**, es decir, las propias características de la literatura americana mezclada con las características europeas.
+
+> La **colonia es el equivalente al barroco americano**.
+
+Por ello, la *arquitectura parace tan similar entre sí*. Es lo que llamamos un **casco histórico**, que se refiere a las construcciones españolas en tiempos coloniales.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
