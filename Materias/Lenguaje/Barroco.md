@@ -26,9 +26,9 @@ La principal característica del arte durante esta época era **suntiosidad** co
 
 ![[Pasted image 20220309164814.png]]
 
-La corriente **culterana**, fundada por **Luis de Góngora**.
+La corriente **culterana**, fundada por **Luis de Góngora**. Utilizaba *palabras cortas pero con gran significado*.
 
-La corriente **conceptista**, fundada por **Francisco de Quevedo**.
+La corriente **conceptista**, fundada por **Francisco de Quevedo**. Usaba *frases densas, valiéndose de figuras literarias y de recursos (jugando con las palabras)*.
 
 Fue el primer **movimiento literario** que se dio en *ambos mundos*, es decir, se dio en Europa y en América. Sin embargo, no se dio al mismo tiempo, pues el europeo fue el primero, y se hablan de dos períodos:
 
@@ -40,5 +40,7 @@ El barroco europeo fue heredado por el barroco americano en un 75%, y el resto f
 > La **colonia es el equivalente al barroco americano**.
 
 Por ello, la *arquitectura parace tan similar entre sí*. Es lo que llamamos un **casco histórico**, que se refiere a las construcciones españolas en tiempos coloniales.
+
+El movimiento contiguo al barroco fue el [[Neoclasicismo]].
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
