@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Barroco.md",
+            "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Enriquecimiento cultural.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Barroco.md",
+                "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Enriquecimiento cultural.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Sociales/Moral, Urbanidad y Cívica/Enriquecimiento cultural.md",
     "Materias/Lenguaje/Barroco.md",
     "Materias/Física/Energía potencial.md",
     "Materias/Matemáticas/Distancia de un punto a una recta.md",
@@ -114,7 +115,6 @@
     "Materias/Sociales/El siglo de las luces.md",
     "Materias/Sociales/René Descártes.md",
     "Materias/Sociales/Karl Marx.md",
-    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
-    "Materias/Sociales/Las clases sociales.md"
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md"
   ]
 }
