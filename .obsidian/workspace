@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Dixieland.md",
+            "file": "Materias/Inglés/Fiction and non-fiction books.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Dixieland.md",
+                "file": "Materias/Inglés/Fiction and non-fiction books.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Inglés/Fiction and non-fiction books.md",
     "Materias/Sociales/Moral, Urbanidad y Cívica/Dixieland.md",
     "Materias/Sociales/Moral, Urbanidad y Cívica/La guerra del norte contra el sur.md",
     "Materias/Sociales/Moral, Urbanidad y Cívica/Enriquecimiento cultural.md",
@@ -114,7 +115,6 @@
     "Materias/Matemáticas/Distancia de un punto a una recta.md",
     "Materias/Inglés/Telling a story - 2A.md",
     "Materias/Sociales/Rafael Leónidas Trujillo.md",
-    "Materias/Sociales/El siglo de las luces.md",
-    "Materias/Sociales/René Descártes.md"
+    "Materias/Sociales/El siglo de las luces.md"
   ]
 }
