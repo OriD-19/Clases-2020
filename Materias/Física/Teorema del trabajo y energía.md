@@ -22,6 +22,6 @@ Por otro lado, utilizando la fórmula del [[Trabajo, energía y potencia|trabajo
 
 $$\large Fx = \frac{1}{2}mv^2_f - \frac{1}{2}mv^2_0$$
 
-Donde $f$ significa energía cinética final y $0$ significa energía cinética inicial.
+Donde $f$ significa velocidad final (pues representa la *energía cinética final*) y $0$ significa velocidad inicial (pues representa a la *energía cinética inicial*).
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
