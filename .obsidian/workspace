@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
+            "file": "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intercepto",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Punto medio entre dos puntos.md",
+                "file": "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "63147826bbbaeeab",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
     "Materias/Matemáticas/Punto medio entre dos puntos.md",
-    "Materias/Física/Teorema del trabajo y energía.md",
-    "Materias/Física/Trabajo, energía y potencia.md",
-    "Materias/Física/Energía.md",
-    "Materias/Física/Energía potencial.md",
-    "Materias/Inglés/Fiction and non-fiction books.md",
-    "Materias/Sociales/Moral, Urbanidad y Cívica/Dixieland.md",
-    "Materias/Sociales/Moral, Urbanidad y Cívica/La guerra del norte contra el sur.md",
-    "Materias/Sociales/Moral, Urbanidad y Cívica/Enriquecimiento cultural.md",
-    "Materias/Lenguaje/Barroco.md"
+    "Materias/Matemáticas/Punto de intersección entre rectas.md",
+    "Materias/Matemáticas/La recta.md",
+    "Materias/Matemáticas/Ecuaciones radicales.md",
+    "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
+    "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md",
+    "Materias/Matemáticas/Distancia de un punto a una recta.md",
+    "Materias/Matemáticas/Discriminante de la ecuación cuadrática.md",
+    "Materias/Matemáticas/Rectas paralelas.md"
   ]
 }
