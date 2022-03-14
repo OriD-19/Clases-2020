@@ -12,6 +12,8 @@ Para realizar una representación de los alquinos en su forma angular, debemos c
 
 De este modo, los enlaces triples del compuesto estarán delimitados por la **triple línea** que caracteriza al enlace especial.
 
+## Nomenclatura de ciclo
 
+Los triples enlaces **no pueden existir en un ciclo** de hidrocarburos. El problema viene a la hora de identificar los *enlaces de los carbonos*.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
