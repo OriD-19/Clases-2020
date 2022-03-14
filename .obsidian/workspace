@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "63147826bbbaeeab",
+        "id": "2fd65e7bbdec4bac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Nomenclatura de alquinos.md",
+            "file": "Materias/Física/Conservación de la energía.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Nomenclatura de alquinos.md",
+                "file": "Materias/Física/Conservación de la energía.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "63147826bbbaeeab",
+  "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Química/Nomenclatura de alquinos.md",
+    "Materias/Física/Conservación de la energía.md",
+    "Materias/Matemáticas/Untitled.md",
+    "Materias/Sociales/Augusto Comte.md",
+    "Materias/Sociales/Martín Lutero.md",
+    "Materias/Sociales/Platón.md",
+    "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
+    "Materias/Sociales/Aristóteles.md",
+    "Materias/Sociales/Anastasio Somoza García.md",
     "Materias/Sociales/Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Alejandro Magno.md",
-    "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
-    "Materias/Matemáticas/Punto medio entre dos puntos.md",
-    "Materias/Matemáticas/Punto de intersección entre rectas.md",
-    "Materias/Matemáticas/La recta.md",
-    "Materias/Matemáticas/Ecuaciones radicales.md",
-    "Materias/Matemáticas/Ecuaciones bicuadráticas.md",
-    "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md"
+    "Materias/Química/Nomenclatura de alquinos.md"
   ]
 }
