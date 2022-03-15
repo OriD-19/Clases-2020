@@ -7,8 +7,12 @@
         "id": "2fd65e7bbdec4bac",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Inglés/Gradable and ungradable adjectives.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Inglés/Gradable and ungradable adjectives.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,8 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Inglés/Gradable and ungradable adjectives.md",
+    "Materias/Inglés/Fiction and non-fiction books.md",
     "Materias/Lenguaje/Medievo.md",
     "Materias/Lenguaje/Barroco.md",
     "Materias/Lenguaje/Épocas literarias.md",
@@ -108,8 +115,6 @@
     "Materias/Lenguaje/Época clásica precolombina.md",
     "Materias/Lenguaje/Época colonial en la literatura.md",
     "Materias/Lenguaje/Aztecas.md",
-    "Materias/Lenguaje/Análisis sintáctico.md",
-    "Materias/Lenguaje/Análisis de texto.md",
-    "Materias/Lenguaje/Sor Juana Inés de la Cruz.md"
+    "Materias/Lenguaje/Análisis sintáctico.md"
   ]
 }
