@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Inglés/Gradable and ungradable adjectives.md",
+            "file": "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/Gradable and ungradable adjectives.md",
+                "file": "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
     "Materias/Inglés/Gradable and ungradable adjectives.md",
     "Materias/Inglés/Fiction and non-fiction books.md",
     "Materias/Lenguaje/Medievo.md",
@@ -114,7 +115,6 @@
     "Materias/Lenguaje/Época grecolatina.md",
     "Materias/Lenguaje/Época clásica precolombina.md",
     "Materias/Lenguaje/Época colonial en la literatura.md",
-    "Materias/Lenguaje/Aztecas.md",
-    "Materias/Lenguaje/Análisis sintáctico.md"
+    "Materias/Lenguaje/Aztecas.md"
   ]
 }
