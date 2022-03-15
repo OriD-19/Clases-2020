@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Física/Conservación de la energía.md",
+            "file": "Materias/Lenguaje/Época colonial en la literatura.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Física/Conservación de la energía.md",
+                "file": "Materias/Lenguaje/Época colonial en la literatura.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Época colonial en la literatura.md",
+    "Materias/Física/Problemas/Ejemplo - Conservación de la energía.md",
     "Materias/Física/Conservación de la energía.md",
     "Materias/Matemáticas/Untitled.md",
     "Materias/Sociales/Augusto Comte.md",
@@ -113,8 +115,6 @@
     "Materias/Sociales/Platón.md",
     "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
     "Materias/Sociales/Aristóteles.md",
-    "Materias/Sociales/Anastasio Somoza García.md",
-    "Materias/Sociales/Anastasio Somoza Debayle.md",
-    "Materias/Química/Nomenclatura de alquinos.md"
+    "Materias/Sociales/Anastasio Somoza García.md"
   ]
 }
