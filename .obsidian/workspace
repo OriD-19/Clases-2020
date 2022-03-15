@@ -7,12 +7,8 @@
         "id": "2fd65e7bbdec4bac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +101,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
-    "Materias/Lenguaje/Contexto de la literatura colonial.md",
+    "Materias/Lenguaje/Medievo.md",
+    "Materias/Lenguaje/Barroco.md",
+    "Materias/Lenguaje/Épocas literarias.md",
+    "Materias/Lenguaje/Época grecolatina.md",
+    "Materias/Lenguaje/Época clásica precolombina.md",
     "Materias/Lenguaje/Época colonial en la literatura.md",
-    "Materias/Física/Problemas/Ejemplo - Conservación de la energía.md",
-    "Materias/Física/Conservación de la energía.md",
-    "Materias/Matemáticas/Untitled.md",
-    "Materias/Sociales/Augusto Comte.md",
-    "Materias/Sociales/Martín Lutero.md",
-    "Materias/Sociales/Platón.md",
-    "Materias/Sociales/Trabajo final - Investigación cuantitativa.md"
+    "Materias/Lenguaje/Aztecas.md",
+    "Materias/Lenguaje/Análisis sintáctico.md",
+    "Materias/Lenguaje/Análisis de texto.md",
+    "Materias/Lenguaje/Sor Juana Inés de la Cruz.md"
   ]
 }
