@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
+            "file": "Materias/Inglés/Evaluations first bimester.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 271.5
   },
   "right": {
     "id": "8cc75275152e8bf8",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
+                "file": "Materias/Inglés/Evaluations first bimester.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Sor Juana Inés de la Cruz.md",
+    "Materias/Inglés/Evaluations first bimester.md",
+    "Materias/OPV/Métodos de planificación familiar.md",
+    "Materias/Religión/Las dimensiones del ser humano.md",
+    "Materias/Religión/Humanismo.md",
+    "Materias/Religión/Ciencias ocultas.md",
+    "Materias/Religión/Primera investigación - Las religiones/Cinco pilares del Islam.md",
+    "Materias/Religión/Primera investigación - Las religiones/Características del Islam.md",
+    "README.md",
     "Materias/Inglés/Gradable and ungradable adjectives.md",
-    "Materias/Inglés/Fiction and non-fiction books.md",
-    "Materias/Lenguaje/Medievo.md",
-    "Materias/Lenguaje/Barroco.md",
-    "Materias/Lenguaje/Épocas literarias.md",
-    "Materias/Lenguaje/Época grecolatina.md",
-    "Materias/Lenguaje/Época clásica precolombina.md",
-    "Materias/Lenguaje/Época colonial en la literatura.md",
-    "Materias/Lenguaje/Aztecas.md"
+    "Materias/Inglés/Telling a story - 2A.md"
   ]
 }
