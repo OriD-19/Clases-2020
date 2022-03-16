@@ -10,6 +10,8 @@ tags: Lenguaje 16/03/2022
 
 Leer el poema las veces necesarias, por partes e incluso de manera más lenta, para comprender correctamente el texto, pues este es el primer paso para **realizar un buen comentario de texto**.
 
+**NO SE ESCRIBEN LOS TÍTULOS DE LAS SECCIONES.**
+
 ## Partes del comentario de texto
 
 ### Introducción
@@ -27,5 +29,12 @@ Se describe la estructura (métrica) y se señalan las figuras literarias (citar
 ### Pregunta 
 
 Se escribe una inquietud sobre el texto y se responde con una teoría (hipótesis).
+
+## Segunda parte del comentario
+
+### Opinión personal del texto
+
+Lo que me pareció el texto, lo que más me agrada del texto, lo que me llama la atención, etc.
+Por otro lado (*en otro párrafo*) comentar lo que NO ME GUSTÓ del texto.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
