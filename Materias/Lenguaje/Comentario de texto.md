@@ -18,11 +18,11 @@ Donde se señalen elementos importantes sobre el texto y el autor. Contextualiza
 
 ### Fondo
 
-Se explican los temas del poema y como son abordaods, se enfatiza el sentido y contenido del escrito.
+Se explican los temas del poema y como son abordaods, se enfatiza el sentido y contenido del escrito. *Citar textualmente cada idea*.
 
 ### Forma
 
-Se describe la estructura y se señalan las figuras literarias (citar en cada expresión) más de explicación de la intención.
+Se describe la estructura (métrica) y se señalan las figuras literarias (citar en cada expresión) más de la explicación de la intención (el propósito de usar dicha figura literaria). *Tres o cuatro figuras literarias son suficientes.*
 
 ### Pregunta 
 
