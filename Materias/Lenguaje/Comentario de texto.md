@@ -37,4 +37,8 @@ Se escribe una inquietud sobre el texto y se responde con una teoría (hipótesi
 Lo que me pareció el texto, lo que más me agrada del texto, lo que me llama la atención, etc.
 Por otro lado (*en otro párrafo*) comentar lo que NO ME GUSTÓ del texto.
 
+### Conclusión
+
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
