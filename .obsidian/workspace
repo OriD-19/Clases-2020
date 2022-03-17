@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+            "file": "Materias/Sociales/Augusto Comte.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "luis",
+                "query": "sociología",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+                "file": "Materias/Sociales/Augusto Comte.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +107,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
     "Materias/Sociales/Augusto Comte.md",
+    "Materias/Sociales/El nacimiento de la sociología.md",
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
     "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
     "Materias/Sociales/Anastasio Somoza Debayle.md",
     "Materias/Sociales/Las clases sociales.md",
     "Materias/Sociales/La oposición (documental).md",
     "Materias/Sociales/La historia del pensamiento científico.md",
     "Materias/Matemáticas/Ángulo de inclinación de una recta.md",
-    "Materias/Lenguaje/Comentario de texto.md",
-    "Materias/Inglés/Evaluations first bimester.md"
+    "Materias/Lenguaje/Comentario de texto.md"
   ]
 }
