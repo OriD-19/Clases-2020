@@ -31,5 +31,4 @@ Combinaba el racionalismo fundado por [[René Descártes]] y por el empirismo de
 Actualmente, **los tres puntos se cumplen en conjunto en todas las sociedades**.
 Todas las sociedades cumplen los tres, pero se van combinando.
 
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

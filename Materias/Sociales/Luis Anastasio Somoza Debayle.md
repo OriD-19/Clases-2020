@@ -14,7 +14,7 @@ Según algunos dichos populares, se dice que Luis Somoza se casó *por amor*, y 
 
 ## Obras
 
-Modernizó la Universidad Autónoma de Nicaragua, pero cometió un error muy grave conocido como Morocorazo.
+Modernizó la Universidad Autónoma de Nicaragua, pero cometió un error muy grave conocido como *Mokoronazo*.
 
 Estando en campaña presidencial, él recibió una serie de datos importantes: Que Honduras invadía a Nicaragua. A las pocas horas, le avisan que la información del supuesto conflicto hondureño **era completamente falso**.
 

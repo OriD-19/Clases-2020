@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Ángulo de inclinación de una recta.md",
+            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intercepto",
+                "query": "luis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Ángulo de inclinación de una recta.md",
+                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+    "Materias/Sociales/Augusto Comte.md",
+    "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
+    "Materias/Sociales/Anastasio Somoza Debayle.md",
+    "Materias/Sociales/Las clases sociales.md",
+    "Materias/Sociales/La oposición (documental).md",
+    "Materias/Sociales/La historia del pensamiento científico.md",
     "Materias/Matemáticas/Ángulo de inclinación de una recta.md",
     "Materias/Lenguaje/Comentario de texto.md",
-    "Materias/Inglés/Evaluations first bimester.md",
-    "Materias/OPV/Métodos de planificación familiar.md",
-    "Materias/Religión/Las dimensiones del ser humano.md",
-    "Materias/Religión/Humanismo.md",
-    "Materias/Religión/Ciencias ocultas.md",
-    "Materias/Religión/Primera investigación - Las religiones/Cinco pilares del Islam.md",
-    "Materias/Religión/Primera investigación - Las religiones/Características del Islam.md",
-    "README.md"
+    "Materias/Inglés/Evaluations first bimester.md"
   ]
 }
