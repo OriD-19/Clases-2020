@@ -21,6 +21,4 @@ $$\Large \tan(\theta) = m$$
 
 Cuando la pendiente es negativa, entonces el valor de la tangente por el ángulo **también será negativo**, lo cual no puede ser. Por lo tanto, lo que tenemos que hacer es, al valor negativo que tenemos, *le sumamos 180°; pues este ángulo está medido en sentido horario*, lo que nos llevaría  a completar la línea del eje X.
 
-
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
