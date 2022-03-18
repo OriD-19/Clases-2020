@@ -23,4 +23,13 @@ Y ahora, ya tendríamos la energía mecánica:
 
 $$\large 32.87 J$$
 
+## Parte B
+
+Para la segunda parte, tenemos que tener en cuenta dos cosas:
+
+- El valor de $E$ es constante para todo el problema, por lo que podemos usar el valor de la parte anterior.
+- La energía potencial *desaparece*, puesto que la pelota **llegó al nivel del suelo**, que es igula a cero.
+
+Sabiendo lo anterior, simplemente tenemos que despejar la V en la fórmula de la E.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['PROBLEMAS]]
