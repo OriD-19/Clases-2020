@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Inglés/Evaluations first bimester.md",
+            "file": "Materias/Física/Problemas/Ejemplo 2 - Energía mecánica.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/Evaluations first bimester.md",
+                "file": "Materias/Física/Problemas/Ejemplo 2 - Energía mecánica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Física/Problemas/Ejemplo 2 - Energía mecánica.md",
     "Materias/Inglés/Evaluations first bimester.md",
     "Materias/Química/Nomenclatura de alquinos.md",
     "Materias/Química/Nomenclatura de alquenos.md",
@@ -114,7 +115,6 @@
     "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
     "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
     "Materias/Sociales/Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Las clases sociales.md",
-    "Materias/Sociales/La oposición (documental).md"
+    "Materias/Sociales/Las clases sociales.md"
   ]
 }
