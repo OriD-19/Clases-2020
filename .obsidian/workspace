@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Dixieland.md",
+            "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Año nuevo chino.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Dixieland.md",
+                "file": "Materias/Sociales/Moral, Urbanidad y Cívica/Año nuevo chino.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Sociales/Moral, Urbanidad y Cívica/Año nuevo chino.md",
+    "Materias/Sociales/Moral, Urbanidad y Cívica/St. Patricks Day.md",
     "Materias/Sociales/Moral, Urbanidad y Cívica/Dixieland.md",
     "Materias/Sociales/Moral, Urbanidad y Cívica/La guerra del norte contra el sur.md",
     "Materias/Sociales/Moral, Urbanidad y Cívica/Enriquecimiento cultural.md",
@@ -113,8 +115,6 @@
     "Materias/Física/Problemas/Ejemplo 2 - Energía mecánica.md",
     "Materias/Inglés/Evaluations first bimester.md",
     "Materias/Química/Nomenclatura de alquinos.md",
-    "Materias/Química/Nomenclatura de alquenos.md",
-    "Materias/Sociales/Augusto Comte.md",
-    "Materias/Sociales/El nacimiento de la sociología.md"
+    "Materias/Química/Nomenclatura de alquenos.md"
   ]
 }
