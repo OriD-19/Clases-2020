@@ -22,6 +22,8 @@ Un punto a destacar del tango, es el hecho de que es un baile y una práctica co
 
 ### El baile de Zikr
 
+Ellos viven en una región de la actual Rusia, antes unión soviética que era atea, durante 70 años se reunían en una casa y estando ahí en puerta cerrada hacían sus ritos religiosos. No hay mujeres, es una oración sagrada sólo permitida para hombres, más que todo mayores. En ese tiempo era prohibido hacer eso, pero ellos seguían sus convicciones. Su canto es una oración a Dios. Tiene sincronía y aunque el canto sea divertido, en sus rostros se nota la seriedad del asunto
+
 Es un baile de origen **checheno**, y tiene un fuerte componente bélico.
 Para practicar la danza, se tiene que *ser parte de una congregación*, y entre más veterano sea un hombre en ella, más al frente de la danza estará.
 
