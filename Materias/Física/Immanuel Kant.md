@@ -28,4 +28,7 @@ Una de las ideas más conocidas de Kant es la **poca fiabilidad de nuestros sent
 
 Para Kant, el objeto de estudio *no era el foco principal*, como si lo es **el sujeto**, pues es el que le da significado al estudio del objeto.
 
+Este concepto de la [[La realidad social|percepción]] fue uno de los más estudiados por Kant.
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]

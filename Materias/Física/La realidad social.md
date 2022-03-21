@@ -35,6 +35,8 @@ Se definen tres puntos importantes:
 
 ### Verdad
 
+Cuando todos concuerdan en algo que es fácilmente observable y replicable, entonces decimos que ese algo es **una verdad.** 
+
 Puede ser de dos maneras:
 
 - Verdades relativas: Puede ser verdad en un contexto, y dejar de ser verdad en otro. Es algo más subjetiva, pero sigue siendo una afirmación verdadera.
