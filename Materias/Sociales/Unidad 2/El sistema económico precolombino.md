@@ -2,7 +2,7 @@
 tags: Unidad 2 22/03/2022
 ---
 
-# La historia económica de El Salvador
+# El sistema económico precolombino
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 22/03/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 22/03/2022</div>
 
