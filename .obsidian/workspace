@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Hombres necios... (Sor Juana Inés de la Cruz).md",
+            "file": "Materias/Inglés/Listening comprehension - Books.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Hombres necios... (Sor Juana Inés de la Cruz).md",
+                "file": "Materias/Inglés/Listening comprehension - Books.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Hombres necios... (Sor Juana Inés de la Cruz).md",
-    "Materias/Sociales/Los esclavos.md",
-    "Materias/Sociales/Organización social durante la colonia.md",
-    "Materias/Sociales/Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Alejandro Magno.md",
-    "Materias/Sociales/Unidad 2/Las tribus de El Salvador.md",
-    "Materias/Sociales/Unidad 2/La historia económica de El Salvador.md",
-    "Materias/Sociales/Unidad 2/Origen de los pipiles.md",
-    "Materias/Sociales/Unidad 2/El sistema económico precolombino.md",
-    "Materias/Sociales/Unidad 2/'UNIDAD 2.md"
+    "Materias/Inglés/Listening comprehension - Books.md",
+    "Materias/Matemáticas/Rectas perpendiculares.md",
+    "Materias/Matemáticas/Rectas paralelas a los ejes y ecuación general de la recta.md",
+    "Materias/Matemáticas/Rectas paralelas.md",
+    "Materias/Matemáticas/Punto medio entre dos puntos.md",
+    "Materias/Matemáticas/Punto de intersección entre rectas.md",
+    "Materias/Matemáticas/La recta.md",
+    "Materias/Matemáticas/Ecuación punto-pendiente.md",
+    "Materias/Matemáticas/Distancia de un punto a una recta.md",
+    "Materias/Matemáticas/Distancia entre dos puntos y punto medio.md"
   ]
 }
