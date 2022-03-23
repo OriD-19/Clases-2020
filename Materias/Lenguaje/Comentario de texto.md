@@ -28,7 +28,12 @@ Se describe la estructura (métrica) y se señalan las figuras literarias (citar
 
 ### Pregunta 
 
-Se escribe una inquietud sobre el texto y se responde con una teoría (hipótesis).
+Se escribe una inquietud sobre el texto y se responde con una teoría (hipótesis). 
+Existen dos tipos:
+- La **pregunta directa**.
+- La **pregunta indirecta**.
+
+Hace referencia a la *presencia de signos de puntuación* a la hora de redactar la pregunta.
 
 ## Segunda parte del comentario
 
@@ -36,6 +41,8 @@ Se escribe una inquietud sobre el texto y se responde con una teoría (hipótesi
 
 Lo que me pareció el texto, lo que más me agrada del texto, lo que me llama la atención, etc.
 Por otro lado (*en otro párrafo*) comentar lo que NO ME GUSTÓ del texto.
+
+Se puede **escribir en primera persona**. Lo importante es *mantener una sola persona gramatical durante toda la redacción de la opinión*.
 
 ### Conclusión
 
