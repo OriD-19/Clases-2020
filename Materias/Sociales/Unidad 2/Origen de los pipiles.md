@@ -10,4 +10,10 @@ Después de la pelea de unas tribus mejicanas, dichas tribus fueron **migrando h
 
 Una de las cosas más importantes que caracterizan a los salvadoreños como *parientes cercanos de los aztecas debido a esto*.
 
+El término **pipil significa "niño"**.
+
+## [[División administrativa de los pipiles]]
+
+## [[Características de los pipiles]]
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

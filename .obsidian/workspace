@@ -7,8 +7,12 @@
         "id": "2fd65e7bbdec4bac",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Sociales/Unidad 2/El viaje de Cristobal Colón.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Immanuel",
+                "query": "tag:#10/02/2022",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Sociales/Unidad 2/El viaje de Cristobal Colón.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Física/Potencia.md",
-    "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
-    "Materias/Sociales/Técnicas de investigación.md",
-    "Materias/Sociales/Sócrates.md",
-    "Materias/Lenguaje/Primero Sueño.md",
-    "Materias/Lenguaje/Comentario de texto.md",
-    "Materias/Lenguaje/Aztecas.md",
-    "Materias/Lenguaje/Análisis sintáctico.md",
-    "Materias/Lenguaje/Análisis de texto.md",
-    "Materias/Inglés/Listening comprehension - Books.md"
+    "Materias/Sociales/Unidad 2/El viaje de Cristobal Colón.md",
+    "Materias/Sociales/Unidad 2/División administrativa de los pipiles.md",
+    "Materias/Sociales/Unidad 2/Características de los pipiles.md",
+    "Materias/Sociales/Unidad 2/Origen de los pipiles.md",
+    "Materias/Sociales/Unidad 2/Las tribus de El Salvador.md",
+    "Materias/Sociales/Unidad 2/Los esclavos.md",
+    "Materias/Sociales/Unidad 2/El sistema económico precolombino.md",
+    "Materias/Sociales/Unidad 2/La historia económica de El Salvador.md",
+    "Materias/Química/Cinética química.md",
+    "Materias/Química/Ecuaciones de velocidad.md"
   ]
 }
