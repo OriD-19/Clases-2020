@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Ecuaciones de velocidad.md",
+            "file": "Materias/Química/Ejercicio equilibrio químico.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Ecuaciones de velocidad.md",
+                "file": "Materias/Química/Ejercicio equilibrio químico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Química/Ejercicio equilibrio químico.md",
     "Materias/Química/Ecuaciones de velocidad.md",
     "Materias/Química/Equilibrio químico.md",
     "Materias/Física/Problemas/Ejemplo 3 - Energía mecánica.md",
@@ -114,7 +115,6 @@
     "Materias/Física/Problemas/Problema 1.md",
     "Materias/Física/Problemas/Ejemplo 2 - Energía mecánica.md",
     "Materias/Física/Problemas/Ejemplo 2 - Energía.md",
-    "Materias/Física/Problemas/Ejemplo - Conservación de la energía.md",
-    "Materias/Física/Teorema del trabajo y energía.md"
+    "Materias/Física/Problemas/Ejemplo - Conservación de la energía.md"
   ]
 }
