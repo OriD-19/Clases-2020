@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+            "file": "Materias/Sociales/El siglo de las luces.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+                "file": "Materias/Sociales/El siglo de las luces.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
-    "Materias/Sociales/La realidad social.md",
-    "Materias/Sociales/Immanuel Kant.md",
-    "Materias/Libros de lenguaje bimestre II.png",
-    "Materias/Química/Ejercicio equilibrio químico.md",
-    "Materias/Química/Ecuaciones de velocidad.md",
-    "Materias/Química/Equilibrio químico.md",
-    "Materias/Física/Problemas/Ejemplo 3 - Energía mecánica.md",
-    "Materias/Física/Problemas/Ejemplo 3 - Teoría sobre la energía.md",
-    "Materias/Física/Problemas/Problema 2.md"
+    "Materias/Sociales/El siglo de las luces.md",
+    "Materias/Sociales/La historia del pensamiento científico.md",
+    "Materias/Sociales/El nacimiento de la sociología.md",
+    "Materias/Sociales/Diógenes.md",
+    "Materias/Sociales/Dinastía Somoza.md",
+    "Materias/Sociales/Dictaduras latinoamericanas.md",
+    "Materias/Sociales/Dictadura chilena.md",
+    "Materias/Sociales/Dictadura Argentina.md",
+    "Materias/Sociales/Cualidades de una entrevista.md",
+    "Materias/Sociales/Características de la ilustración.md"
   ]
 }
