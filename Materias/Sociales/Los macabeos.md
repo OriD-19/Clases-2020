@@ -6,7 +6,7 @@ tags: Sociales 10/02/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 10/02/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 10/02/2022</div>
 
-Fueron una familia importante durante la antigua grecia, pues protestaron **en contra de la ocupación de los templos judíos para fines** religisos de la antigua grecia.
+Fueron una familia importante durante la antigua grecia, pues protestaron **en contra de la ocupación de los templos judíos para fines** religiosos de la antigua grecia.
 
 Debido a esto, *todos fueron cocinados vivos frente a sus familias*.
 
