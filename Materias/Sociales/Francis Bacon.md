@@ -14,7 +14,7 @@ El contexto social de esta persona es muy diverso, ya que era parte de dos estra
 
 Una de las cosas particulares que tenía, era su **apatía hacia la autoridad que le refutaba sus ideas**; no importaba incluso que *el rey* intentara rebatirle, si no tenía razón, no se la daba bajo ningún concepto.
 
-Poseía tanto conocimiento, que algunos alegaron incluso que, realmente, William Shakespeare no escribiía sus obras, sino que realmente era *Francis Bacon.*
+Poseía tanto conocimiento, que algunos alegaron incluso que, realmente, William Shakespeare no escribiía sus obras, sino que era *Francis Bacon.*
 
 ## Legado
 

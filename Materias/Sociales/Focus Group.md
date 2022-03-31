@@ -11,7 +11,7 @@ Convoca a personas que cumplen un requisito que a ellos les interesa para *cambi
 
 ## Delimitar el grupo
 
-El primer paso para aplicar esta técnica es *delilmitar y seleccionar un grupo* de personas que cumplan el requerimento que estamos buscando. El punto importante es **cubrir el nicho de mercado que se está buscando**.
+El primer paso para aplicar esta técnica es *delimitar y seleccionar un grupo* de personas que cumplan el requerimento que estamos buscando. El punto importante es **cubrir el nicho de mercado que se está buscando**.
 
 Por ejemplo, si estamos buscando renovar la imagen de una marca de cervezas, el grupo etario tiene que estar por encima de la mayoría legal para beber dicha sustancia, y además debería de ser un consumidor frecuente del producto.
 
