@@ -14,7 +14,7 @@ Es parte de un desarrollo humano complejo que es elaborado en nuestro propio pen
 
 Es algo que se crea entre todas las personas; **entre sociedades**.
 
-La realidad es algo *sumamente dependiente* de cada personas, pues las interpretaciones son personales y subjetivas. Ninguna realidad impacta de igual manera a dos personas diferentes.
+La realidad es algo *sumamente dependiente* de cada persona, pues las interpretaciones son personales y subjetivas. Ninguna realidad impacta de igual manera a dos personas diferentes.
 
 ### La realidad subjetiva
 
