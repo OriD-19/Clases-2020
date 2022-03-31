@@ -16,7 +16,7 @@ Por eso se dice que el lenguaje de la ciencia es matemático, pues es riguroso y
 
 ## Avances
 
-Creo un tratado llamado **el discruso del método**.
+Creo un tratado llamado **el discurso del método**.
 
 Este planeaba *investigar los métodos mediante los cuales era factible encontrar las verdades*.
 
