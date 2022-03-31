@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Ejercicio equilibrio químico.md",
-            "mode": "preview",
+            "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Ejercicio equilibrio químico.md",
+                "file": "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Sociales/Las disciplinas de las ciencias sociales.md",
+    "Materias/Sociales/La realidad social.md",
+    "Materias/Sociales/Immanuel Kant.md",
+    "Materias/Libros de lenguaje bimestre II.png",
     "Materias/Química/Ejercicio equilibrio químico.md",
     "Materias/Química/Ecuaciones de velocidad.md",
     "Materias/Química/Equilibrio químico.md",
     "Materias/Física/Problemas/Ejemplo 3 - Energía mecánica.md",
     "Materias/Física/Problemas/Ejemplo 3 - Teoría sobre la energía.md",
-    "Materias/Física/Problemas/Problema 2.md",
-    "Materias/Física/Problemas/Problema 1.md",
-    "Materias/Física/Problemas/Ejemplo 2 - Energía mecánica.md",
-    "Materias/Física/Problemas/Ejemplo 2 - Energía.md",
-    "Materias/Física/Problemas/Ejemplo - Conservación de la energía.md"
+    "Materias/Física/Problemas/Problema 2.md"
   ]
 }
