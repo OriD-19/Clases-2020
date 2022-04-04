@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evaluaciones.md",
+            "file": "Materias/Lenguaje/Nezahualcóyotl.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#10/02/2022",
+                "query": "file:maya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evaluaciones.md",
+                "file": "Materias/Lenguaje/Nezahualcóyotl.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Nezahualcóyotl.md",
+    "Materias/Lenguaje/Neoclasicismo.md",
+    "Materias/Lenguaje/Códices mayas.md",
+    "Materias/Inglés/Gradable and ungradable adjectives.md",
     "Evaluaciones.md",
     "Materias/Seminario/Trabajo Tesinas bimestre I.md",
     "Materias/Seminario/Justificación de la investigación.md",
     "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
     "Materias/Sociales/Técnicas de investigación.md",
-    "Materias/Sociales/Sócrates.md",
-    "Materias/Sociales/El siglo de las luces.md",
-    "Materias/Sociales/Luis Anastasio Somoza Debayle.md",
-    "Materias/Sociales/Louis XVI.md",
-    "Materias/Sociales/Los macabeos.md"
+    "Materias/Sociales/Sócrates.md"
   ]
 }
