@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Nezahualcóyotl.md",
+            "file": "Materias/Sociales/Unidad 2/Proceso de independencia.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:maya",
+                "query": "organización social",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Nezahualcóyotl.md",
+                "file": "Materias/Sociales/Unidad 2/Proceso de independencia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Nezahualcóyotl.md",
-    "Materias/Lenguaje/Neoclasicismo.md",
-    "Materias/Lenguaje/Códices mayas.md",
-    "Materias/Inglés/Gradable and ungradable adjectives.md",
-    "Evaluaciones.md",
-    "Materias/Seminario/Trabajo Tesinas bimestre I.md",
-    "Materias/Seminario/Justificación de la investigación.md",
-    "Materias/Sociales/Trabajo final - Investigación cuantitativa.md",
-    "Materias/Sociales/Técnicas de investigación.md",
-    "Materias/Sociales/Sócrates.md"
+    "Materias/Sociales/Unidad 2/Proceso de independencia.md",
+    "Materias/Sociales/Unidad 2/Organización administrativa durante la colonia.md",
+    "Materias/Sociales/Unidad 2/Organización social durante la colonia.md",
+    "Materias/Sociales/Unidad 2/Características de los pipiles.md",
+    "Materias/Sociales/Unidad 2/Origen de los pipiles.md",
+    "Materias/Sociales/Unidad 2/Los esclavos.md",
+    "Materias/Sociales/Unidad 2/Las tierras durante la época colonial.md",
+    "Materias/Sociales/Unidad 2/El viaje de Cristobal Colón.md",
+    "Materias/Sociales/Unidad 2/División administrativa de los pipiles.md",
+    "Materias/Sociales/Unidad 2/La historia económica de El Salvador.md"
   ]
 }
