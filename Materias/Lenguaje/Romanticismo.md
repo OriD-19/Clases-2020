@@ -23,4 +23,6 @@ Entre las características principales del romanticismo, tenemos:
 - La nostalgía (por la nación, o por la infancia).
 - La obra imperfecta, y abierta a interpretaciones.
 
+Otro de los puntos importantes que trata el romanticismo es **el patriotismo**. Este sentimiento es importante, puesto que, en un contexto liberalizador como la *Revolución Francesa*, la patria era sumamente importante sobre las personas.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]

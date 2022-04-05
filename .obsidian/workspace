@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Unidad 2/Proceso de independencia.md",
+            "file": "Materias/Lenguaje/Romanticismo.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organización social",
+                "query": "file:Romant",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Unidad 2/Proceso de independencia.md",
+                "file": "Materias/Lenguaje/Romanticismo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,8 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Romanticismo.md",
+    "Materias/Lenguaje/Untitled.md",
     "Materias/Sociales/Unidad 2/Proceso de independencia.md",
     "Materias/Sociales/Objetivos en un trabajo de investigación.md",
     "Materias/Sociales/Planteamiento del problema.md",
@@ -113,8 +116,6 @@
     "Materias/Sociales/Unidad 2/Características de los pipiles.md",
     "Materias/Sociales/Immanuel Kant.md",
     "Materias/Química/Alcoholes.md",
-    "Materias/Química/Grupos funcionales de la química orgánica.md",
-    "templates/Concept_template.md",
-    "Materias/Inglés/Unit 3 - vocabulary.md"
+    "Materias/Química/Grupos funcionales de la química orgánica.md"
   ]
 }
