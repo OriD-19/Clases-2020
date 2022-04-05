@@ -8,7 +8,7 @@ tags: Unidad 2 04/04/2022
 
 ## Factores externos
 
-Los motivos por los cuales comenzaron a suscitarse diferentes problemas en la colonia americana fueron, principalmente, originadas por las llamadas **reformas borbónicas**, las cuales quitaban muchas libertades a todas las personas que *no fueran españoles nacidos en España*.
+Los motivos por los cuales comenzaron a suscitarse diferentes problemas en la colonia americana fueron, principalmente, originadas por las llamadas **reformas borbónicas, en el siglo XVIII**, las cuales quitaban muchas libertades a todas las personas que *no fueran españoles nacidos en España*.
 
 Otro de los factores importantes fue **la independencia de los Estados Unidos**, puesto que fue llevada a cabo por campesinos y por el pueblo, significando esto que *cualquier población podría derrocar al rey si tenía la voluntad de hacerlo*. Uno de los puntos más importantes a considerar fue la **traición que tuvieron España y Francia en contra de Inglaterra** a la hora de apoyar a los estadounidenses con la independencia. Debido a esto, los ingleses **apoyaron los movimientos de independencia en latinoamérica**.
 
@@ -25,6 +25,7 @@ El contexto histórico de los movimientos independentistas en México es muy dis
 Es decir, querían **a su rey de vuelta**. Habían ciertas personas que estaban en desacuerdo con la monarquía actual, por lo que *pelearon para traer de vuelta a su rey*.
 
 ### La independencia en centroamérica
+
 
 
 ### El caso de Belice

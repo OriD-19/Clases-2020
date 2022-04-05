@@ -12,7 +12,7 @@ La pregunta del trabajo es única.
 
 ## Delimitaciones del planteamiento
 
-- Conceptual: Dividirlo en *causa-consecuencia*.
+- Conceptual: Dividirlo en *causa-consecuencia* en el caso de las cuantitativas.
 - Poblacional: Para quién va dirgido el trabajo.
 - Espacial: En qué lugar se desarrollará el trabajo.
 - Temporal: En qué período de tiempo se llevará a cabo del trabajo.

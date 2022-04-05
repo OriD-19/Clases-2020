@@ -11,6 +11,6 @@ Para redactar los objetivos de un trabajo de investigación, estos se deben hace
 Los verbos a utilizar para los objetivos generales son los siguientes:
 
 - Cuantitativo: **Explicar**
-- Cualitativo: **Comprender e interpretar**
+- Cualitativo: **Comprender, interpretar y descubrir**
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
