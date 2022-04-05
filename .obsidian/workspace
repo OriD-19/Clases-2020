@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Inglés/Unit 3 - vocabulary.md",
+            "file": "Materias/Química/Alcoholes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/Unit 3 - vocabulary.md",
+                "file": "Materias/Química/Alcoholes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Química/Alcoholes.md",
+    "Materias/Química/Grupos funcionales de la química orgánica.md",
+    "templates/Concept_template.md",
     "Materias/Inglés/Unit 3 - vocabulary.md",
     "Materias/Física/Viscosidad.md",
     "Materias/Física/Fluidos.md",
     "Materias/Matemáticas/Contenido UNIDAD 3.md",
     "Materias/Sociales/Unidad 2/Proceso de independencia.md",
     "Materias/Sociales/Unidad 2/Organización administrativa durante la colonia.md",
-    "Materias/Sociales/Unidad 2/Organización social durante la colonia.md",
-    "Materias/Sociales/Unidad 2/Características de los pipiles.md",
-    "Materias/Sociales/Unidad 2/Origen de los pipiles.md",
-    "Materias/Sociales/Unidad 2/Los esclavos.md"
+    "Materias/Sociales/Unidad 2/Organización social durante la colonia.md"
   ]
 }
