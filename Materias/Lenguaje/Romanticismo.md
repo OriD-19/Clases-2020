@@ -25,4 +25,8 @@ Entre las características principales del romanticismo, tenemos:
 
 Otro de los puntos importantes que trata el romanticismo es **el patriotismo**. Este sentimiento es importante, puesto que, en un contexto liberalizador como la *Revolución Francesa*, la patria era sumamente importante sobre las personas.
 
+La diferencia entre las características del **realismo y del romanticismo** (dos corrientes que abordan el tema de la muerte) es, precisamente, *la crueldad y las condiciones en las que se dan sus temas*.
+
+Por ejemplo, en la obra **Marianela** se trata el tema de la muerte por amor, pero no es catalogada como una obra del romanticismo *por la crueldad humana con la que se trata*.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
