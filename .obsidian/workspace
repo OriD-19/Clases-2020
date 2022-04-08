@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Alcoholes.md",
-            "mode": "source",
+            "file": "Materias/Matemáticas/Contenido UNIDAD 3.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Romant",
+                "query": "tag:#04/04/2022",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Alcoholes.md",
+                "file": "Materias/Matemáticas/Contenido UNIDAD 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Contenido UNIDAD 3.md",
     "Materias/Química/Alcoholes.md",
     "Materias/Química/Grupos funcionales de la química orgánica.md",
     "Materias/Inglés/Listening exercise - Unit 3.md",
@@ -114,7 +116,6 @@
     "Materias/Física/Energía.md",
     "Materias/Lenguaje/Romanticismo.md",
     "Materias/Lenguaje/Untitled.md",
-    "Materias/Sociales/Unidad 2/Proceso de independencia.md",
-    "Materias/Sociales/Objetivos en un trabajo de investigación.md"
+    "Materias/Sociales/Unidad 2/Proceso de independencia.md"
   ]
 }
