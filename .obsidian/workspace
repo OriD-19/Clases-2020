@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Contenido UNIDAD 3.md",
+            "file": "Materias/Inglés/Listening exercise - Unit 3.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#04/04/2022",
+                "query": "tag:#06/04/2022",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Contenido UNIDAD 3.md",
+                "file": "Materias/Inglés/Listening exercise - Unit 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Matemáticas/Contenido UNIDAD 3.md",
-    "Materias/Química/Alcoholes.md",
-    "Materias/Química/Grupos funcionales de la química orgánica.md",
     "Materias/Inglés/Listening exercise - Unit 3.md",
+    "Materias/Inglés/Unit 3 - vocabulary.md",
+    "Materias/Sociales/Planteamiento del problema.md",
     "Materias/Física/Tensión superficial.md",
+    "Materias/Sociales/Objetivos en un trabajo de investigación.md",
+    "Materias/Química/Grupos funcionales de la química orgánica.md",
+    "Materias/Química/Alcoholes.md",
     "Materias/Física/Viscosidad.md",
-    "Materias/Física/Energía.md",
-    "Materias/Lenguaje/Romanticismo.md",
-    "Materias/Lenguaje/Untitled.md",
-    "Materias/Sociales/Unidad 2/Proceso de independencia.md"
+    "Materias/Sociales/Unidad 2/Proceso de independencia.md",
+    "Materias/Sociales/Unidad 2/Organización administrativa durante la colonia.md"
   ]
 }
