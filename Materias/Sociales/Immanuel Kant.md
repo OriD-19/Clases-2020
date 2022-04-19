@@ -31,4 +31,4 @@ Para Kant, el objeto de estudio *no era el foco principal*, como si lo es **el s
 Este concepto de la [[La realidad social|percepción]] fue uno de los más estudiados por Kant.
 
 
-<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
+<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

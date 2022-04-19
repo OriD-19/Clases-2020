@@ -62,4 +62,4 @@ Son verdades que todo el mundo puede conocer, y que se adquieren a través de la
 
 Este factor es uno de los más estudiados, pues se centra en la capacidad de los seres humanos para moldear una sociedad y cambiarla respecto a lo que cambian ellos.
 
-<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
+<span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
