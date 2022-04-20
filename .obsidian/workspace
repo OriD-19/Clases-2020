@@ -7,8 +7,12 @@
         "id": "2fd65e7bbdec4bac",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Lenguaje/Tendencias del romanticismo.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Lenguaje/Tendencias del romanticismo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Tendencias del romanticismo.md",
+    "Materias/Lenguaje/Contexto histórico del romanticismo.md",
+    "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
     "Materias/Sociales/La realidad social.md",
     "Materias/Sociales/Immanuel Kant.md",
     "Materias/Sociales/'FÍSICA.md",
     "'FÍSICA.md",
     "Materias/Inglés/Listening exercise - Unit 3.md",
     "Materias/Inglés/Unit 3 - vocabulary.md",
-    "Materias/Sociales/Planteamiento del problema.md",
-    "Materias/Física/Tensión superficial.md",
-    "Materias/Sociales/Objetivos en un trabajo de investigación.md",
-    "Materias/Química/Grupos funcionales de la química orgánica.md"
+    "Materias/Sociales/Planteamiento del problema.md"
   ]
 }
