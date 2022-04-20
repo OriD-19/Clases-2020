@@ -23,4 +23,12 @@ Por ejemplo, tenemos las siguientes reacciones:
 
 El valor de **R** en la ecuación corresponde a un **valor variable**, que representa *cualquier grupo de carbonos*, como por ejemplo el metano, etano, propano, etc.
 
+Se usa el [[Proceso de Markonikov]]
+
+### Hidroboración de un alqueno
+
+Muy parecida al caso anterior, la hidroboración es el proceso mediante el cual utilizamos el tetrahidrofurano para romper el doble enlace de un alqueno, combinado con el grupo **hidroxilo (OH)** para formar un alcohol.
+
+Estas reacciones obedecen al [[Proceso de Markonikov]], pero con las **reglas inversas.** Esto es conocido como **proceso de anti-markonikov**
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
