@@ -22,4 +22,6 @@ Por la fuerza de la cohesión, si se juntan dos gotas de agua forman una sola; l
 
 Comúnmente, las sustancias *líquidas* se adhieren a los compuestos *sólidos*. Por ejemplo, cuando vertimos auga en un recipiente, la fuerza de **adhesión** hace que las moléculas de agua se *adhieran* a las paredes de ese recipiente.
 
+**La adhesión determina la [[Capilaridad]] de la sustancia**
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['FÍSICA]]
