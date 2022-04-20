@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Física/Capilaridad.md",
+            "file": "Materias/Química/Proceso de Markonikov.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Física/Capilaridad.md",
+                "file": "Materias/Química/Proceso de Markonikov.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Química/Proceso de Markonikov.md",
+    "Materias/Química/Reacciones químicas de los alcoholes.md",
     "Materias/Física/Capilaridad.md",
     "Materias/Física/Cohesión y Adhesión.md",
     "Materias/Lenguaje/Tendencias del romanticismo.md",
@@ -113,8 +115,6 @@
     "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
     "Materias/Sociales/La realidad social.md",
     "Materias/Sociales/Immanuel Kant.md",
-    "Materias/Sociales/'FÍSICA.md",
-    "'FÍSICA.md",
-    "Materias/Inglés/Listening exercise - Unit 3.md"
+    "Materias/Sociales/'FÍSICA.md"
   ]
 }
