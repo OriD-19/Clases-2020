@@ -7,12 +7,8 @@
         "id": "2fd65e7bbdec4bac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Matemáticas/Parábola.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Parábola.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +101,7 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Física/Untitled.md",
     "Materias/Matemáticas/Parábola.md",
     "Materias/Matemáticas/Secciones cónicas.md",
     "Materias/OPV/Tipos de liderazgo.md",
@@ -114,7 +110,6 @@
     "Materias/Química/Reacciones químicas de los alcoholes.md",
     "Materias/Química/Alcoholes.md",
     "Materias/Lenguaje/Contexto histórico del romanticismo.md",
-    "Materias/Lenguaje/Tendencias del romanticismo.md",
-    "Materias/Lenguaje/Romanticismo.md"
+    "Materias/Lenguaje/Tendencias del romanticismo.md"
   ]
 }
