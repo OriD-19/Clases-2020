@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Proceso de Markonikov.md",
+            "file": "Materias/OPV/Tipos de liderazgo.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#20/04/2022",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Proceso de Markonikov.md",
+                "file": "Materias/OPV/Tipos de liderazgo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,6 +106,8 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/OPV/Tipos de liderazgo.md",
+    "Materias/OPV/El noviazgo.md",
     "Materias/Química/Proceso de Markonikov.md",
     "Materias/Química/Reacciones químicas de los alcoholes.md",
     "Materias/Química/Alcoholes.md",
@@ -114,8 +115,6 @@
     "Materias/Lenguaje/Tendencias del romanticismo.md",
     "Materias/Lenguaje/Romanticismo.md",
     "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
-    "Materias/Física/Capilaridad.md",
-    "Materias/Física/Cohesión y Adhesión.md",
-    "Materias/Sociales/La realidad social.md"
+    "Materias/Física/Capilaridad.md"
   ]
 }
