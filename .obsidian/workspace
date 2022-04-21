@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Contexto histórico del romanticismo.md",
+            "file": "Materias/Química/Proceso de Markonikov.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:romanti",
+                "query": "tag:#20/04/2022",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Contexto histórico del romanticismo.md",
+                "file": "Materias/Química/Proceso de Markonikov.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Química/Proceso de Markonikov.md",
+    "Materias/Química/Reacciones químicas de los alcoholes.md",
+    "Materias/Química/Alcoholes.md",
     "Materias/Lenguaje/Contexto histórico del romanticismo.md",
     "Materias/Lenguaje/Tendencias del romanticismo.md",
     "Materias/Lenguaje/Romanticismo.md",
     "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
-    "Materias/Química/Reacciones químicas de los alcoholes.md",
-    "Materias/Química/Proceso de Markonikov.md",
     "Materias/Física/Capilaridad.md",
     "Materias/Física/Cohesión y Adhesión.md",
-    "Materias/Sociales/La realidad social.md",
-    "Materias/Sociales/Immanuel Kant.md"
+    "Materias/Sociales/La realidad social.md"
   ]
 }
