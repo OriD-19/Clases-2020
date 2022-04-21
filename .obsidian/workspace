@@ -7,8 +7,12 @@
         "id": "2fd65e7bbdec4bac",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Física/Incompresibilidad.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Física/Incompresibilidad.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,7 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
-    "Materias/Física/Untitled.md",
+    "Materias/Física/Incompresibilidad.md",
     "Materias/Matemáticas/Parábola.md",
     "Materias/Matemáticas/Secciones cónicas.md",
     "Materias/OPV/Tipos de liderazgo.md",
