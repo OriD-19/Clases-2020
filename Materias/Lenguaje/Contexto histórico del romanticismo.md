@@ -25,6 +25,6 @@ Fue un proceso **complejo y tedioso**, en el cual se dio el proceso de *estructu
 
 Luego de la independencia, el territorio salvadoreño no fue llamado "El Salvador" de manera inmediata, puesto que **hubo diversos procesos que devinieron en la división política de América**.
 
-En El Salvador, el [[Romanticismo]] es el **primer movimiento literario**. *Francisco Gavidia* es considerado el autor más *prolífico del romanticismo*, y es considerado **el fundador de la literatura salvadoreña.**
+En El Salvador, el [[Romanticismo]] es el **primer movimiento literario**. *[[Francisco Gavidia]]* es considerado el autor más *prolífico del romanticismo*, y es considerado **el fundador de la literatura salvadoreña.**
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]

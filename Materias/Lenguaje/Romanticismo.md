@@ -29,4 +29,8 @@ La diferencia entre las características del **realismo y del romanticismo** (do
 
 Por ejemplo, en la obra **Marianela** se trata el tema de la muerte por amor, pero no es catalogada como una obra del romanticismo *por la crueldad humana con la que se trata*.
 
+## En América
+
+El romanticismo americano fue una *fusión de los estilos europeos y americanos*. Si leemos las obras escritas en América, nos daremos cuenta de que las características del romanticismo americano **son similares a los europeos**, pero tratando temáticas diferidas.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
