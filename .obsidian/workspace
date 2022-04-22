@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Seminario/Teorías de las ciencias sociales.md",
+            "file": "Materias/Sociales/Liberales.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Teorías de las ciencias sociales.md",
+                "file": "Materias/Sociales/Liberales.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "Materias/Sociales/Liberales.md",
+    "Materias/Sociales/Conservador.md",
+    "Materias/Sociales/República Federal de Centroamérica.md",
+    "Materias/Sociales/Capitanía general de Guatemala.md",
+    "Materias/Sociales/Agustín de Iturbide.md",
     "Materias/Seminario/Teorías de las ciencias sociales.md",
     "Materias/Lenguaje/Francisco Gavidia.md",
     "Materias/Lenguaje/Contexto histórico del romanticismo.md",
     "Materias/Lenguaje/Romanticismo.md",
-    "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
-    "Materias/Física/Densidad.md",
-    "Materias/Física/Incompresibilidad.md",
-    "Materias/Matemáticas/Parábola.md",
-    "Materias/Matemáticas/Secciones cónicas.md",
-    "Materias/OPV/Tipos de liderazgo.md"
+    "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md"
   ]
 }
