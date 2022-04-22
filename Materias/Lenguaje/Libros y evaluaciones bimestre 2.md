@@ -7,8 +7,8 @@ tags: Lenguaje 19/04/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 19/04/2022</div>
 
 - Primer control: *Cenizas de Izalco* (Claribel Alegría) 3 de mayo.
-- Segundo control: *Un día en la vida* de Manlio Argueta. **Semana del 20 de mayo**, examen oral.
-- Tercer control: Libros variados.
+- Segundo control: *Un día en la vida* de Manlio Argueta. **Semana del 20 de mayo**, parejas.
+- Tercer control: Libros variados. Evaluación oral.
 - Cuarta actividad: Realizar un "menú" de corrientes (épocas) literarias. (redacción)
 - Quinta actividad: **Realizar un cómic sobre un poema de Rubén Darío** (programas digitales)
 

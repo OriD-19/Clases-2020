@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Física/Densidad.md",
+            "file": "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Física/Densidad.md",
+                "file": "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2fd65e7bbdec4bac",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md",
     "Materias/Física/Densidad.md",
     "Materias/Física/Incompresibilidad.md",
     "Materias/Matemáticas/Parábola.md",
@@ -114,7 +115,6 @@
     "Materias/OPV/El noviazgo.md",
     "Materias/Química/Proceso de Markonikov.md",
     "Materias/Química/Reacciones químicas de los alcoholes.md",
-    "Materias/Química/Alcoholes.md",
-    "Materias/Lenguaje/Contexto histórico del romanticismo.md"
+    "Materias/Química/Alcoholes.md"
   ]
 }
