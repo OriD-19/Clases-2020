@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Liberales.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Liberales.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,15 +105,15 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
-    "Materias/Sociales/Liberales.md",
-    "Materias/Sociales/Conservador.md",
-    "Materias/Sociales/República Federal de Centroamérica.md",
-    "Materias/Sociales/Capitanía general de Guatemala.md",
-    "Materias/Sociales/Agustín de Iturbide.md",
-    "Materias/Seminario/Teorías de las ciencias sociales.md",
-    "Materias/Lenguaje/Francisco Gavidia.md",
-    "Materias/Lenguaje/Contexto histórico del romanticismo.md",
+    "conflict-files-obsidian-git.md",
+    "Materias/Lenguaje/Tendencias del romanticismo.md",
     "Materias/Lenguaje/Romanticismo.md",
-    "Materias/Lenguaje/Libros y evaluaciones bimestre 2.md"
+    "Materias/Lenguaje/Contexto histórico del romanticismo.md",
+    "Materias/Lenguaje/Francisco Gavidia.md",
+    "Materias/Lenguaje/'LENGUAJE.md",
+    "Materias/Sociales/Liberales.md",
+    "Materias/Sociales/La realidad social.md",
+    "Materias/Sociales/UNIDAD I/Immanuel Kant.md",
+    "Materias/Sociales/UNIDAD I/Francis Bacon.md"
   ]
 }
