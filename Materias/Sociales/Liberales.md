@@ -12,6 +12,10 @@ Estas personas, en el siglo XIX, propusieron el **divorcio**, lo que causó una 
 
 Otros de los aspectos en los que estaban en contra era sobre la *masiva intervención de la iglesia en otros aspectos sociales y culturales* . Por ejemplo, la iglesia estaba **financiando hospitales, escuelas, etc.** Por lo que cuando la iglesia perdió poder, muchas de estas instituciones *desaparecieron por falta de recursos.*
 
-Los liberales estaban **a favor de la libertad individual**, y del *libre mercado.*
+Los liberales estaban **a favor de la libertad individual**, y del *libre mercado.* Un ejemplo de liberal fue [[Gerardo Barrios]].
+
+## La liberalización del mercado
+
+Los liberales abogaban por un modelo de comercio más libre y descentralizado, sin contar con un organismo central que regulase o mediase entre las relaciones económicas.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

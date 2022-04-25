@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Religión/La persona como imagen de Dios.md",
+            "file": "Materias/Sociales/Gerardo Barrios.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Romanticismo",
+                "query": "file:Gerardo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Religión/La persona como imagen de Dios.md",
+                "file": "Materias/Sociales/Gerardo Barrios.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "Materias/Sociales/Gerardo Barrios.md",
+    "Materias/Sociales/República Federal de Centroamérica.md",
+    "Materias/Sociales/Untitled.md",
+    "Materias/Sociales/Guerra entre conservadores y liberales.md",
+    "Materias/Sociales/Anastasio Aquino.md",
+    "Materias/Sociales/Rafael Carrera.md",
+    "Materias/Sociales/Liberales.md",
     "Materias/Religión/La persona como imagen de Dios.md",
     "Materias/Química/Propiedades químicas de los alcoholes.md",
-    "Materias/Química/e.md",
-    "Materias/Química/Reacciones químicas de los alcoholes.md",
-    "Materias/Lenguaje/Francisco Gavidia.md",
-    "conflict-files-obsidian-git.md",
-    "Materias/Lenguaje/Tendencias del romanticismo.md",
-    "Materias/Lenguaje/Romanticismo.md",
-    "Materias/Lenguaje/Contexto histórico del romanticismo.md",
-    "Materias/Lenguaje/'LENGUAJE.md"
+    "Materias/Química/e.md"
   ]
 }
