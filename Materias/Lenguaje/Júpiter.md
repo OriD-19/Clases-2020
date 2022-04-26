@@ -14,6 +14,8 @@ La obra más conocida del autor salvadoreño [[Francisco Gavidia]]. Es catalogad
 
 La parte romántica de Júpiter viene dad por el **romanticismo social**. El recuperar un hecho histórico como el *5 de noviembre de 1811* convierte a esta obra en una ficción a partir de un suceso real. El patriotismo que viene dado por el **primer grito de independencia** es otra de las características que aporta ese tinte romántico al texto.
 
-Asimismo, muchos de los discursos de los personajes *tienen una idea explícitamente política* que quiere transmitir el autor 
+Asimismo, muchos de los discursos de los personajes *tienen una idea explícitamente política* que quiere transmitir el autor.
+
+
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
