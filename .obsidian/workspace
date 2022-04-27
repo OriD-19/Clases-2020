@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Matemáticas/Desplazamientos de la parábola.md",
+            "file": "Materias/Química/Aldehídos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Matemáticas/Desplazamientos de la parábola.md",
+                "file": "Materias/Química/Aldehídos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "Materias/Química/Aldehídos.md",
+    "Materias/Química/Cetonas.md",
+    "Materias/Química/Propiedades químicas de los alcoholes.md",
+    "Materias/Química/Reacciones químicas de los alcoholes.md",
+    "Materias/Química/Alcanos, Alquenos y Alquinos.md",
     "Materias/Matemáticas/Desplazamientos de la parábola.md",
     "Materias/Religión/La persona como imagen de Dios.md",
     "Materias/Religión/Los relatos del Génesis.md",
     "Materias/Sociales/El café.md",
-    "Materias/Sociales/c.md",
-    "Materias/Sociales/Carlos Ezeta.md",
-    "Materias/Sociales/Francisco Menéndez.md",
-    "Materias/Sociales/Francisco Dueñas.md",
-    "Materias/Sociales/Gerardo Barrios.md",
-    "Materias/Lenguaje/Júpiter.md"
+    "Materias/Sociales/c.md"
   ]
 }
