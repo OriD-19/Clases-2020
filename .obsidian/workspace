@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/El café.md",
+            "file": "Materias/Religión/La persona como imagen de Dios.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/El café.md",
+                "file": "Materias/Religión/La persona como imagen de Dios.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "Materias/Religión/La persona como imagen de Dios.md",
     "Materias/Sociales/El café.md",
     "Materias/Sociales/c.md",
     "Materias/Sociales/Carlos Ezeta.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Gerardo Barrios.md",
     "Materias/Lenguaje/Júpiter.md",
     "Materias/Sociales/República Federal de Centroamérica.md",
-    "Materias/Sociales/Guerra entre conservadores y liberales.md",
-    "Materias/Sociales/Anastasio Aquino.md"
+    "Materias/Sociales/Guerra entre conservadores y liberales.md"
   ]
 }
