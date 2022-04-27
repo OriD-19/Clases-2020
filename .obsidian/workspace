@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Religión/Los relatos del Génesis.md",
+            "file": "Materias/Religión/La persona como imagen de Dios.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Religión/Los relatos del Génesis.md",
+                "file": "Materias/Religión/La persona como imagen de Dios.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
-    "Materias/Religión/Los relatos del Génesis.md",
     "Materias/Religión/La persona como imagen de Dios.md",
+    "Materias/Religión/Los relatos del Génesis.md",
     "Materias/Sociales/El café.md",
     "Materias/Sociales/c.md",
     "Materias/Sociales/Carlos Ezeta.md",
