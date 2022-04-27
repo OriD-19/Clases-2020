@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Religión/La persona como imagen de Dios.md",
+            "file": "Materias/Matemáticas/Desplazamientos de la parábola.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Religión/La persona como imagen de Dios.md",
+                "file": "Materias/Matemáticas/Desplazamientos de la parábola.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "Materias/Matemáticas/Desplazamientos de la parábola.md",
     "Materias/Religión/La persona como imagen de Dios.md",
     "Materias/Religión/Los relatos del Génesis.md",
     "Materias/Sociales/El café.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Francisco Menéndez.md",
     "Materias/Sociales/Francisco Dueñas.md",
     "Materias/Sociales/Gerardo Barrios.md",
-    "Materias/Lenguaje/Júpiter.md",
-    "Materias/Sociales/República Federal de Centroamérica.md"
+    "Materias/Lenguaje/Júpiter.md"
   ]
 }
