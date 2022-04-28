@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Arutro Ambrogi.md",
+            "file": "Materias/Sociales/Siglo XX en El Salvador.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Arutro Ambrogi.md",
+                "file": "Materias/Sociales/Siglo XX en El Salvador.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "Materias/Sociales/Siglo XX en El Salvador.md",
+    "Materias/Sociales/El café.md",
+    "Materias/Sociales/Rafael Zaldívar.md",
+    "Materias/Sociales/Rafael Carrera.md",
     "Materias/Lenguaje/Arutro Ambrogi.md",
     "Materias/Química/Aldehídos.md",
     "Materias/Química/Cetonas.md",
     "Materias/Química/Propiedades químicas de los alcoholes.md",
     "Materias/Química/Reacciones químicas de los alcoholes.md",
-    "Materias/Química/Alcanos, Alquenos y Alquinos.md",
-    "Materias/Matemáticas/Desplazamientos de la parábola.md",
-    "Materias/Religión/La persona como imagen de Dios.md",
-    "Materias/Religión/Los relatos del Génesis.md",
-    "Materias/Sociales/El café.md"
+    "Materias/Química/Alcanos, Alquenos y Alquinos.md"
   ]
 }
