@@ -11,6 +11,10 @@ tags: Seminario 28/04/2022
 - Cuantitativo (positivista): Se **debe formular** una hipótesis, que es la brújula de la investigación. Es una *pieza fundamental* para el desarrollo. Al final de la investigación, se debe realizar una comprobación estadística por medio de **su versión nula**.
 - Cualitativo (hermenéutico): La hipótesis en este tipo de trabajos es **opcional en su formulación y en su aplicación**. Es decir, se puede prescindir de una hipótesis que *guíe el trabajo en un inicio*. Al final de la investigación, **no se realiza una comprobación estadística.**
 
+Pregunta de investigación: **Plantear una situación**.
+Objetivo: **Describir un proceso para dar solución a la situación**.
+Hipótesis: **Respuesta provisional al problema**.
+
 ### Tipos de hipótesis
 
 
