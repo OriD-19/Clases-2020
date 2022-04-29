@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Seminario/Marco Teórico.md",
+            "file": "Materias/Seminario/Citación de anexos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Marco Teórico.md",
+                "file": "Materias/Seminario/Citación de anexos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "Materias/Seminario/Citación de anexos.md",
     "Materias/Seminario/Marco Teórico.md",
     "Materias/OPV/Papel del líder y nuevas tendencias.md",
     "Materias/Sociales/Siglo XX en El Salvador.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Rafael Carrera.md",
     "Materias/Lenguaje/Arutro Ambrogi.md",
     "Materias/Química/Aldehídos.md",
-    "Materias/Química/Cetonas.md",
-    "Materias/Química/Propiedades químicas de los alcoholes.md"
+    "Materias/Química/Cetonas.md"
   ]
 }
