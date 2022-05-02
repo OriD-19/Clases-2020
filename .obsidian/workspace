@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Francisco Gavidia.md",
+            "file": "templates/Cite.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Francisco Gavidia.md",
+                "file": "templates/Cite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "85e882f5060b9a3a",
   "lastOpenFiles": [
+    "templates/Cite.md",
+    "templates/Concept_template.md",
+    "Materias/Química/Aldehídos.md",
+    "Materias/Química/Cetonas.md",
     "Materias/Lenguaje/Francisco Gavidia.md",
     "Materias/Seminario/Marco Teórico.md",
     "Materias/Seminario/Citación de anexos.md",
     "Materias/OPV/Papel del líder y nuevas tendencias.md",
     "Materias/Sociales/Siglo XX en El Salvador.md",
-    "Materias/Sociales/El café.md",
-    "Materias/Sociales/Rafael Zaldívar.md",
-    "Materias/Sociales/Rafael Carrera.md",
-    "Materias/Lenguaje/Arutro Ambrogi.md",
-    "Materias/Química/Aldehídos.md"
+    "Materias/Sociales/El café.md"
   ]
 }
