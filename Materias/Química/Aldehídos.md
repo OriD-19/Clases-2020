@@ -36,4 +36,14 @@ Cabe resaltar que los carboaldehídos son **sustituyentes,** por lo que no van u
 
 ![[Pasted image 20220427161325.png]]
 
+## Cuando está como sustituyente
+
+Cuando el grupo $CHO$ está como un **sustituyente** y no como grupo funcional, entonces decimos que se llama **formil**. 
+
+En caso de estar presente un ácido carboxílico, entonces se pasa a llamar **oxo**.
+
+Ejemplo:
+
+> *4,4-dimetil-2-formilpentan-2-ona*
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
