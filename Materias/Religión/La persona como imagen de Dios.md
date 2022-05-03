@@ -33,6 +33,14 @@ En este punto, Dios le da al hombre la **potestad de nombrar a todas las criatur
 
 ## Llamado a la felicidad y a la vida plena
 
-	
+Encontrar aquello que nos llama y con lo que nos sentimos más cómodos. **Nadie tiene una misma concepción de la felicidad**, por lo que no existe un concepto universal que defina lo que nos hace felices. Sin embargo, en la Biblia *el árbol de la vida* simboliza el valor que tiene esta para Dios en su creación y, por ende, el valor real de la **felicidad**.
+
+## Libre y responsable
+
+En el génesis Dios nos presenta la idea de un **ser humano libre y responsable**, que sabe usar bien su libertad y actuar *en favor de las cosas que le rodean*.
+
+## Pecador
+
+Una de las cosas que definen al ser humano, debido a la desobediencia de Adán y Eva, es el **pecado**. Por ello, ahora todos los humanos estamos condenados a ser *pecadores*, pero está en nosotros cambiar eso, y cometer la menor cantidad de ofensas para Dios en nuestra vida.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['RELIGIÓN]]

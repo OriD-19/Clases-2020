@@ -21,7 +21,7 @@ Este período tan grande de tiempo que tardaba en crecer el arbusto del café ge
 
 Este proceso fue el que **formó la oligarquía** en El Salvador.
 
-### Excepciones de la acumulación original
+### Excepciones de la acumulación originaria
 
 La familia **Gallardo** se adaptó a la siembra del café, sin esperar ni endeudarse con ningún  otro empresario. En su caso, luego de la primera cosecha *lograron obtener todo el beneficio* y se hicieron ricos a base de cosechar y vender su producto.
 
