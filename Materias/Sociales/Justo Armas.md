@@ -16,6 +16,4 @@ Se tiene un registro de una de sus donaciones, por lo que sabemos que existió c
 
 Cuando el emperador mexicano fue asesinado, su madre determinó que la **persona que había sido ejecutada no era su hijo**. Por ello, las personas se quedaron con las dudas sobre si realmente mataron al verdadero Maximiliano.
 
-
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

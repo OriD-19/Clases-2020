@@ -20,4 +20,6 @@ Al revisar los registros del residente en El Salvador [[Justo Armas]], se hizo u
 
 Sin embargo, todavía no se tienen suficientes pruebas para determinar que **realmente se trata de la misma persona**.
 
+El revolucionario mexicano **Benito Juárez** también tiene un registro que dice: *"Maximiliano fue justo por armas"*, dando pie al posible nombre de su otra identidad (**Justo Armas**).
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

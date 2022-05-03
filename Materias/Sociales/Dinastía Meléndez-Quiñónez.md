@@ -24,4 +24,10 @@ Las mujeres en todo el mundo **solicitaron derechos y oportunidades iguales en l
 
 No fue si no hasta la década de los 40s que los derechos de las mujeres comenzaron a ser tomados en cuenta, y con la Constitución de los 50s es terminaron de consilidar derechos básicos, como el voto.
 
+## La primer radio de El Salvador
+
+México nos regaló **los primeros transitores de una radio**, radio que se llamaría "AQM", en honor al presidente *Alfonso Quiñónez Meléndez*.
+
+## La sucesión de [[Pío Romero Bosque]]
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
