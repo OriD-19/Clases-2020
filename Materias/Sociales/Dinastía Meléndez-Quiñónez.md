@@ -22,4 +22,6 @@ Durante la Dinastía Meléndez-Quiñónez, los presidentes *se centraron en la p
 
 Las mujeres en todo el mundo **solicitaron derechos y oportunidades iguales en la sociedad**. En El Salvador no fue una excpeción, *y existieron muchos problemas con los derechos de las mujeres.*
 
+No fue si no hasta la década de los 40s que los derechos de las mujeres comenzaron a ser tomados en cuenta, y con la Constitución de los 50s es terminaron de consilidar derechos básicos, como el voto.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

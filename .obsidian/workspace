@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Arutro Ambrogi.md",
+            "file": "Materias/Sociales/Justo Armas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Arutro Ambrogi.md",
+                "file": "Materias/Sociales/Justo Armas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a14ad33109bb921e",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Arutro Ambrogi.md",
+    "Materias/Sociales/Justo Armas.md",
+    "Materias/Sociales/Maximiliano de Habsburgo (emperador de México).md",
+    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md",
+    "Materias/Sociales/El café.md",
+    "Materias/Lenguaje/Arturo Ambrogi.md",
     "Materias/Lenguaje/Tendencias del romanticismo.md",
     "Materias/Lenguaje/Júpiter.md",
-    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md",
     "Materias/Sociales/Manuel Enrique Araujo.md",
     "Materias/Sociales/Organización administrativa durante la colonia.md",
-    "Materias/Sociales/El café.md",
-    "Materias/Sociales/Rafael Carrera.md",
-    "Materias/Religión/La persona como imagen de Dios.md",
-    "Materias/Química/Aldehídos.md"
+    "Materias/Sociales/Rafael Carrera.md"
   ]
 }

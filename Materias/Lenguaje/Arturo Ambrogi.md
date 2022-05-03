@@ -2,7 +2,7 @@
 tags: Lenguaje 27/04/2022
 ---
 
-# Arutro Ambrogi
+# Arturo Ambrogi
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 27/04/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 27/04/2022</div>
 
