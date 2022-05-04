@@ -42,6 +42,8 @@ Cuando el grupo $CHO$ está como un **sustituyente** y no como grupo funcional, 
 
 En caso de estar presente un ácido carboxílico, entonces se pasa a llamar **oxo**.
 
+Cuando está presente en un ciclo, entonces los aldehídos se nombran como **carbaldehídos** cuando es el grupo funcional de la molécula. Pero cuando es un sustityente, se llama *formil*.
+
 Ejemplo:
 
 > *4,4-dimetil-2-formilpentan-2-ona*
