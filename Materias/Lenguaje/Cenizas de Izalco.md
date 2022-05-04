@@ -8,4 +8,8 @@ tags: Lenguaje 04/05/2022
 
 ## Contexto histórico de la obra
 
+## Tema central
+
+**El cambio**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
