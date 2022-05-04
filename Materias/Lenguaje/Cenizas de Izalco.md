@@ -14,7 +14,7 @@ tags: Lenguaje 04/05/2022
 
 ## Cuestionario de repaso
 
-1. ¿Qué significa el epígrafe*?
+1. ¿Qué significa el epígrafe*? Clave: Analizar los elementos que se mencionan en la frase.
 2. Interpreta el título.
 3. Analiza las ideas políticas de la época desde tres ópticas distintas.
 4. Interpreta las condiciones sociales y económicas de los personajes y explica las consecuencias de estas ideas en la vida cotidiana.
