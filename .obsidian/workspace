@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Propiedades químicas de los alcoholes.md",
+            "file": "Materias/Lenguaje/Cenizas de Izalco.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Propiedades químicas de los alcoholes.md",
+                "file": "Materias/Lenguaje/Cenizas de Izalco.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "8c58a9f781902f13",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Cenizas de Izalco.md",
     "Materias/Química/Propiedades químicas de los alcoholes.md",
     "Materias/Sociales/Arturo Araujo.md",
     "Materias/Sociales/Pío Romero Bosque.md",
@@ -112,7 +113,6 @@
     "Materias/Sociales/La Gran Depresión.md",
     "Materias/Sociales/Dinastía Meléndez-Quiñónez.md",
     "Materias/Sociales/Capitanía general de Guatemala.md",
-    "Materias/Lenguaje/Cenizas de Izalco.md",
     "Materias/Química/Reacciones de aldehídos y cetonas.md",
     "Materias/Química/Cetonas.md"
   ]
