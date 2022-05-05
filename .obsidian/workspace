@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Cenizas de Izalco.md",
+            "file": "Materias/Sociales/Arturo Araujo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Cenizas de Izalco.md",
+                "file": "Materias/Sociales/Arturo Araujo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "8c58a9f781902f13",
   "lastOpenFiles": [
+    "Materias/Sociales/Arturo Araujo.md",
+    "Materias/Sociales/Pío Romero Bosque.md",
+    "Materias/Sociales/Keynesianismo (Estado de bienestar).md",
+    "Materias/Sociales/La Gran Depresión.md",
+    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md",
+    "Materias/Sociales/Capitanía general de Guatemala.md",
     "Materias/Lenguaje/Cenizas de Izalco.md",
     "Materias/Química/Reacciones de aldehídos y cetonas.md",
     "Materias/Química/Cetonas.md",
-    "Materias/Química/Aldehídos.md",
-    "Materias/Lenguaje/Salarrué.md",
-    "Materias/Lenguaje/José María Peralta Lagos.md",
-    "Materias/Lenguaje/Costumbrismo.md",
-    "Materias/Lenguaje/Realismo.md",
-    "Materias/Sociales/Pío Romero Bosque.md",
-    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md"
+    "Materias/Química/Aldehídos.md"
   ]
 }
