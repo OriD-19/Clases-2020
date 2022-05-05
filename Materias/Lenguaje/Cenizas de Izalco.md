@@ -37,7 +37,11 @@ En la introducción al diario de Frank se nos narra que este es un alcohólico q
 
 ### 2 de noviembre de 1931
 
-En este día Frank escribe sobre su paseo cuando era joven y tenía 21 años
+En este día Frank escribe sobre su paseo cuando era joven y tenía 21 años. Recuerda que fue con sus amigos Virgil Harrid y Johnny Haynes a Sonora, California. Acamparon en la zona en busca de oro, el cual planeaban usar para pagar su siguiente año en la universidad. 
+Luego de varias noches acampando y sobreviviendo en la naturaleza, regresaron con dos bolsas y media llenas de oro, las cuales tenían un valor de $1798.
+Luego de conseguir este dinero, Frank se fue a París, en lo que él considera *el comienzo de su perdición*.
+
+### 3 de noviembre de 1931
 
 ## Cuestionario de repaso
 
