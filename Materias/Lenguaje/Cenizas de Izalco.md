@@ -29,6 +29,16 @@ En contraparte, los campesinos pedían por sus derechos, y estaban dispuestos a 
 
 ## Resumen del diario de Frank
 
+p37
+
+### 31 de octubre de 1931
+
+En la introducción al diario de Frank se nos narra que este es un alcohólico que está en rehabilitación. Se encontraba en un barco, recordando todo aquello que hizo que su camino se torciera, y haciendo una retrospección sobre su vida, y el punto de inflexión que lo hundió en la miseria. Se nos da a entender que Frank Wolff no era una persona feliz ni plena, y que tenía muchísimas carencias en su vida. Necesitaba una chispa de vida, pues *se encontraba sin rumbo*.
+
+### 2 de noviembre de 1931
+
+En este día Frank escribe sobre su paseo cuando era joven y tenía 21 años
+
 ## Cuestionario de repaso
 
 1. ¿Qué significa el epígrafe*? Clave: Analizar los elementos que se mencionan en la frase.
