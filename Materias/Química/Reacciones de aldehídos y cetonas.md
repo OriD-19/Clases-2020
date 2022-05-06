@@ -22,4 +22,11 @@ Cuando el problema menciona la palabra **en exceso**, entonces los dobles enlace
 
 Cuando utilizamos $KMnO_4$ entonces la reacción nos dará como resultado dos **[[Cetonas]]**, y no dos aldehídos.
 
+## Hidratación de alquinos
+
+Se rompen ciertos enlaces del triple enlace, pero dejando otros en la molécula. Cuando se rompe, se queda un doble enlace **con oxígeno**, formando un grupo COO.
+El triple enlace pasa a ser un enlace sencillo, pero con oxígeno y un hidrógeno al lado, producto de la hidratación del compuesto.
+
+**El resultado de esta reacción es una cetona**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
