@@ -17,6 +17,12 @@ Este movimiento, al ser una continuación del [[Romanticismo]], es un estilo **m
 - Unas de las técnicas empleadas es el **cuadro de costumbres.**
 - Tiene intención y/o crítica social.
 - Se manifiesta en otras ramas del arte.
+- Sentido satírico en cuanto a temáticas sociales y políticas.
+- Presetna las costumbres desde un punto de vista de las clases populares.
+- Descripción de personas, costumbres y de escenas populares pintorescas.
+- Utiliza el lenguaje de la comunidad.
+- Retoma temas de la cotidianidad pueblerina (creencias, idiosincrasia).
+- Descripción detallada del paisaje.
 
 ## Ejemplos de costumbrismo en El Salvador
 
