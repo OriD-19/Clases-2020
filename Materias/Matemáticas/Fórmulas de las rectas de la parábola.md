@@ -24,6 +24,10 @@ Para una parábola vertical desplazada, utilizamos la fórmula
 
 $$\large y-y_1 = \frac{x_1 - h}{2p}(x-x_1)$$
 
+## Tangente de una parábola desplazada horizontal
+
+$$\large y-y_1 = \frac{2p}{y_1-k}(x-x_1)$$
+
 ## Normal
 
 ### Vertical
@@ -39,5 +43,9 @@ $$\large y-y_1 = -\frac{y_1}{2p}(x-x_1)$$
 ## Normal de una parábola desplazada vertical
 
 $$\large y-y_1 = -\frac{2p}{x_1-h}(x-x_1)$$
+
+### Normal de una parábola desplazada horizontal
+
+$$\large y-y_1 = -\frac{y_1-k}{2p}(x-x_1)$$
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
