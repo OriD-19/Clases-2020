@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Costumbrismo.md",
+            "file": "Materias/Sociales/Levantamiento campesino.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Costumbrismo.md",
+                "file": "Materias/Sociales/Levantamiento campesino.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "8c58a9f781902f13",
   "lastOpenFiles": [
+    "Materias/Sociales/Levantamiento campesino.md",
+    "Materias/Sociales/Maximiliano Hernández Martínez.md",
+    "Materias/Sociales/Arturo Araujo.md",
+    "Materias/Sociales/Prudencia Ayala.md",
+    "Materias/Sociales/La Gran Depresión.md",
     "Materias/Lenguaje/Costumbrismo.md",
     "Materias/Química/Reacciones de aldehídos y cetonas.md",
     "Materias/Lenguaje/Cenizas de Izalco.md",
     "Materias/Química/Propiedades químicas de los alcoholes.md",
-    "Materias/Sociales/Arturo Araujo.md",
-    "Materias/Sociales/Pío Romero Bosque.md",
-    "Materias/Sociales/Keynesianismo (Estado de bienestar).md",
-    "Materias/Sociales/La Gran Depresión.md",
-    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md",
-    "Materias/Sociales/Capitanía general de Guatemala.md"
+    "Materias/Sociales/Pío Romero Bosque.md"
   ]
 }

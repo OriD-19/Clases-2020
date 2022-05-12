@@ -19,4 +19,17 @@ Finalmente, los empresarios dejaron que los desempleados invirtieran en la bolsa
 
 El día que se conoce como "jueves negro" fue el día en el cual todo estalló todo. Dos días antes, el "martes negro", la bolsa de valores en Wall Street ya tenía **pérdidas millonarias**, por lo que todos los empresarios *comenzaron a sacar el dinero de la bolsa*, y fue ese momento en el cual las acciones de las empresas comenzaron a caer **estrepitosamente**, dando paso al fatídico dia en el cual muchas personas **perdieron toda su riqueza,** y la economía mundial se vio tremendamente afectada.
 
+## El cambio de monedas y de valores en la historia
+
+Previo a la Gran Depresión, el precio de la libra esterlina se mantuvo artificialmente un 10% mayor de lo que en realidad era. Esto fue un ingrediente de los tantos que tuvo una repercusión **catastrófica** en la economía.
+
+### El patrón cambio oro
+
+Después de la depresión, los ingleses se dieron cuenta de que era insostenible mantener el precio de la libra esterlina, por lo que abandonó este sistema.
+
+### El patrón cambio dólar
+
+Luego de las políticas de Keynes, Estados Unidos se convirtió en la potencia mundial más grande, por lo que el resto del mundo se tuvo que ceñir al modelo del dólar americano.
+A raíz de esto, todas las economías del mundo dependían del valor del dólar, y existieron varios problemas a raíz de esto.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
