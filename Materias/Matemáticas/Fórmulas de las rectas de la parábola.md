@@ -14,6 +14,10 @@ La fórmula para calcular la tangente de una parábola con vértice en el origen
 
 $$\large y - y_1 = \frac{x}{2p}(x-x_1)$$
 
+### Horizontal
+
+$$\large y-y_1=\frac{2p}{y_1}(x-x_1)$$
+
 ## Tangente de una parábola desplazada vertical
 
 Para una parábola vertical desplazada, utilizamos la fórmula
@@ -22,9 +26,15 @@ $$\large y-y_1 = \frac{x_1 - h}{2p}(x-x_1)$$
 
 ## Normal
 
+### Vertical
+
 La fórmula para calcular la normal de una parábola con vértice en el origen es
 
 $$\large y-y_1 = -\frac{2p}{x}(x-x_1)$$
+
+### Horizontal
+
+$$\large y-y_1 = -\frac{y_1}{2p}(x-x_1)$$
 
 ## Normal de una parábola desplazada vertical
 
