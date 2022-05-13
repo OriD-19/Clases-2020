@@ -18,4 +18,10 @@ En los momentos finales de su mandato, la situación económica de El Salvador *
 
 Con base a esto, el cuerpo militar promovió un levantamiento en contra de Araujo, puesto que lo consideran un **inepto e incompetente**. Finalmente, el presidente Araujo fue derrocado de su puesto, y los militares ascendieron al poder a su vicepresidente y Ministro de Guerra: **[[Maximiliano Hernández Martínez]]**
 
+### La otra versión de los hechos
+
+La segunda versión del derrocamiento de Arturo Araujo fue la idea de la **intervención de Maximiliano** para quitar a Araujo del poder.
+
+La idea que sustenta esto fue el hecho de que Maximiliano no pudo ganar las elecciones por un margen pequeño de tiempo.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
