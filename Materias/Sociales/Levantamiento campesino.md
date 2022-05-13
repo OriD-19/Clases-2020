@@ -40,4 +40,12 @@ El sistema implementado por [[Arturo Araujo]] conllevaba **una nómina**, la cua
 
 En base a esto, **entre 5 y 30 mil campesinos** fueron masacrados, puesto que, a toda aquella persona que votó por el PCS, *era fusilada* y perseguida, por significar un **posible peligro para el poder de Martínez** y de la oligarquía.
 
+## Las consecuencias
+
+La pérdida cultural fue **una de las más grandes de la historia de nuestro país**.
+
+Los indígenas *tenían miedo* de expresar su cultura, debido a que eran relacionados con el comunismo, y eran ejecutados a la mínima sospecha.
+
+Aún a día de hoy, las personas que tienen raíces indígenas **han perdido gran parte de la cultura** a causa de esto. El idioma Náhuat se ha ido perdiendo a lo largo del tiempo, y no ha habido una gran preservación 
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
