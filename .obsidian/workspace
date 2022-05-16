@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
+            "file": "Materias/Sociales/Maximiliano Hernández Martínez.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
+                "file": "Materias/Sociales/Maximiliano Hernández Martínez.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Sociales/Maximiliano Hernández Martínez.md",
+    "Materias/Sociales/Levantamiento campesino.md",
     "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
     "Materias/Química/Aldehídos.md",
     "Materias/Química/Cetonas.md",
@@ -112,8 +114,6 @@
     "Materias/Sociales/Arturo Araujo.md",
     "Materias/Química/UNIDAD I/Nomenclatura para los alcanos.md",
     "Materias/Química/UNIDAD I/Cinética química.md",
-    "Materias/Sociales/Levantamiento campesino.md",
-    "Materias/Sociales/Anastasio Aquino.md",
-    "Materias/Inglés/Vocabulary Unit 4 - Page 45.md"
+    "Materias/Sociales/Anastasio Aquino.md"
   ]
 }
