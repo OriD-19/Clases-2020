@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c58a9f781902f13",
+        "id": "a4d4e717b9fd2fce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Ácidos carboxílicos.md",
+            "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Ácidos carboxílicos.md",
+                "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "8c58a9f781902f13",
+  "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
-    "Materias/Química/Ácidos carboxílicos.md",
+    "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
     "Materias/Química/Aldehídos.md",
-    "Materias/Sociales/Levantamiento campesino.md",
+    "Materias/Química/Cetonas.md",
+    "Materias/Química/Ácidos carboxílicos.md",
     "Materias/Sociales/Arturo Araujo.md",
+    "Materias/Química/UNIDAD I/Nomenclatura para los alcanos.md",
+    "Materias/Química/UNIDAD I/Cinética química.md",
+    "Materias/Sociales/Levantamiento campesino.md",
     "Materias/Sociales/Anastasio Aquino.md",
-    "Materias/Inglés/Vocabulary Unit 4 - Page 45.md",
-    "Materias/Química/Reacciones de aldehídos y cetonas.md",
-    "Materias/Seminario/Marco Teórico.md",
-    "Materias/Lenguaje/José María Peralta Lagos.md",
-    "Materias/Física/Presión hidrostática.md"
+    "Materias/Inglés/Vocabulary Unit 4 - Page 45.md"
   ]
 }
