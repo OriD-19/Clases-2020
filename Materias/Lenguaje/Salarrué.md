@@ -30,5 +30,6 @@ Incluso creó un **alter ego** llamado *Sagatara*, en base a sus creencias relig
 ## Obras literarias
 
 Su obra más importante es **Cuentos de Barro**. La idea del barro simboliza un *contacto con la tierra.*
+Otras obras son *Cuentos de cipote, Trasmallo, Cristo negro e Íngrimo.*
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
