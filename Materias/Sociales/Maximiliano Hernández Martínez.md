@@ -50,6 +50,35 @@ La otra carretera que cruza El Salvador será la futura **Carretera El Litoral**
 
 Otra de las curiosidades fue que, en varios tramos, la carretera *tenía un carril de ida y un carril de venida*. Al conducir por la carretera, las personas no tenían más opción que mantenerse en su carril, obstaculizando el paso de los vehículos que no eran de carga.
 
+### El puente Cuscatlán
+
+Fue destruido durante la Guerra Civil, pero fue construido durante el gobierno de Martínez. Su par en la carretera El Litoral, el puente de Oro, también fue destruido durante la guerra.
+
+En la Carretera Panamericana, el puente Cuscatlán sirvió para cruzar por el río Lempa.
+
+## Medidas tomadas durante su gobierno
+
+### La represión durante su gobierno
+
+Las políticas de Martínez fueron **estrictas y duras.** Una de las cosas que defendía era el *trabajo y las actividades productivas constantes,* y que nadie se quedara sin hacer nada en ningún momento. Por ello, los estudios durante su gobierno fueron menospreciado, y otros sectores económicos como la **industria fueron rechazados**, y el crecimiento económico también se retrasó increíblemente.
+
+Sólo había una universidad en todo el país, y ser graduado de bachiller era un logro increíble. La Universidad Nacional, incluso, únicamente graduaba a sus estudiantes como *doctores*, sin importar el tipo de estudio que se recibía.
+
+### El pago de la deuda externa
+
+Es el único presidente de la historia de nuestro país que **logró pagar la deuda externa en su totalidad.** No promovió nunca *la deuda* y, por el contrario, condenó el despilfarro de recursos para terminar en deuda con otros países.
+
+### La venta de café en los Estados Unidos
+
+Para reactivar la economía, El Salvador con el gobierno de Martínez lograron **vender café y aumentar su producción durante la Segunda Guerra Mundial**. Esto tuvo efectos en los trabajadores, los cuales *recibieron la mitad del pago* con tal de producir más café y conseguir más beneficios.
+
+## El fin de su presidencia
+
+El 2 de abril de 1944 **el presidente Martínez sufre un golpe a su gobierno**. 
+
+Anteriormente, Maximiliano *modificó la constitución* para permitir su reelección, con la ayuda de la mayoría absoluta de la Asamble Legislativa. Nuevamente, intentó solicitar su reelección, y por ello los militares **mostraron su descontento** con el gobierno de Martínez.
+
+En un contexto en el cual los presidentes alrededor del mundo realizaban la misma práctica, el presidente Martínez consideró oportuna la reelección.
 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
