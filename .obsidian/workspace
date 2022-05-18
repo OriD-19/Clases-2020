@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Reacciones de ácidos carboxílicos.md",
+            "file": "Materias/Lenguaje/Autores salvadoreños.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Reacciones de ácidos carboxílicos.md",
+                "file": "Materias/Lenguaje/Autores salvadoreños.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Autores salvadoreños.md",
+    "Materias/Lenguaje/Salarrué.md",
+    "Materias/Sociales/Maximiliano Hernández Martínez.md",
     "Materias/Química/Reacciones de ácidos carboxílicos.md",
     "Materias/Inglés/Vocabulary Unit 4 - Page 45.md",
     "Materias/Lenguaje/Francisco Gavidia.md",
-    "Materias/Lenguaje/Salarrué.md",
-    "Materias/Sociales/Maximiliano Hernández Martínez.md",
     "Materias/Sociales/Levantamiento campesino.md",
     "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
     "Materias/Química/Aldehídos.md",
-    "Materias/Química/Cetonas.md",
-    "Materias/Química/Ácidos carboxílicos.md"
+    "Materias/Química/Cetonas.md"
   ]
 }
