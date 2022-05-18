@@ -74,11 +74,40 @@ Para reactivar la economía, El Salvador con el gobierno de Martínez lograron *
 
 ## El fin de su presidencia
 
-El 2 de abril de 1944 **el presidente Martínez sufre un golpe a su gobierno**. 
+El 2 de abril de 1944 **el presidente Martínez sufre un golpe a su gobierno**. Se sublevan contra él un buen número de cuarteles, mientras estaba en alguna playa de La Libertad. Finalmente, logra llegar astutamente a San Salvador, a casa presidencial, y fueron **bombardeados los cuarteles** que se rebelaron contra él.
 
 Anteriormente, Maximiliano *modificó la constitución* para permitir su reelección, con la ayuda de la mayoría absoluta de la Asamble Legislativa. Nuevamente, intentó solicitar su reelección, y por ello los militares **mostraron su descontento** con el gobierno de Martínez.
 
 En un contexto en el cual los presidentes alrededor del mundo realizaban la misma práctica, el presidente Martínez consideró oportuna la reelección.
 
+> De hecho, en su último comunicado emitido en radio, él mismo reconoció que **nunca se arrepintió de las cosas que hizo**.
+
+### La huelga de brazos caídos y el asesinato de Jose Wright Alcaine
+
+La **huelga de brazos caídos** fue uno de los momentos *culminantes de la presidencia de Martínez*. Toda la población comenzó a rebelarse en contra del gobierno, y a mostrar su descontento con el mandato de Martínez.
+
+Por otro lado, el suceso que pone el último clavo al ataúd fue la muerte sin esclarecer de **Jose Wright Alcaine**, menor de edad estadounidense. Luego de que los Estados Unidos retirara la ayuda a El Salvador, Martínez no tuvo más opción que *dimitir de la presidencia,* y dejarle su poder al vicepresidente de la época.
+
+## Su asesinato
+
+Luego de su dimisión de la presidencia, Martínez huyó a **Honduras**, en un intento de retirarse de la vida política.
+
+En un punto de su vida, encontró a un hombre llamado **José Cipriano Morales**, quien era un alcohólico. En un intento de conseguir más dinero para las bebidas alcohólicas, cuando Martínez tenía 80 años, *no quiso pagarle un dinero que le debía*, por lo que Morales le dio *17 puñaladas* al expresidente, provocando su muerte en el acto.
+
+### Su entierro
+
+Cuando fue enterrado, en su tumba **no fue incluido su nombre,** para preservar su identidad. No fue sino hasta que el enterrador del cementerio reveló que *Maximiliano fue enterrado en ese sitio* que todos los salvadoreños lo supieron.
+
+El cementerio era el *Cementerio general de San Salvador*.
+
+## Curiosidades
+
+- Para su reelección, fundó el **Partido Pro Patria (PPP)**.
+- En El Salvador exisiteron *campos de concentración*, que eran como colonias y urbanizaciones, pero que concentraban **a los italianos y a los alemanes** en el tiempo de la SGM.
+- Gracias a Martínez, soldados salvadoreños **participaron** en la Segunda Guerra Mundial y en la Guerra de Corea.
+- Monseñor Romero fue detenido en medio de su viaje de regreso a El Salvador en **Cuba, por venir de un país en guerra.**
+- Similar a la hazaña de *Oskar Schindler*, el embajador de Alemania en El Salvador le otorgó a los judíos **pasaportes salvadoreños** para que pudieran migrar a un lugar a salvo. Esta persona fue el *coronel Arturo Castellanos.*
+- Las leyendas afirman que Maximiliano mató a su **propio hijo**, fusilado por el levantamiento de los cuarteles del 2 de abril. Sin embargo, otras fuentes sugieren que, realmente, fue su *ahijado* quien fue asesinado.
+- El músico **Pío Barrios "Mangoré"** fue uno de los más importantes guitarristas de la historia de El Salvador, y el punto más importante de su carrera fue durante la presidencia de Martínez.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
