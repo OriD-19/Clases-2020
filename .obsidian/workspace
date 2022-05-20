@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Seminario/Marco Teórico.md",
+            "file": "Materias/Química/Reacciones de ácidos carboxílicos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Marco Teórico.md",
+                "file": "Materias/Química/Reacciones de ácidos carboxílicos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Química/Reacciones de ácidos carboxílicos.md",
     "Materias/Seminario/Marco Teórico.md",
     "Materias/Lenguaje/Un día en la vida.md",
     "Materias/Física/Presión hidrostática.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/UNIDAD I/Entrevista grupal.md",
     "Materias/Lenguaje/Autores salvadoreños.md",
     "Materias/Sociales/UNIDAD I/Focus Group.md",
-    "Materias/Sociales/República Federal de Centroamérica.md",
-    "Materias/Sociales/Manuel Enrique Araujo.md"
+    "Materias/Sociales/República Federal de Centroamérica.md"
   ]
 }

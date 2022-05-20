@@ -39,4 +39,24 @@ Al utilizar este catalizador, solamente **uno de los sustituyentes** es modifica
 
 En este caso, **todos los sustituyentes** son modificados. *Todos los enlaces se arrancan* de los sustituyentes, dejandolos libres, y sustituyendolos con COOH.
 
+## Oxidación de alcoholes primarios
+
+Cuando un carbono está en uno de los extremos de la molécula, se puede efectuar una reacción combinándolo con ciertos catalizadores. Esto se conoce como **reacción de adición**, en la cual añadimos una sustancia para formar un *ácido carboxílico*.
+
+El ácido carboxílico se añade en la misma posición donde está unido el alcohol originalmente. Es decir, si tenemos un compuesto "butan-1-ol" podríamos adicionar Óxido de cromo, hidrógeno y agua para formar un ácido carboxílico, llamado "Ácido butanoico".
+
+### Ciclos
+
+Para los cicloalcanos, se tiene que trabajar el alcohol mientras está **unido a un carbono externo**, es decir, tiene que estar unido a un *sustituyente* para llevarse a cabo la reacción.
+
+Esto se debe a que, los carbonos que forman un ciclo, no son primarios, puesto que tienen dos enlaces cada uno. Sin embargo, cuando tenemos un susstituyente de la cadena cerrada, este nuevo carbono *sí es primario*, por lo que cumple la regla.
+
+> El compuesto que reacción para estas reacciones es el permanganato de potasio diluido en ácido sulfúrico.
+
+## Oxidación de alquenos
+
+Este proceso da como producto **una cetona y un ácido carboxílico**. Se produce la reacción en alquenos que no sean terminales (y en los que sí lo son, solamente se cuenta un carbono), y da dos productos, cuya cantidad total de carbonos sea igual al compuesto original antes de reaccionar.
+
+Se divide la cadena que tenga el alqueno, y se copia la estructura que queda a cada lado de la división. En el primer producto aparece una *cetona o un aldehído*, y en el segundo aparece un *ácido carboxílico* siempre.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
