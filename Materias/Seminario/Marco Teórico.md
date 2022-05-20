@@ -17,6 +17,10 @@ Pregunta de investigación: **Plantear una situación**.
 Objetivo: **Describir un proceso para dar solución a la situación**.
 Hipótesis: **Respuesta provisional al problema**.
 
+### Para formular la hipótesis en el marco teórico
+
+Se tiene que leer sobre la teoría que explique el tema, y formular una hipótesis **desde el punto de vista de la teoría** que se está aplicando en el trabajo de investigación.
+
 ### Tipos de hipótesis
 
 Según su base epistemológica (del conocimiento del cual surgen) se clasifican en:
