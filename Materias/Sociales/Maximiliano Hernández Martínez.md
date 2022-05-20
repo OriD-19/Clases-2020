@@ -76,6 +76,8 @@ Para reactivar la economía, El Salvador con el gobierno de Martínez lograron *
 
 El 2 de abril de 1944 **el presidente Martínez sufre un golpe a su gobierno**. Se sublevan contra él un buen número de cuarteles, mientras estaba en alguna playa de La Libertad. Finalmente, logra llegar astutamente a San Salvador, a casa presidencial, y fueron **bombardeados los cuarteles** que se rebelaron contra él.
 
+Además, en el momento más bajo de su presidencia, incluso *la oligarquía desconfiaba de él*. 
+
 Anteriormente, Maximiliano *modificó la constitución* para permitir su reelección, con la ayuda de la mayoría absoluta de la Asamble Legislativa. Nuevamente, intentó solicitar su reelección, y por ello los militares **mostraron su descontento** con el gobierno de Martínez.
 
 En un contexto en el cual los presidentes alrededor del mundo realizaban la misma práctica, el presidente Martínez consideró oportuna la reelección.
