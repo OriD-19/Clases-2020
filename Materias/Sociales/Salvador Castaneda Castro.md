@@ -28,4 +28,6 @@ Después de intentar hacer varias obras, su gobierno estaba llegando a su fin. C
 
 Luego de eso, ocurrió un golpe de estado a su gobierno el 14 de diciembre, y ese día pasó a llamarse "El golpe de los mayores", puesto que todos los miembros del golpe eran de cargo militar *Mayor*.
 
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

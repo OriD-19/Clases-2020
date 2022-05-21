@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Salvador Castaneda Castro.md",
+            "file": "Materias/Sociales/Carlos Ezeta.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "himno",
+                "query": "file:Carlos",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Salvador Castaneda Castro.md",
+                "file": "Materias/Sociales/Carlos Ezeta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Sociales/Carlos Ezeta.md",
+    "Materias/Sociales/Gobiernos del PRUD.md",
+    "templates/Callout Block.md",
+    "templates/Concept_template.md",
+    "templates/Cite.md",
     "Materias/Sociales/Salvador Castaneda Castro.md",
     "Materias/Sociales/Período posterior a Martínez.md",
-    "Materias/Sociales/Gobiernos del PRUD.md",
     "Materias/Sociales/Maximiliano Hernández Martínez.md",
     "Materias/Química/Reacciones de ácidos carboxílicos.md",
-    "Materias/Seminario/Marco Teórico.md",
-    "Materias/Lenguaje/Un día en la vida.md",
-    "Materias/Física/Presión hidrostática.md",
-    "Materias/Sociales/UNIDAD I/Objetivos en un trabajo de investigación.md",
-    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md"
+    "Materias/Seminario/Marco Teórico.md"
   ]
 }

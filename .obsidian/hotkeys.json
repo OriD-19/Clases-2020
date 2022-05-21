@@ -1,3 +1,11 @@
 {
-  "editor:insert-wikilink": []
+  "editor:insert-wikilink": [],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ]
 }
