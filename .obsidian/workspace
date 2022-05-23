@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Carlos Ezeta.md",
+            "file": "Materias/Química/Reacciones de ácidos carboxílicos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Carlos Ezeta.md",
+                "file": "Materias/Química/Reacciones de ácidos carboxílicos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Química/Reacciones de ácidos carboxílicos.md",
+    "Materias/Química/Reacciones de aldehídos y cetonas.md",
+    "Materias/Química/Ácidos carboxílicos.md",
     "Materias/Sociales/Carlos Ezeta.md",
     "Materias/Sociales/Gobiernos del PRUD.md",
     "templates/Callout Block.md",
     "templates/Concept_template.md",
     "templates/Cite.md",
     "Materias/Sociales/Salvador Castaneda Castro.md",
-    "Materias/Sociales/Período posterior a Martínez.md",
-    "Materias/Sociales/Maximiliano Hernández Martínez.md",
-    "Materias/Química/Reacciones de ácidos carboxílicos.md",
-    "Materias/Seminario/Marco Teórico.md"
+    "Materias/Sociales/Período posterior a Martínez.md"
   ]
 }
