@@ -26,8 +26,10 @@ Los profesores educados en esta escuela **vivían en ella**, y eran internados, 
 
 Después de intentar hacer varias obras, su gobierno estaba llegando a su fin. Cuando se dio cuenta de que tenía que hacer muchas más cosas, pensó que quizás sería mejor **optar por una reelección**, pero el pueblo se lo denegó.
 
-Luego de eso, ocurrió un golpe de estado a su gobierno el 14 de diciembre, y ese día pasó a llamarse "El golpe de los mayores", puesto que todos los miembros del golpe eran de cargo militar *Mayor*.
+Luego de eso, ocurrió un golpe de estado a su gobierno el 14 de diciembre, y ese día pasó a llamarse **"El golpe de los mayores"**, puesto que todos los miembros del golpe eran de cargo militar *Mayor del ejército*.
 
+### El monumento a la revolución de 1948
 
+El conocido como "El chulón de San Benito", en realidad es llamado "*Monumento a la revolución del 14 de diciembre de 1948*".
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
