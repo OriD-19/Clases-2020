@@ -38,5 +38,23 @@ Algunos de los cambios más significativos de la nueva reforma, fueron:
 - El período presidencial va a ser de seis años (sexenio), sin reelección. (Esto tenía una influencia directa de México)
 - La **fundación del ISSS** (Instituto Salvadoreño del Seguro Social), institución que *también estaba presente en México*, en favor de todos los trabajadores que no podían pagar un servicio de salud privada.
 
+> [!INFO]
+> Su gobierno es considerado **Modernizante y Represivo**
+
+## Los pros y los contras
+
+Uno de los puntos más importantes de su gobierno fue su *proyección social*, puesto que fue el gobierno **que más invirtió** en este aspecto.
+
+Por otro lado, el gobierno de Osorio intentaba, por *cualquier medio*, callar a sus disidentes. A rasgos generales, el presidente Osorio y su gobierno **ofrecían becas** a los estudiantes que eran contrarios a sus ideas, para que se *fueran del país* y no siguieran "molestando" a su gobierno.
+
+Otra de las cosas que no se han confirmado han sido *los asesinatos y desapariciones* que impulsó con el mismo fin de **censurar**.
+
+Algunos de los aspectos principales, fueron:
+
+- El alza en los precios del café.
+- Ingresos al gobierno a raíz de los precios de exportación.
+- El Salvador casi no tenía deudas externas.
+- Implementación de medidas para *modernizar* al país.
+
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
