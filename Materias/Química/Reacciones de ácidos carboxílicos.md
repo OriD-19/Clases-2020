@@ -65,12 +65,18 @@ Uno de los casos especiales en la oxidación de alquenos, es la presencia del *d
 
 En este caso, el producto será **un dióxido de carbono** para ambos casos, cuando esté en un carbono *inicial o terminal* en la cadena.
 
-### Rupturas de ciclo
+### Rupturas de cicloalquenos
 
 En el mismo proceso para la oxidación de alquenos mediante $KMnO4$ (permanganato de sodio), los ciclos **se comportan de manera parecida**, pero rompiendo su *estructura* original para adicionar un oxígeno.
 
 La parte más importante es saber que *la tetravalencia del carbono* juega un papel fundamental en la ruptura y en la reacción del ciclo con el permanganato de sodio disuelto en agua protonada.
 
 Mediante este proceso se *"abre"* el ciclo, y podemos representarlo de manera lineo-angular de manera **plana**, puesto que la estructura cerrada se ha roto. El proceso consta, simplemente, de hacer una cadena de la misma longitud del ciclo (incluyendo los sustituyentes) y comenzar a añadir los oxígenos **en la posición de carbono más cercana**.
+
+#### Diferencias entre cetona y ácido carboxílico
+
+A la hora de romper un ciclo, podemos obtener dos productos, un **ácido carboxílico** o una **cetona**. La manera de diferenciarlos es por la *presencia de sustituyentes alquilo*, es decir, si en el doble enlace están presentes sustituyentes como un metil, etil, propil, etc. Entonces al romperse ese doble enlace el producto sería solamente una **cetona**, puesto que el carbono que está relacionado con el doble enlace no tiene un hidrógeno extra.
+
+Por el contrario, si el doble enlace no tiene ningún sustituyente, entonces se forma un **ácido carboxílico,** puesto que el carbono que está relacionado tiene un hidrógeno extra, que se une con el oxígeno y forma un ácido.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
