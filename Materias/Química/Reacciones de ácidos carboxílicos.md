@@ -59,4 +59,18 @@ Este proceso da como producto **una cetona y un ácido carboxílico**. Se produc
 
 Se divide la cadena que tenga el alqueno, y se copia la estructura que queda a cada lado de la división. En el primer producto aparece una *cetona o un aldehído*, y en el segundo aparece un *ácido carboxílico* siempre.
 
+### Casos especiales
+
+Uno de los casos especiales en la oxidación de alquenos, es la presencia del *doble enlace en uno de los carbonos primarios*. 
+
+En este caso, el producto será **un dióxido de carbono** para ambos casos, cuando esté en un carbono *inicial o terminal* en la cadena.
+
+### Rupturas de ciclo
+
+En el mismo proceso para la oxidación de alquenos mediante $KMnO4$ (permanganato de sodio), los ciclos **se comportan de manera parecida**, pero rompiendo su *estructura* original para adicionar un oxígeno.
+
+La parte más importante es saber que *la tetravalencia del carbono* juega un papel fundamental en la ruptura y en la reacción del ciclo con el permanganato de sodio disuelto en agua protonada.
+
+Mediante este proceso se *"abre"* el ciclo, y podemos representarlo de manera lineo-angular de manera **plana**, puesto que la estructura cerrada se ha roto. El proceso consta, simplemente, de hacer una cadena de la misma longitud del ciclo (incluyendo los sustituyentes) y comenzar a añadir los oxígenos **en la posición de carbono más cercana**.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
