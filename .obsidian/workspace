@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
+            "file": "Materias/Química/Ésteres.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
+                "file": "Materias/Química/Ésteres.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Química/Ésteres.md",
     "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
     "Materias/Sociales/Oscar Osorio.md",
     "Materias/Sociales/Salvador Castaneda Castro.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Agustín de Iturbide.md",
     "Materias/Sociales/Anastasio Aquino.md",
     "Materias/Sociales/Gobiernos del PRUD.md",
-    "Materias/Sociales/Guerra entre conservadores y liberales.md",
-    "Materias/Química/Reacciones de ácidos carboxílicos.md"
+    "Materias/Sociales/Guerra entre conservadores y liberales.md"
   ]
 }
