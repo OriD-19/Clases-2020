@@ -60,5 +60,10 @@ Algunos de los aspectos principales, fueron:
 - El Salvador casi no tenía deudas externas.
 - Implementación de medidas para *modernizar* al país.
 
+## [[Modelo de Industrialización por Sustitución de Importaciones (ISI)]]
+
+## La reforma de la Constitución
+
+
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
