@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Ésteres.md",
+            "file": "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Carlos",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Ésteres.md",
+                "file": "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
+    "Materias/Sociales/Curiosidades de las empresas nacionales.md",
+    "Materias/Sociales/Oscar Osorio.md",
+    "Materias/Sociales/El viaje de Cristobal Colón.md",
     "Materias/Química/Ésteres.md",
     "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
-    "Materias/Sociales/Oscar Osorio.md",
     "Materias/Sociales/Salvador Castaneda Castro.md",
     "Materias/Sociales/Período posterior a Martínez.md",
     "Materias/Sociales/Maximiliano de Habsburgo (emperador de México).md",
-    "Materias/Sociales/Agustín de Iturbide.md",
-    "Materias/Sociales/Anastasio Aquino.md",
-    "Materias/Sociales/Gobiernos del PRUD.md",
-    "Materias/Sociales/Guerra entre conservadores y liberales.md"
+    "Materias/Sociales/Agustín de Iturbide.md"
   ]
 }

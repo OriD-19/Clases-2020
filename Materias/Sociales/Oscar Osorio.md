@@ -45,6 +45,10 @@ Algunos de los cambios más significativos de la nueva reforma, fueron:
 
 Uno de los puntos más importantes de su gobierno fue su *proyección social*, puesto que fue el gobierno **que más invirtió** en este aspecto.
 
+
+> [!INFO]
+> Proyección social es ayudar a la población; **mejorar su calidad de vida**.
+
 Por otro lado, el gobierno de Osorio intentaba, por *cualquier medio*, callar a sus disidentes. A rasgos generales, el presidente Osorio y su gobierno **ofrecían becas** a los estudiantes que eran contrarios a sus ideas, para que se *fueran del país* y no siguieran "molestando" a su gobierno.
 
 Otra de las cosas que no se han confirmado han sido *los asesinatos y desapariciones* que impulsó con el mismo fin de **censurar**.
