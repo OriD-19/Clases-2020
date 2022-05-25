@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Éteres.md",
+            "file": "Materias/Sociales/Oscar Osorio.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Ésteres",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Éteres.md",
+                "file": "Materias/Sociales/Oscar Osorio.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Sociales/Oscar Osorio.md",
+    "Materias/Sociales/El puerto de Acajutla.md",
+    "Materias/Sociales/La presa 5 de Noviembre.md",
+    "Materias/Sociales/El Litoral.md",
+    "Materias/Sociales/Instituto de Vivienda Urbana (IVU).md",
+    "Materias/Sociales/Fundación del Instituto Salvadoreño del Seguro Social (ISSS).md",
     "Materias/Química/Éteres.md",
     "Materias/Química/Ésteres.md",
     "Materias/Sociales/República Federal de Centroamérica.md",
-    "Materias/Sociales/Oscar Osorio.md",
-    "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
-    "Materias/Sociales/Curiosidades de las empresas nacionales.md",
-    "Materias/Sociales/El viaje de Cristobal Colón.md",
-    "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
-    "Materias/Sociales/Salvador Castaneda Castro.md",
-    "Materias/Sociales/Período posterior a Martínez.md"
+    "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md"
   ]
 }

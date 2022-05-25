@@ -64,6 +64,50 @@ Algunos de los aspectos principales, fueron:
 
 ## La reforma de la Constitución
 
+- Se le otorga el voto a la mujer.
+- Se asignó, por primera vez, un salario mínimo a los salvadoreños
+- Los contratos laborales se hacen obligatorios, de la mano con la fundación del ISSS.
+- Se forman, legalizan y consolidan los sindicatos de trabajadores.
 
+## Obras durante el gobierno de Osorio
+
+- [[Fundación del Instituto Salvadoreño del Seguro Social (ISSS)]]
+- [[Instituto de Vivienda Urbana (IVU)]]
+
+### El cultivo del algodón
+
+El llamado **oro blanco** fue introducido como una manera de **diversificar la producción** en El Salvador.
+
+Sin embargo, para transportar el algodón, se necesitaban mecanismos más sofisticados que los que se utilizaban para mover el café (mediante ferrocarril), y por ello, el presidente Osorio creó una nueva carretera por donde se movilizarían *camiones de carga,* llamada [[El Litoral]]
+
+### [[El puerto de Acajutla]]
+
+### El puente de Oro
+
+La necesidad de una nueva carretera, [[El Litoral]] también vino con la necesidad de **construir un puente para pasar por el Lempa**. Este puente fue el *Puente de Oro*, y fue destruido, similar al Puente Cuscatlán construido por [[Maximiliano Hernández Martínez]], durante la **Guerra Civil** de El Salvador.
+
+### [[La presa 5 de Noviembre]]
+
+### El Instituto Regulador de Abastecimiento
+
+Fue un instituto encargado de **comprar semillas a los campesinos**, y luego **revenderlos a la población**.
+
+- Se descubrió Joya de Cerén mientras construían *silos* en la zona de Opico, con el fin de ampliar las zonas del IRA.
+
+### Fundación del Zoologico Nacional
+
+### Aumenta el turismo en El Salvador
+
+Fundación de zonas de turismo. Algunas como:
+
+- Los chorros.
+- Parque Balboa.
+- Atecozol.
+- Apulo.
+- Hotel del Cerro Verde.
+
+## Curiosidades de su gobierno
+
+- El 13 de noviembre de 1953 se **legalizó oficialmente el Himno Nacional**.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
