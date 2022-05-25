@@ -18,7 +18,7 @@ En 1841, fue El Salvador quien se separó de la República Federal. Este mismo a
 
 ## Curiosidades
 
-1. Tuvo tres capitales: Guatemala, *Sonsonate* y El Salvador, siendo la segunda capital poco usual.
+1. Tuvo tres capitales: Guatemala, *Sonsonate* y San Salvador, siendo la segunda capital poco usual.
 2. Heredamos el escudo de la bandera, la leyenda **Dios, Unión, Libertad** y otros tantos elementos que formaron parte de los símbolos patrios de la república.
 3. En la Constitución de El Salvador, aparece que **estamos de acuerdo con volver a formar parte de la república federal** en caso de unirse nuevamente.
 4. El Salvador, luego de independizarse de la República Federal, *solicitó unirse a Estados Unidos, petición que fue rechazada.*
