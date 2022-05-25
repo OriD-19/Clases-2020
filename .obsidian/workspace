@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/República Federal de Centroamérica.md",
+            "file": "Materias/Química/Éteres.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Ésteres",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/República Federal de Centroamérica.md",
+                "file": "Materias/Química/Éteres.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Química/Éteres.md",
+    "Materias/Química/Ésteres.md",
     "Materias/Sociales/República Federal de Centroamérica.md",
     "Materias/Sociales/Oscar Osorio.md",
     "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
     "Materias/Sociales/Curiosidades de las empresas nacionales.md",
     "Materias/Sociales/El viaje de Cristobal Colón.md",
-    "Materias/Química/Ésteres.md",
     "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
     "Materias/Sociales/Salvador Castaneda Castro.md",
-    "Materias/Sociales/Período posterior a Martínez.md",
-    "Materias/Sociales/Maximiliano de Habsburgo (emperador de México).md"
+    "Materias/Sociales/Período posterior a Martínez.md"
   ]
 }
