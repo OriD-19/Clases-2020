@@ -8,6 +8,10 @@ tags: Sociales 20/05/2022
 
 ## [[Período posterior a Martínez]]
 
+## [[Oscar Osorio]]
+
+## [[José María Lemus]]
+
 
 ## Conclusiones
 
