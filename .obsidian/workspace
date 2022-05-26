@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Valero Lecha.md",
+            "file": "Materias/Sociales/Gobiernos del PRUD.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Valero Lecha.md",
+                "file": "Materias/Sociales/Gobiernos del PRUD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
-    "Materias/Sociales/Valero Lecha.md",
-    "Materias/Sociales/Edmundo Barbero.md",
+    "Materias/Sociales/Gobiernos del PRUD.md",
+    "Materias/Sociales/José María Lemus.md",
     "Materias/Sociales/Oscar Osorio.md",
+    "Materias/Sociales/Instituto de Vivienda Urbana (IVU).md",
+    "Materias/Sociales/Edmundo Barbero.md",
+    "Materias/Sociales/Valero Lecha.md",
     "Materias/Sociales/El puerto de Acajutla.md",
     "Materias/Sociales/La presa 5 de Noviembre.md",
     "Materias/Sociales/El Litoral.md",
-    "Materias/Sociales/Instituto de Vivienda Urbana (IVU).md",
-    "Materias/Sociales/Fundación del Instituto Salvadoreño del Seguro Social (ISSS).md",
-    "Materias/Química/Éteres.md",
-    "Materias/Química/Ésteres.md"
+    "Materias/Sociales/Fundación del Instituto Salvadoreño del Seguro Social (ISSS).md"
   ]
 }

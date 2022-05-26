@@ -110,4 +110,32 @@ Fundación de zonas de turismo. Algunas como:
 
 - El 13 de noviembre de 1953 se **legalizó oficialmente el Himno Nacional**.
 
+## Hechos culturales
+
+- [[Edmundo Barbero]]
+- [[Valero Lecha]]
+
+### Salarrué y la generación comprometida
+
+Estos escritores se propusieron denunciar las injusticias y se comprometieron a **escribir sin esperar nada a cambio**, sólo por el hecho de que era lo justo.
+
+### El concurso de miss universo
+
+Una salvadoreña ganó el *segundo puesto* del certamen de belleza más importante, el Miss Universo. Su nombre era **Maribel Arrieta Gálvez.**
+
+### Francisco Palaviccini
+
+Mejor conocido como **Paquito Palaviccini**, compuso la famosa canción salvadoreña *Adentro Cojutepeque*, por la cual ganó un premio.
+
+Durante el carnaval de San Miguel, el entonces alcalde de la ciudad solicitó que **Francisco Palaviccini compusiera una canción** que sería parte de las *fiestas migueleñas* desde entonces.
+La letra del carnaval hace referencia a la igualdad que poseen todas las personas.
+
+A las canciones que componía Palaviccini se le conoce como **Xuc**. Contrario a lo que pueda parecer, la música *folklórica* no se puede mezclar con el xuc. Autores como **Pancho Lara**, compositores de música folklórica, tienen también sus canciones representativas, como **Ahuachapán y El Carbonero**.
+
+### Morena Celarié
+
+Esta señora **acompañó con baile** todas las canciones que se compusieron durante la época cultural de los gobiernos del PRUD. Es importante conocer esto, puesto que *los bailes no tienen un origen colonial* ni precolombino, sino que fueron una coreografiadas por esta señora.
+
+Apareció muerta en la **Puerta del Diablo**, un día que salió de su casa. Cuando la encontraron, era el *día de su cumpleaños* (según algunas fuentes), y se conjetura que fue un *suicidio*.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

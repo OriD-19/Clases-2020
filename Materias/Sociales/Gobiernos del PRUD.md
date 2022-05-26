@@ -9,4 +9,8 @@ tags: Sociales 20/05/2022
 ## [[Período posterior a Martínez]]
 
 
+## Conclusiones
+
+Escribir conclusiones 
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
