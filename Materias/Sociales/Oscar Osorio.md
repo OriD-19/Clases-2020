@@ -45,7 +45,6 @@ Algunos de los cambios más significativos de la nueva reforma, fueron:
 
 Uno de los puntos más importantes de su gobierno fue su *proyección social*, puesto que fue el gobierno **que más invirtió** en este aspecto.
 
-
 > [!INFO]
 > Proyección social es ayudar a la población; **mejorar su calidad de vida**.
 
