@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Oscar Osorio.md",
+            "file": "Materias/Sociales/La presa 5 de Noviembre.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "México",
+                "query": "Andrés",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Oscar Osorio.md",
+                "file": "Materias/Sociales/La presa 5 de Noviembre.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
-    "Materias/Sociales/Oscar Osorio.md",
-    "Materias/Sociales/Gobiernos del PRUD.md",
-    "Materias/Sociales/Salvador Castaneda Castro.md",
-    "Materias/Sociales/Carlos Ezeta.md",
-    "Materias/Sociales/Características de los pipiles.md",
-    "Materias/Sociales/El Litoral.md",
-    "Materias/Sociales/El puerto de Acajutla.md",
-    "Materias/Sociales/UNIDAD I/Agustín de Iturbide.md",
+    "Materias/Sociales/La presa 5 de Noviembre.md",
     "Materias/Sociales/José María Lemus.md",
-    "Materias/Sociales/Instituto de Vivienda Urbana (IVU).md"
+    "Materias/Sociales/Gobiernos del PRUD.md",
+    "Materias/Sociales/Oscar Osorio.md",
+    "Materias/Sociales/Edmundo Barbero.md",
+    "Materias/Sociales/El Litoral.md",
+    "Materias/Sociales/Instituto de Vivienda Urbana (IVU).md",
+    "Materias/Sociales/Fundación del Instituto Salvadoreño del Seguro Social (ISSS).md",
+    "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
+    "Materias/Sociales/Salvador Castaneda Castro.md"
   ]
 }
