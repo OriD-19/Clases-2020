@@ -10,7 +10,7 @@ Fue el sucesor del general [[Maximiliano Hernández Martínez]].
 
 ## Políticas
 
-Una de sus primeras políticas fue **invertir en más energía eléctrica** para el desarrollo de nuestro país.
+Una de sus primeras políticas fue **invertir en más energía eléctrica** para el desarrollo de nuestro país. Creo CAESS.
 
 ### El descubrimiento del Tazumal
 

@@ -11,6 +11,8 @@ tags: Sociales 25/05/2022
   
   Personas que se desempeñaban como abogados, enfermeras, albañiles, etc. se podían alojar en estas urbanizaciones. Por ejemplo, la colonia Zacamil es una de las que fueron creadas por el instituto. Estas urbanizaciones, actualmente, han perdido **su prestigio** y se consideran zonas de pocos recursos.
 
+*La colonia Zacamil es conocida como los 400, por el número de apartamentos que hay.*
+
 ## El fin de la organización
 
 Por sucesos como la guerra de las 100 horas o la guerra civil, el ordenamiento que se tenían en los asentamientos urbanos se perdió, quitandole prestigio a las zonas más pobladas por la inseguridad.
