@@ -6,7 +6,7 @@ tags: Sociales 26/04/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 26/04/2022</divoriginaria
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 26/04/2022</div>
 
-La primera persona en traer el café a El Salvador fue el presidente Eugenio Aguilar, en la década de los 50s. En el año de 1871, Santiago Gonzales (la persona que quitó del poder a [[Francisco Dueñas]]) **introdujo el café a la historia de El Salvador**
+La primera persona en traer el café a El Salvador fue el presidente Eugenio Aguilar, en la década de los 50s. En el año de 1871, Santiago González (la persona que quitó del poder a [[Francisco Dueñas]]) **introdujo el café a la historia de El Salvador**
 
 ## La reforma liberal
 
