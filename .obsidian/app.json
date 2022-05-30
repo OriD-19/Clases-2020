@@ -16,5 +16,6 @@
   "attachmentFolderPath": "img",
   "legacyEditor": false,
   "useTab": true,
-  "livePreview": true
+  "livePreview": true,
+  "fileSortOrder": "byCreatedTimeReverse"
 }
