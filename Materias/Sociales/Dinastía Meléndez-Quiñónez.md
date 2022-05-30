@@ -26,7 +26,7 @@ No fue si no hasta la década de los 40s que los derechos de las mujeres comenza
 
 ## La primer radio de El Salvador
 
-México nos regaló **los primeros transitores de una radio**, radio que se llamaría "AQM", en honor al presidente *Alfonso Quiñónez Meléndez*.
+México nos regaló **los primeros transitores de una radio**, radio que se llamaría "AQM", en honor al presidente *Alfonso Quiñónez Molina*.
 
 ## La sucesión de [[Pío Romero Bosque]]
 

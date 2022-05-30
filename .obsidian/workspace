@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Gerardo Barrios.md",
+            "file": "Materias/Sociales/Maximiliano Hernández Martínez.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Tomás Regalado",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Gerardo Barrios.md",
+                "file": "Materias/Sociales/Maximiliano Hernández Martínez.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
-    "Materias/Sociales/Gerardo Barrios.md",
-    "Materias/Sociales/Oscar Osorio.md",
-    "Materias/Sociales/Francisco Dueñas.md",
-    "Materias/Sociales/Francisco Menéndez.md",
-    "Materias/Sociales/UNIDAD I/Plan de trabajo.md",
-    "Materias/Sociales/Las tierras durante la época colonial.md",
-    "Materias/Lenguaje/UNIDAD I/Época colonial en la literatura.md",
-    "Materias/Sociales/El viaje de Cristobal Colón.md",
-    "Materias/Sociales/UNIDAD I/René Descártes.md",
-    "Materias/Lenguaje/UNIDAD I/Culturas precolombinas.md"
+    "Materias/Sociales/Maximiliano Hernández Martínez.md",
+    "Materias/Sociales/Arturo Araujo.md",
+    "Materias/Sociales/Pío Romero Bosque.md",
+    "Materias/Sociales/Prudencia Ayala.md",
+    "Materias/Sociales/La Gran Depresión.md",
+    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md",
+    "Materias/Sociales/Justo Armas.md",
+    "Materias/Sociales/Manuel Enrique Araujo.md",
+    "Materias/Sociales/Keynesianismo (Estado de bienestar).md",
+    "Materias/Sociales/Rafael Zaldívar.md"
   ]
 }
