@@ -14,4 +14,6 @@ Cuando Santa Ana era la **capital económica de El Salvador** gracias a la llega
 
 Debido a esto, uno de los que formaron el grupo de los 44 fue **Tomás Regalado**, y fue uno de los *presidentes más patrioticos y comprometidos* con su patria. El colegio militar de El Salvador está nombrado a su honor debido a esto.
 
+Pedro Escalón fue el presidente que quedó después de la muerte de Tomas Regalado.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

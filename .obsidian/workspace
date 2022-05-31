@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/UNIDAD I/La historia del pensamiento científico.md",
+            "file": "Materias/Sociales/Carlos Ezeta.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/UNIDAD I/La historia del pensamiento científico.md",
+                "file": "Materias/Sociales/Carlos Ezeta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +105,8 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Sociales/Carlos Ezeta.md",
+    "Materias/Sociales/Proceso de independencia.md",
     "Materias/Sociales/UNIDAD I/La historia del pensamiento científico.md",
     "Materias/Sociales/Gerardo Barrios.md",
     "Materias/Lenguaje/Autores salvadoreños.md",
@@ -113,8 +114,6 @@
     "Materias/Sociales/Edmundo Barbero.md",
     "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
     "Materias/Religión/La persona como imagen de Dios.md",
-    "Materias/Religión/Las personas religiosas.md",
-    "Materias/Religión/Los relatos del Génesis.md",
-    "Materias/Religión/UNIDAD I/Las dimensiones del ser humano.md"
+    "Materias/Religión/Las personas religiosas.md"
   ]
 }
