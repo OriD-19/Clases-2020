@@ -10,7 +10,7 @@ Es considerado el **padre del arte escénico en El Salvador**.
 
 Español, vino a nuestro país durante el gobierno del presidente [[Oscar Osorio]]. Sus funciones fueron impartidas en la *Universidad Nacional* de nuestro país.
 
-Fue pareja de **Isabel Dada**, considerada la mejor actriz salvadoreña.
+Fue pareja de **Isabel Dada**, considerada la mejor actriz salvadoreña, y también **Julia Herodier**.
 
 Edmundo Barbero fue el **primer gran maestro** del teatro en El Salvador, y se puede decir que hizo lo que hizo *por amor al arte*, sin recibir una remuneración en muchos casos.
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/La historia económica de El Salvador.md",
+            "file": "Materias/Sociales/UNIDAD I/La historia del pensamiento científico.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CAESS",
+                "query": "Napoleón",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/La historia económica de El Salvador.md",
+                "file": "Materias/Sociales/UNIDAD I/La historia del pensamiento científico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
-    "Materias/Sociales/La historia económica de El Salvador.md",
-    "Materias/Sociales/UNIDAD I/Dictaduras latinoamericanas.md",
-    "Materias/Sociales/El sistema económico precolombino.md",
-    "Materias/Sociales/Salvador Castaneda Castro.md",
-    "Materias/Sociales/Liberales.md",
-    "Materias/Sociales/República Federal de Centroamérica.md",
-    "Materias/Sociales/Proceso de independencia.md",
-    "Materias/Sociales/Organización administrativa durante la colonia.md",
-    "Materias/Sociales/Las tierras durante la época colonial.md",
-    "Materias/Sociales/El viaje de Cristobal Colón.md"
+    "Materias/Sociales/UNIDAD I/La historia del pensamiento científico.md",
+    "Materias/Sociales/Gerardo Barrios.md",
+    "Materias/Lenguaje/Autores salvadoreños.md",
+    "Materias/Sociales/Oscar Osorio.md",
+    "Materias/Sociales/Edmundo Barbero.md",
+    "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
+    "Materias/Religión/La persona como imagen de Dios.md",
+    "Materias/Religión/Las personas religiosas.md",
+    "Materias/Religión/Los relatos del Génesis.md",
+    "Materias/Religión/UNIDAD I/Las dimensiones del ser humano.md"
   ]
 }
