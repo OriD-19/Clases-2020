@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/El café.md",
+            "file": "Materias/Lenguaje/Oswaldo Escobar Velado.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/El café.md",
+                "file": "Materias/Lenguaje/Oswaldo Escobar Velado.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Oswaldo Escobar Velado.md",
+    "Materias/Lenguaje/La Generación del 44.md",
+    "Materias/Sociales/Anastasio Aquino.md",
+    "Materias/Sociales/Gerardo Barrios.md",
+    "Materias/Sociales/República Federal de Centroamérica.md",
     "Materias/Sociales/El café.md",
     "Materias/Sociales/Rafael Zaldívar.md",
     "Materias/Sociales/Francisco Dueñas.md",
     "Materias/Sociales/Francisco Menéndez.md",
-    "Materias/Sociales/Carlos Ezeta.md",
-    "Materias/Sociales/Anastasio Aquino.md",
-    "Materias/Sociales/Pío Romero Bosque.md",
-    "Materias/Sociales/Gerardo Barrios.md",
-    "Materias/Sociales/Rafael Carrera.md",
-    "Materias/Sociales/Manuel Enrique Araujo.md"
+    "Materias/Sociales/Carlos Ezeta.md"
   ]
 }
