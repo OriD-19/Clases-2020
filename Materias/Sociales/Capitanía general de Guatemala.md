@@ -14,4 +14,6 @@ En enero de 1823 **pasamos a ser parte de México**. Sin embargo, este sería un
 
 Luego de independizarse de México (después de los 3 meses), el territorio centroamericano se convirtió en una **república federal**. La [[República Federal de Centroamérica]]
 
+Juan Manuel Rodríguez trató de anexionar a la República Federal a Estados Unidos.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
