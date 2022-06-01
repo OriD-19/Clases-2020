@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Reacciones de las aminas.md",
+            "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Filísola",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Reacciones de las aminas.md",
+                "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
-    "Materias/Química/Reacciones de las aminas.md",
-    "Materias/Química/Éteres.md",
-    "Materias/Sociales/Oscar Osorio.md",
+    "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
+    "Materias/Religión/La persona como imagen de Dios.md",
+    "Materias/Sociales/Período posterior a Martínez.md",
+    "Materias/Sociales/Agustín de Iturbide.md",
     "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
-    "Materias/Sociales/Rafael Carrera.md",
-    "Materias/Sociales/Gerardo Barrios.md",
-    "Materias/Sociales/El café.md",
-    "Materias/Sociales/Carlos Ezeta.md",
-    "Materias/Sociales/Conservador.md",
-    "Materias/Sociales/República Federal de Centroamérica.md"
+    "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
+    "Materias/Sociales/El Litoral.md",
+    "Materias/Sociales/Fundación del Instituto Salvadoreño del Seguro Social (ISSS).md",
+    "Materias/Sociales/Edmundo Barbero.md",
+    "Materias/Sociales/Carlos Ezeta.md"
   ]
 }
