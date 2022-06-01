@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
+            "file": "Materias/Química/Éteres.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
+                "file": "Materias/Química/Éteres.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Química/Éteres.md",
+    "Materias/Química/Ésteres.md",
+    "Materias/Química/Ácidos carboxílicos.md",
+    "Materias/Química/Alcoholes.md",
+    "Materias/Química/Aldehídos.md",
+    "Materias/Religión/Los relatos del Génesis.md",
+    "Materias/Religión/Las personas religiosas.md",
     "Materias/Religión/Jesucristo, la respuesta de Dios al misterio del hombre.md",
     "Materias/Religión/La persona como imagen de Dios.md",
-    "Materias/Sociales/Período posterior a Martínez.md",
-    "Materias/Sociales/Agustín de Iturbide.md",
-    "Materias/Sociales/Gobiernos militares en el contexto de la Guerra Fría.md",
-    "Materias/Sociales/Modelo de Industrialización por Sustitución de Importaciones (ISI).md",
-    "Materias/Sociales/El Litoral.md",
-    "Materias/Sociales/Fundación del Instituto Salvadoreño del Seguro Social (ISSS).md",
-    "Materias/Sociales/Edmundo Barbero.md",
-    "Materias/Sociales/Carlos Ezeta.md"
+    "Materias/Sociales/Período posterior a Martínez.md"
   ]
 }
