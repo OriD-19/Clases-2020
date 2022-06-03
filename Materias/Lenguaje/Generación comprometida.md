@@ -22,6 +22,12 @@ Fue acuñado por primera vez por el escritor francés **Jean Paul Sartre,** quie
 
 El líder de la generación fue **Ítalo López Vallecillos**, quien trabajó en el ámbito del *periodismo y de la poesía.*
 
+- Manlio Argueta
+- Alvaro Menen Desleal
+- Roberto Armijo
+- Alfonso Kijadurías
+- Roque Dalton
+
 ## Características más importantes
 
 Los artistas tuvieron un estilo **vanguardista**, pero mantuvieron el tinte **social**.
