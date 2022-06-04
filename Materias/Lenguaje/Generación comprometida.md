@@ -26,7 +26,7 @@ El líder de la generación fue **Ítalo López Vallecillos**, quien trabajó en
 - Alvaro Menen Desleal
 - Roberto Armijo
 - Alfonso Kijadurías
-- Roque Dalton
+- [[Roque Dalton]]
 
 ## Características más importantes
 
