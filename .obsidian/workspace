@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Química/Reacciones de aldehídos y cetonas.md",
+            "file": "Materias/Inglés/Passive voice.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Química/Reacciones de aldehídos y cetonas.md",
+                "file": "Materias/Inglés/Passive voice.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Inglés/Passive voice.md",
     "Materias/Química/Reacciones de aldehídos y cetonas.md",
     "Materias/Química/Reacciones químicas de los alcoholes.md",
     "Materias/Lenguaje/Roque Dalton.md",
@@ -113,7 +114,6 @@
     "Materias/Lenguaje/Pedro Geoffroy Rivas.md",
     "Materias/Religión/Las nuevas religiosidades.md",
     "Materias/Química/Éteres.md",
-    "Materias/Química/Ésteres.md",
-    "Materias/Química/Ácidos carboxílicos.md"
+    "Materias/Química/Ésteres.md"
   ]
 }
