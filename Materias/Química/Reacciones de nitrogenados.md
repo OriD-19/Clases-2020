@@ -27,4 +27,11 @@ Consiste en reducir los compuesto que resultan de la condensación de cetonas o 
 
 Se corta el doble enlace de la cetona, y se corta el nitrógeno del derivado, para luego sustuirlo en el producto. Este producto es llamado **oxima**.
 
+## Reducción de nitrilos
+
+Este procedimiento transforma un **nitrilo** en una **amina primaria** (con el nitrógeno en el primer carbono). El proceso es bastante simple, y consiste en *cortar* el triple enlace del nitrilo, dejando así dos espacios libres tanto para el carbono como para el nitrógeno. Estos espacios de valencia son llenados posteriormente con **hidrógeno** para completar la reacción.
+
+Los catalizadores que se pueden usar son $\large LiAlH_4$ y $\large H_2/Ni$.
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
