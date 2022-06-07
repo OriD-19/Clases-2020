@@ -33,5 +33,16 @@ Este procedimiento transforma un **nitrilo** en una **amina primaria** (con el n
 
 Los catalizadores que se pueden usar son $\large LiAlH_4$ y $\large H_2/Ni$.
 
+## Reacción de diazotación de aminas
+
+Para esta reacción se tiene que tener una **amina primaria**, es decir, un nitrógeno unido a un carbono primario. El principal punto de esta reacción es *arrancar el hidrógeno del nitrógeno* y adicionarle un cloro, lo cual formará una **sal de diazonio** en el proceso.
+
+Ejemplo:
+
+![[Pasted image 20220607151722.png]]
+
+Como vemos, el resultado de la reacción siempre será de la forma $R-N===N^{+-}Cl$
+
+El catalizador siempre será $NaNO_2$ y $HCl$.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
