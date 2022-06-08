@@ -10,4 +10,20 @@ Fue parte de la [[Generación comprometida]], más específicamente, del **Círc
 
 A pesar de su apellido, no nació en una familia acomodada, y vivió su infancia viendo las diferencias sociales que venían por culpa del clasismo tan marcado en El Salvador.
 
+## Muerte de Roque Dalton
+
+Fue asesinado por los miembros de la **ERP**, organización de la cual formaba parte Dalton. Esto se debió a un malentendido, que finalmente derivó en su desaparición y su declaración de asesinato.
+
+Nunca se supon la verdad sobre su muerte.
+
+## Aportes
+
+Escribió numerosos poemas, textos en prosa, y desarrollo la corriente vanguardista en El Salvador.
+
+## Poemas importantes
+
+- Antimatemáticas
+- Querida Lisa
+- Y sin embargo, amor, a través de las lágrimas...
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
