@@ -25,6 +25,6 @@ Escribió numerosos poemas, textos en prosa, y desarrollo la corriente vanguardi
 - Antimatemáticas
 - Querida Lisa
 - Y sin embargo, amor, a través de las lágrimas...
-- Alta hora de la noche
+- Alta hora de la noche (representa la muerte, y posee una construcción metafórica de la amada)
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
