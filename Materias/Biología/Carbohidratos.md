@@ -10,10 +10,16 @@ Los hidratos de carbono, carbohidratos o glúcidos son compuestos formados por c
 
 Existen tres tipos de carbohidratos:
 
-- La glucosa o fructosa
-- La sacarosa o azúcar.
-- El almidón.
+- La [[Glucosa]] o fructosa
+- La [[Sacarosa]] o azúcar. (lactosa y maltosa)
+- El [[almidón]].
 
 Ordenados por nivel de complejidad, del más simple al más complejo.
+
+## Funciones de los carbohidratos
+
+- Energética (glucosa es la principal fuente de energía)
+- Reserva de energía (glucógeno, es un polisacárido que se almacena en el resto del cuerpo)
+- Estructural (ayudan al soporte de las células, como la celulosa.)
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
