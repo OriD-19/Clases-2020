@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Roque Dalton.md",
+            "file": "Materias/Biología/Carbohidratos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Roque Dalton.md",
+                "file": "Materias/Biología/Carbohidratos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Biología/Carbohidratos.md",
+    "Materias/Biología/Untitled.md",
     "Materias/Lenguaje/Roque Dalton.md",
     "Materias/Química/Reacciones de nitrogenados.md",
     "Materias/Inglés/Passive voice.md",
@@ -112,8 +114,6 @@
     "Materias/Química/Reacciones químicas de los alcoholes.md",
     "Materias/Lenguaje/Generación comprometida.md",
     "Materias/Lenguaje/La Generación del 44.md",
-    "Materias/Lenguaje/Pedro Geoffroy Rivas.md",
-    "Materias/Religión/Las nuevas religiosidades.md",
-    "Materias/Química/Éteres.md"
+    "Materias/Lenguaje/Pedro Geoffroy Rivas.md"
   ]
 }
