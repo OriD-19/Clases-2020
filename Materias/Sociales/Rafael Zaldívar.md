@@ -16,7 +16,7 @@ Los **colonos** fueron una especie de *siervos* que se encargaban de **cuidar de
 
 ## Curiosidades
 
-- Fue la persona que ordenó la escritura y la composición del **Himno Nacional De El Salvador**. Cañas compuso la letra, Aberle la música, y le dieron ambos elementos al compositor de la simfónica para que los *uniera y realizara un sólo trabajo,* que hoy en día conocemos como el Himno Nacional. 
+- Fue la persona que ordenó la escritura y la composición del **Himno Nacional De El Salvador**. Cañas compuso la letra, Aberle la música, y le dieron ambos elementos al compositor de la sinfónica para que los *uniera y realizara un sólo trabajo,* que hoy en día conocemos como el Himno Nacional. 
 - Por componer el himno no recibieron ninguna recompensa monetaria.
 - El himno fue oficializado hasta la década de 1950. Hasta entonces era un himno **no oficial**.
 
