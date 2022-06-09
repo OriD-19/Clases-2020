@@ -16,7 +16,7 @@ Entre sus propuestas estaban **fundar escuelas, carreteras,** y otras obras de i
 
 ### La fundación de la escuela militar
 
-La escuela militar **Gerardo Barrios** fue fundad a su honor debido a que *consideraba que El Salvador necesitaba un ejército propio.*
+La escuela militar **Gerardo Barrios** fue fundada a su honor debido a que *consideraba que El Salvador necesitaba un ejército propio.*
 
 ## La necesidad de café y la llegada a El Salvador
 
@@ -26,7 +26,7 @@ Luego de que en 1850 se introdujera en territorio centroamericano el café, el p
 
 Luego de las guerras que se establecieron con **otros países de Centroamérica** (Guatemala y Honduras) el presidente Gerardo Barrios abandonó el territorio salvadoreño **huyendo de sus detractores, que habían llegado al poder**.
 
-En su camino a Nicaragua (alido de El Salvador), una fuertísima tormenta *atrapó a todas sus tropas y a él*. Luego de que los nicaragüenses lo hallaran, el presidente **Francisco Dueñas (enemigo de Barrios)** decidió *regresarlo a El Salvador* con la promesa de cuidarlo y de protegerlo. 
+En su camino a Nicaragua (aliado de El Salvador), una fuertísima tormenta *atrapó a todas sus tropas y a él*. Luego de que los nicaragüenses lo hallaran, el presidente **Francisco Dueñas (enemigo de Barrios)** decidió *regresarlo a El Salvador* con la promesa de cuidarlo y de protegerlo. 
 
 Sin embargo, esta promesa fue completamente vacía, y un mes después de regresar a El Salvador **fue fusilado injustamente**.
 

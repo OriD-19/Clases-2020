@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Gerardo Barrios.md",
+            "file": "Materias/Sociales/Rafael Carrera.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Gerardo Barrios.md",
+                "file": "Materias/Sociales/Rafael Carrera.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Sociales/Rafael Carrera.md",
     "Materias/Sociales/Gerardo Barrios.md",
     "Materias/Sociales/Liberales.md",
     "Materias/Sociales/Conservador.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Capitanía general de Guatemala.md",
     "Materias/Sociales/Proceso de independencia.md",
     "Materias/Sociales/Organización administrativa durante la colonia.md",
-    "Materias/Sociales/Las tierras durante la época colonial.md",
-    "Materias/Sociales/El viaje de Cristobal Colón.md"
+    "Materias/Sociales/Las tierras durante la época colonial.md"
   ]
 }
