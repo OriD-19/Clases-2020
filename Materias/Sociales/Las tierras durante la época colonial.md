@@ -15,7 +15,7 @@ El investigador *David Browning* dedicó toda su tésis y estudio a este tema.
 Los tipos de tierras eran:
 
 - Propiedades privadas, usualmente reservadas a los españoles.
-- Tierras comunales, que eran utilizadas por toda la comunidad para uso común.
+- Tierras comunales, que eran utilizadas por todos los indígenas para uso común.
 - Tierras ejidales, que eran rentadas por el alcalde para conseguir ingresos extra.
 - Tierras realengas, que eran territorios reservados para la realeza.
 
