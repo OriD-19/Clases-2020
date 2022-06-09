@@ -24,7 +24,7 @@ Los españoles tenían tres factores principales, mediante los cuales lograron c
 - Aliarse con los enemigos de las principales tribus indígenas.
 - Las armas biológicas o enfermedades que trajeron de Europa.
 
-En total, **fue casi la mita de la poblaición indígena** la que falleció durante la conquista. 
+En total, **fue casi la mitad de la poblaición indígena** la que falleció durante la conquista. 
 
 Uno de los datos más importantes fue la fragmentación de las tribus principales, como los **mayas**. El hecho de que ya no hubieran tribus principales fue un factor determinante para la conquista de los españoles, pues los indígenas tenían una organización más precaria.
 *Más información en [[Origen de los pipiles]]*
