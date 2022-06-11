@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Costumbrismo.md",
+            "file": "Materias/Lenguaje/La Generación del 44.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Costumbrismo.md",
+                "file": "Materias/Lenguaje/La Generación del 44.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Lenguaje/La Generación del 44.md",
     "Materias/Lenguaje/Costumbrismo.md",
     "Materias/Sociales/Maximiliano Hernández Martínez.md",
     "Materias/Sociales/Prudencia Ayala.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/La Gran Depresión.md",
     "Materias/Sociales/Pío Romero Bosque.md",
     "Materias/Sociales/Justo Armas.md",
-    "Materias/Sociales/Manuel Enrique Araujo.md",
-    "Materias/Sociales/Dinastía Meléndez-Quiñónez.md"
+    "Materias/Sociales/Manuel Enrique Araujo.md"
   ]
 }
