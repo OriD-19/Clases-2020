@@ -34,4 +34,19 @@ $$\LARGE (x + h)^2 + (y + k)^2 = r^2$$
 Donde $\large A = B$
 $$\LARGE Ax^2 + By^2 + Dx + Ey + F = 0$$
 
+## Elipse 
+
+### Ecuación canónica con centro en el origen
+
+$$\LARGE \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$$ 
+### Ecuación canónica desplazada
+
+$$\LARGE \frac{(x + h)^2}{a^2} + \frac{(y + k)^2}{b^2} = 1$$
+
+### Ecuación general de la elipse
+
+Donde $\large A \neq B$
+
+$$\LARGE Ax^2 + By^2 + Dx + Ey + F = 0$$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
