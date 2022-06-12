@@ -49,4 +49,8 @@ Donde $\large A \neq B$
 
 $$\LARGE Ax^2 + By^2 + Dx + Ey + F = 0$$
 
+### Lado recto de una elipse
+
+$$\LARGE LR = \frac{2b^2}{a}$$
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
