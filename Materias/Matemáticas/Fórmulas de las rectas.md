@@ -59,4 +59,7 @@ $$\LARGE y_1y + x_1x = r^2$$
 
 $$\LARGE (k - y_1)(y - y_1) + (h - x_1)(x - x_1) = 0$$
 
+$$\LARGE m = - \frac{h-x_1}{k-y_1}$$
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MATEMÁTICAS]]
