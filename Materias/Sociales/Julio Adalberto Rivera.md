@@ -42,6 +42,16 @@ El destino de las cañas de azúcar que son utilizadas para la industria son lla
 
 Este recibe el nombre de **trapiche** o de *molienda* (este nombre es más regional), y es el proceso más tradicional que se sigue para conseguir el azúcar de la caña.
 
-dudas: ¿Quién creo el MCC?
+### Cañal
+
+Terreno donde se produce la caña
+
+### Cañaveral
+
+Zona amplia con diversas divisiones donde se cultiva la caña.
+
+### Zonas
+
+San Vicente, La Paz, y otros lugares en nuestro país eran los principales productores de caña.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
