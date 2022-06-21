@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/John F. Kennedy.md",
+            "file": "Materias/Sociales/CIFCO.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/John F. Kennedy.md",
+                "file": "Materias/Sociales/CIFCO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Sociales/CIFCO.md",
+    "Materias/Sociales/Aeropuerto de Ilopango.md",
     "Materias/Sociales/John F. Kennedy.md",
     "Materias/Sociales/Julio Adalberto Rivera.md",
     "Materias/Inglés/Unit 5 - Role Models.md",
@@ -112,8 +114,6 @@
     "Materias/Química/Reacciones de ácidos carboxílicos.md",
     "Materias/Química/Reacciones de aldehídos y cetonas.md",
     "Materias/Química/Reacciones químicas de los alcoholes.md",
-    "Materias/Química/Propiedades químicas de los alcoholes.md",
-    "Materias/Química/Alcoholes.md",
-    "Materias/Química/Reacciones de nitrogenados.md"
+    "Materias/Química/Propiedades químicas de los alcoholes.md"
   ]
 }
