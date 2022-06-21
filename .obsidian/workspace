@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Julio Adalberto Rivera.md",
+            "file": "Materias/Inglés/Unit 5 - Role Models.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Julio Adalberto Rivera.md",
+                "file": "Materias/Inglés/Unit 5 - Role Models.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Inglés/Unit 5 - Role Models.md",
     "Materias/Sociales/Julio Adalberto Rivera.md",
     "Materias/Sociales/Gobiernos militares del PCN.md",
     "Materias/Sociales/Untitled.md",
@@ -113,7 +114,6 @@
     "Materias/Química/Reacciones químicas de los alcoholes.md",
     "Materias/Química/Propiedades químicas de los alcoholes.md",
     "Materias/Química/Alcoholes.md",
-    "Materias/Química/Reacciones de nitrogenados.md",
-    "Materias/Matemáticas/Fórmulas de las rectas.md"
+    "Materias/Química/Reacciones de nitrogenados.md"
   ]
 }
