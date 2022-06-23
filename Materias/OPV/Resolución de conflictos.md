@@ -22,4 +22,17 @@ Los conflictos tienen diferentes maneras de ser resueltos, pero siempre será la
 - Puede facilitar la comunicación abierta y honesta entre los participantes sobre temas relevantes para ambos.
 - Fomenta el conocimiento de la legitimidad del otro.
 
+## Efectos negativos del conflicto
+
+- La comunicación se reduce y se hace más insegura.
+- Se estimula la idea de que la solución es una cuestión de fuerza, ambas partes tratan de aumentar a su favor la diferencia de poder.
+- Se forma una actitud hostil y sospechosa.
+- Se producen juicios erróneos basados en falsas percepciones.
+- Reducción de las alternativas percibidas.
+- Disminución de la perspectiva temporal de las acciones.
+- Polarización del pensamiento.
+- Origina respuestas estereotipadas.
+- Incrementa la actitud defensiva.
+- Reduce los recursos intelectuales disponibles.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['OPV]]
