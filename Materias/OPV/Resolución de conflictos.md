@@ -38,5 +38,12 @@ Los conflictos tienen diferentes maneras de ser resueltos, pero siempre será la
 ## Intereses personales
 
 ![[Pasted image 20220623104039.png]]
+![[Pasted image 20220623104850.png]]
+
+Los intereses personales en la resolución de conflictos son muy importantes, puesto que determinan nuestro enfoque para encontrar una manera de **superarlos**. 
+
+Estos afectan significativamente nuestra visión del problema, y nos pueden llevar a tomar *decisiones diferentes*. De cierto modo, los interes personales son *distintos* para todas las personas, por lo que esto, a su vez, también puede ser una **fuente de conflictos**.
+
+Como personas inteligentes, nuestra misión es encontrar un punto de equilibrio entre nuestros intereses y el beneficio que nos trae el decidir en base a ellos. No debemos dejar que estos se transformen en un *impulso* por el cual actuamos sin ser conscientes de lo qeu hacemos.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['OPV]]
