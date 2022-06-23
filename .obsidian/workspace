@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/OPV/Resolución de conflictos.md",
+            "file": "Materias/Religión/La fe en diálogo con la ciencia.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/OPV/Resolución de conflictos.md",
+                "file": "Materias/Religión/La fe en diálogo con la ciencia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Religión/La fe en diálogo con la ciencia.md",
     "Materias/OPV/Resolución de conflictos.md",
     "Materias/Sociales/CIFCO.md",
     "Materias/Sociales/Aeropuerto de Ilopango.md",
@@ -113,7 +114,6 @@
     "Materias/Inglés/Unit 5 - Role Models.md",
     "Materias/Sociales/Gobiernos militares del PCN.md",
     "Materias/Química/Reacciones de ácidos carboxílicos.md",
-    "Materias/Química/Reacciones de aldehídos y cetonas.md",
-    "Materias/Química/Reacciones químicas de los alcoholes.md"
+    "Materias/Química/Reacciones de aldehídos y cetonas.md"
   ]
 }
