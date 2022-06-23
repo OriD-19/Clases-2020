@@ -35,4 +35,8 @@ Los conflictos tienen diferentes maneras de ser resueltos, pero siempre será la
 - Incrementa la actitud defensiva.
 - Reduce los recursos intelectuales disponibles.
 
+## Intereses personales
+
+![[Pasted image 20220623104039.png]]
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['OPV]]
