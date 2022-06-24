@@ -46,12 +46,12 @@ Complete the sentences with adjectives from the past two exercises
 ## True or false malala
 
 1. true
-2. true
-3. 
-
-5. 
-6. ?
-7. Not given
+2. false (?)
+3. true
+4. true
+5. false
+6. Not Given
+7. True (?)
 8. true
 9. false
 10. false
