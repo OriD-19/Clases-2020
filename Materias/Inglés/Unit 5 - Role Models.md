@@ -52,8 +52,8 @@ Complete the sentences with adjectives from the past two exercises
 5. false
 6. Not Given
 7. True (?)
-8. true
-9. false
-10. false
+8. Not Given
+9. False
+10. False
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
