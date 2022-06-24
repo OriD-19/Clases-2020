@@ -43,4 +43,17 @@ Complete the sentences with adjectives from the past two exercises
 7. I really like people who are *courageous*.
 8. I dislike people who are *materialistic*.
 
+## True or false malala
+
+1. true
+2. true
+3. 
+
+5. 
+6. ?
+7. Not given
+8. true
+9. false
+10. false
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
