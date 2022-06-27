@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Inglés/Unit 5 - Role Models.md",
+            "file": "Materias/Lenguaje/El romanticismo en hispanoamérica.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/Unit 5 - Role Models.md",
+                "file": "Materias/Lenguaje/El romanticismo en hispanoamérica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Lenguaje/El romanticismo en hispanoamérica.md",
+    "Materias/Lenguaje/Romanticismo.md",
     "Materias/Inglés/Unit 5 - Role Models.md",
     "Materias/Religión/La fe en diálogo con la ciencia.md",
     "Materias/OPV/Resolución de conflictos.md",
@@ -112,8 +114,6 @@
     "Materias/Sociales/Aeropuerto de Ilopango.md",
     "Materias/Sociales/John F. Kennedy.md",
     "Materias/Sociales/Julio Adalberto Rivera.md",
-    "Materias/Sociales/Gobiernos militares del PCN.md",
-    "Materias/Química/Reacciones de ácidos carboxílicos.md",
-    "Materias/Química/Reacciones de aldehídos y cetonas.md"
+    "Materias/Sociales/Gobiernos militares del PCN.md"
   ]
 }
