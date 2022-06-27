@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/El romanticismo en hispanoamérica.md",
+            "file": "Materias/Biología/Monosacáridos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/El romanticismo en hispanoamérica.md",
+                "file": "Materias/Biología/Monosacáridos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Biología/Monosacáridos.md",
+    "Materias/Biología/Carbohidratos.md",
+    "Materias/Biología/Sacarosa.md",
+    "Materias/Biología/Glucosa.md",
+    "Materias/Química/Biomoléculas orgánicas.md",
     "Materias/Lenguaje/El romanticismo en hispanoamérica.md",
     "Materias/Lenguaje/Romanticismo.md",
     "Materias/Inglés/Unit 5 - Role Models.md",
     "Materias/Religión/La fe en diálogo con la ciencia.md",
-    "Materias/OPV/Resolución de conflictos.md",
-    "Materias/Sociales/CIFCO.md",
-    "Materias/Sociales/Aeropuerto de Ilopango.md",
-    "Materias/Sociales/John F. Kennedy.md",
-    "Materias/Sociales/Julio Adalberto Rivera.md",
-    "Materias/Sociales/Gobiernos militares del PCN.md"
+    "Materias/OPV/Resolución de conflictos.md"
   ]
 }
