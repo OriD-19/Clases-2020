@@ -8,6 +8,13 @@ tags: Biología 08/06/2022
 
 Los hidratos de carbono, carbohidratos o glúcidos son compuestos formados por cabono e hidrógeno; es decir, son [[Biomoléculas orgánicas]] y forman parte de la **química orgánica**.
 
+Se les conoce como:
+
+- Hidratos del carbono.
+- Glúcidos
+- Azúcares
+- Polialcoholaldehído
+
 Existen tres tipos de carbohidratos:
 
 - La [[Glucosa]] o fructosa (el "azúcar" de las frutas)
