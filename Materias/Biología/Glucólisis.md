@@ -18,4 +18,14 @@ Una cosa importante que se debe notar es que el piruvato conserva el grupo **hid
 
 ![[Pasted image 20220628160855.png]]
 
+## 2. Tautomerización de la glucosa
+
+Durante este proceso, se da la **insaturación**, otro nombre para la formación de un *doble enlace*.
+
+Las principales características durante este proceso son la variación de las estructuras y de los *grupos funcionales* que tiene la glucosa original.
+
+El proceso de [[Tautomerización]] permite a la glucosa transformarse en una **fructosa** (el azúcar de las *frutas*).
+
+Posteriormente, mediante una **oxidación** del alcohol se produce y se forma una [[Cetonas|cetona]], mediante la reacción química.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
