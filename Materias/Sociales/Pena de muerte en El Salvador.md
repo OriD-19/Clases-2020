@@ -14,4 +14,10 @@ Finalmente, en el año 1970 fue efectuada su condena de fusilamiento.
 
 Este suceso fue uno de los pocos casos de pena de muerte en nuestro país, y fue algo muy mediático por la gravedad del asunto y por las medidas drásticas tomadas por parte del gobierno de [[Fidel Sánchez Hernández]].
 
+## Motivos de su abolición
+
+En un momento en el cual el mundo todavía aceptaba las ejecuciones como algo normal, se abogó por el carácter **arcáico** de la pena de muerte, y lo anticuado que esta tenía como método de represion a sus ciudadanos.
+
+El punto más importante recae en la *Constitución*, que se considera una representante de las sociedades y de los gobernadores, por lo que, ante el resto del mundo, *nadie quería dar una imagen tan radical*, por lo que la pena de muerte fue abolida, incluyendo en nuestro país.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
