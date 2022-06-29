@@ -17,7 +17,7 @@ tags: Inglés 29/06/2022
 
 ## Exercises
 
-1. Never had John been to such fantastic restaurant.
+1. Never had John been to such a fantastic restaurant.
 2. In no way do I want to be associated with this project.
 3. No sooner had they eaten dinner than the ceiling crashed onto the dining table.
 4. Scarcely had I finished writing my essay when the examiner announced the end of the exam.
@@ -26,6 +26,6 @@ tags: Inglés 29/06/2022
 7. Only later would we understand what had happend that night.
 8. Nowhere before had they met such rude people.
 9. Little did he understand about the situation.
-10. On no account do children should go on their own.
+10. On no account should children go on their own.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
