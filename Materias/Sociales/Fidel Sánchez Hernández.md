@@ -20,6 +20,4 @@ Creó diversas escuelas para los maestros, y para instruir a nuevos docentes que
 
 Asimismo, el gobierno creo un canal educativo (canal 10) para el desarrollo **cultural y educativo**. La persona que trajo las ideas y las promovió en el gobierno fue el Lic. **Walter Beneke**, ministro de educación durante el gobierno de Sánchez Hernández.
 
-
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
