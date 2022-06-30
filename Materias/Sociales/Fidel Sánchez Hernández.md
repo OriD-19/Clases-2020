@@ -26,4 +26,10 @@ Fue construido por Sánchez Hernández para hacer **actos magnos**, como la toma
 
 ## [[Guerra de las cien horas (1969)]]
 
+## El fin de su gobierno
+
+Después de la guerra, más de 300,000 salvadoreños sin empleo ni posibilidades de subsistir regresaron a El Salvador, expulsados de Honduras.
+
+Cuando finalizó su gobierno, se dieron las tan necesarias e importantes [[Elecciones de 1972]]
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]

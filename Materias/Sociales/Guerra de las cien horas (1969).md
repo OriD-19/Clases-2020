@@ -24,4 +24,12 @@ El principal motivo por el cual se dio esta guerra fue por **problemas diplomát
 
 Este suceso fue una *"excusa"* de los periodistas para vender mejor el conflicto. Sin embargo, no tuvo mayor efecto sobre el comienzo de la disputa, que estaba en un estado latente desde hacía años. 
 
+## United Fruit Company
+
+Tenían una especialidad de guineo, la cual cultivaron en los territorios centroamericanos y algunos sudamericanos.
+
+Algunas de las personas que trabajaron en esta compañía eran miembros de la **CIA**, por lo que estaban blindados incluso ante la intervención del gobierno.
+
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
