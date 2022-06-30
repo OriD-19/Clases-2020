@@ -12,6 +12,14 @@ El conflicto se puede definir como un **obstáculo** que se tiene que *superar*.
 
 Los conflictos tienen diferentes maneras de ser resueltos, pero siempre será la mejor opción aquella que tenga *menos efectos negativos, y más positivos*.
 
+## Pasos para resolver el conflicto
+
+- Analizar el conflicto.
+- Reconocer los objetivos de su resolución.
+- Reconocimiento de las emociones.
+- Proponer soluciones para el conflicto (toma de decisiones).
+- 
+
 ## Factores positivos del conflicto
 
 - Es un motor de cambio e innovación personal y social.
