@@ -14,11 +14,11 @@ Los lípidos están formados por varios ácidos grasos.
 
 ### Ácidos grasos saturados
 
-Es una cadena que **no** posee *dobles enlaces* que unen a sus carbonos; de ahí su nombre **saturado**.
+Es una cadena que **no** posee *dobles enlaces* que unen a sus carbonos; de ahí su nombre **saturado**. Estos tienden a tener una consistencia **líquida**, puesto que carece de estructuras para hacerse sólido.
 
 ### Ácidos grasos insaturados
 
-Contrario a los compuestos anteriores, y como su nombre lo indica, *posee dobles enlaces* en sus carbonos.
+Contrario a los compuestos anteriores, y como su nombre lo indica, *posee dobles enlaces* en sus carbonos. Contrario a los ácidos grasos saturados, estos tienden a ser **sólidos**, puesto que tienen la estructura molecular para ello (dobles enlaces).
 
 En este grupo entran ácidos como:
 

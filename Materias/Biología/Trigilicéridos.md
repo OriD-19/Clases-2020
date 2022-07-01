@@ -14,6 +14,10 @@ Esta reacción se da mediante el desprendimiento de hidrógeno del grupo del gli
 
 ## Importancia en el cuerpo
 
-Los triglicéridos se almacenan en el **tejido adiposo**, que es el que está *inmediatamente debajo de la piel*. Este tejido cumple una función protectora y de *termoregulación*.
+Los triglicéridos se almacenan en el **tejido adiposo**, que es el que está *inmediatamente debajo de la piel*. Este tejido cumple una función protectora y de *termoregulación*. También de *reserva energética.*
+
+## Composición de los ácidos grasos
+
+En un triglicérido pueden haber varios tipos de ácidos grasos, ya sea saturados o insaturados. Las combinaciones de estos, a su vez, genera nuevos tipos de triglicéridos.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
