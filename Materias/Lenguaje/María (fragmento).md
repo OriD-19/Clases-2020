@@ -40,8 +40,13 @@ En el romanticismo, tanto la naturaleza como la mujer son expresadas como **elem
 
 Los sentimientos que evocaba cada sensación percibida por el protagonista eran, constamente, de **tristeza**, puesto que simbolizaban *dejar atrás el pasado*. En la parte en la cual menciona: *"Las pisadas de nuestros caballos en el sendero guijarroso ahogaban mis últimos sollozos"*, da una sensación de desesperación, puesto que sabe que ya no tiene más tiempo, y está viviendo uno de los últimos momentos en ese preciso lugar, y con esas personas.
 
-9. Ubica al niño en el ámbito patriarcal de su casa y escribe una breve descripción sobre como son las relaciones familiares.
+9. Determina la importancia del sueño, en el alma romántica, como evasión de la realidad.
 
+El sueño del niño es una manera de *no evolucionar*, y de mostrar sus deseos en aquel momento. Cuando le dijeron que tendría que olvidarse de todo lo que había conocido, no tuvo más remedio que **recurrir a su imaginación** para poder escapar de aquel nuevo destino al que estaba sentenciado.
+Por otro lado, este momento también se ve realacionado con las características del romanticismo, puesto que expone una *gran carga sentimental y fantástica*, con una situación que el niño consideraría como **ideal**.
 
+10. Ubica al niño en el ámbito patriarcal de su casa y escribe una breve descripción sobre como son las relaciones familiares.
+
+El padre era una persona *poco emotiva*, mientras que los personajes femeninos que se incluyen en el fragmento siempre se encuentran **mostrando sus emociones**, como la tristeza, o el deseo de que el niño no las abandone. Esto demuestra que el hombre todavía seguía siendo el centro de todo poder en el hogar y, por consiguiente, en la sociedad.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
