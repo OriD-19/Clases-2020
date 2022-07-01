@@ -18,7 +18,6 @@ Los conflictos tienen diferentes maneras de ser resueltos, pero siempre será la
 - Reconocer los objetivos de su resolución.
 - Reconocimiento de las emociones.
 - Proponer soluciones para el conflicto (toma de decisiones).
-- 
 
 ## Factores positivos del conflicto
 
