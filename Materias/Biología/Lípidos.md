@@ -29,5 +29,6 @@ El enlace que une a las grasas es el **éster**; $COO$.
 ## Tipos
 
 - [[Ácidos Grasos]]
+- [[Trigilicéridos]]
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
