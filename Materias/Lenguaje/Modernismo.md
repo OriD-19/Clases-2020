@@ -41,4 +41,8 @@ Se libera de la influencia hispana, y se apega más a la *literatura francesa*. 
 
 En el posmodernismo también podemos incluir a literatos como *Gabriela Mistral*.
 
+## Importancia
+
+![[Pasted image 20220708133541.png]]
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
