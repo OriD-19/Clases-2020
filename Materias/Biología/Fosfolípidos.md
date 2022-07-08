@@ -28,4 +28,10 @@ Posee una *cabeza polar* y una *cabeza no polar*:
 
 > ¿Por qué el jabón y el detergente necesitan grasas (qué relación tienen)?
 
+## Estructuras que forman los fosfolípidos
+
+- Bicapa fosfolidípica: Forman dos capas que **no están unidas**, puesto que estas capas están formadas por las *colas de los fosfolípidos*, que son hidrofóibicas y se **repelen**.
+- Micela: Las colas siempre se encuentran apuntando hacia afuera, con forma de una semiesfera.
+- Liposoma: Tiene una estructura similar a la Micela, pero con un anillo extra de fosfolípidos en el centro, los cuales se terminan repeliendo.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
