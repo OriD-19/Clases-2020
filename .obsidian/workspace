@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/OPV/Resolución de conflictos.md",
+            "file": "Materias/Lenguaje/Modernismo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/OPV/Resolución de conflictos.md",
+                "file": "Materias/Lenguaje/Modernismo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Modernismo.md",
+    "Materias/Lenguaje/Parnasianismo.md",
+    "Materias/Lenguaje/a.md",
     "Materias/OPV/Resolución de conflictos.md",
     "Materias/Biología/Fosfolípidos.md",
     "Materias/Biología/Lípidos.md",
     "Materias/Biología/Trigilicéridos.md",
     "Materias/Biología/Ácidos Grasos.md",
     "Materias/Lenguaje/María (fragmento).md",
-    "Materias/Lenguaje/El romanticismo en hispanoamérica.md",
-    "Materias/Lenguaje/Dimensiones de los personajes en el romanticismo.md",
-    "Materias/Sociales/Guerra de las cien horas (1969).md",
-    "Materias/Inglés/Unit 5 - Collocation.md"
+    "Materias/Lenguaje/El romanticismo en hispanoamérica.md"
   ]
 }
