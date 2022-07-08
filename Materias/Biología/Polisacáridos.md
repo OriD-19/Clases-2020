@@ -23,6 +23,8 @@ El oxígeno que une a las glucosas en este tipo de polisacáridos es *intercalad
 
 La celulosa también es responsable de dar la característica *leñosa* a la madera de los árboles, por ejemplo. Características como la rugosidad, la robustez y la flamabilidad son gracias a este polisacárido.
 
+No pueden ser sintetizadas por animales, ya que estos seres vivos no pueden **digerir las moléculas en posición $\beta$** que poseen las cadenas de celulosa.
+
 ## Glucógeno
 
 La característica principal de este polisacárido es la **variación en sus enlaces**, lo que quiere decir que los enlaces que unen a las glucosas no siempre son los mismos.
