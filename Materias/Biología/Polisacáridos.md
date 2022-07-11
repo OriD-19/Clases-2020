@@ -33,6 +33,6 @@ La característica principal de este polisacárido es la **variación en sus enl
 
 Es un polisacárido que está formado por glucosas, y forma **diversas capas de polímeros**, lo que le brinda *una propiedad protectora y resistente* a los tejidos formados por este polisacárido.
 
-La principal característica está en los enlaces que unen a las glucosas, conocido como **enlace peptídico**. Asimismo, estas estructuras también cuentan con la presencia de *nitrógeno*.
+La principal característica está en los enlaces que unen a las glucosas, conocido como **[[Enlace peptídico]]**. Asimismo, estas estructuras también cuentan con la presencia de *nitrógeno*.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]

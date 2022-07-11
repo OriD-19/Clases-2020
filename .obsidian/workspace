@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alfa",
+                "query": "peptídi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,14 +106,14 @@
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
     "Materias/Biología/Proteínas.md",
-    "Materias/Biología/Colesterol.md",
-    "Materias/Biología/Sacarosa.md",
-    "Materias/Biología/Glucosa.md",
+    "Materias/Biología/Aminoácidos.md",
+    "Materias/Biología/Polisacáridos.md",
+    "Materias/Biología/Enlace peptídico.md",
     "Materias/Biología/Carbohidratos.md",
-    "Materias/Química/Biomoléculas orgánicas.md",
-    "Materias/Sociales/Fondo Social para la Vivienda (FSV).md",
-    "Materias/Sociales/Aeropuerto Internacional de El Salvador.md",
-    "Materias/Sociales/Fidel Sánchez Hernández.md",
-    "Materias/Sociales/Julio Adalberto Rivera.md"
+    "Materias/Biología/Glucosa.md",
+    "Materias/Biología/Sacarosa.md",
+    "Materias/Biología/Monosacáridos.md",
+    "Materias/Biología/Disacáridos.md",
+    "Materias/Biología/ácidos.md"
   ]
 }
