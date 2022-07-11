@@ -39,6 +39,6 @@ Esta puede tener dos formas:
 
 ### Estructura terciaria
 
-Corresponde cuando la estructura secundaria se **retuerce** en si misma a través de *interacciones hidrofóbicas, electrostáticas y puentes de disulfuro.*
+Corresponde cuando la estructura secundaria se **retuerce** en si misma a través de *interacciones hidrofóbicas, electrostáticas y puentes de disulfuro.* Estas moléculas poseen dos átomos de azufre que los une, a manera de puente. Esto realiza una función **protectora**, que a su vez le brinda el carácter *hidrofóbico* a la proteína, y también la propiedad electrostática.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
