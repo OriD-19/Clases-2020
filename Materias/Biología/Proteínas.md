@@ -28,4 +28,17 @@ Corresponde a la unión **lineal** de aminoácidos a través del [[Enlace peptí
 
 Es la cadena *más simple de todas*, y se da a partir de la liberación de una molécula de agua entre dos moléculas de aminoácidos.
 
+### Estructura secundaria
+
+Corresponde a los aminoácidos de la estructura primaria que interactúan entre sí, produciendo *puentes de hidrógeno* entre los grupos **Aminos** y los grupos **Carboxilos** de distintos aminoácidos.
+
+Esta puede tener dos formas:
+
+- Estructura helicoidal, la que tiene una forma parecida al ADN. ($\alpha$ hélice)
+- Estructura laminar, como la unión más directa de las dos cadenas. ($\beta$ lámina).
+
+### Estructura terciaria
+
+Corresponde cuando la estructura secundaria se **retuerce** en si misma a través de *interacciones hidrofóbicas, electrostáticas y puentes de disulfuro.*
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
