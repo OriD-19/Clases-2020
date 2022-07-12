@@ -7,12 +7,8 @@
         "id": "a4d4e717b9fd2fce",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Biología/Proteínas.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Proteínas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +100,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Biología/ATP.md",
+    "Materias/Biología/Ácidos nucléicos.md",
+    "Materias/Biología/Nucleótidos.md",
+    "Materias/Biología/ADN.md",
+    "Materias/Biología/ARN.md",
     "Materias/Biología/Proteínas.md",
-    "Materias/Biología/Aminoácidos.md",
-    "Materias/Biología/Polisacáridos.md",
     "Materias/Biología/Enlace peptídico.md",
+    "Materias/Biología/Ácidos Grasos.md",
     "Materias/Biología/Carbohidratos.md",
-    "Materias/Biología/Glucosa.md",
-    "Materias/Biología/Sacarosa.md",
-    "Materias/Biología/Monosacáridos.md",
-    "Materias/Biología/Disacáridos.md",
-    "Materias/Biología/ácidos.md"
+    "Materias/OPV/Resolución de conflictos.md"
   ]
 }
