@@ -12,6 +12,8 @@ El desarrollo de la izquierda política en nuestro país se **agudizó** a parti
 
 En este tiempo la guerrilla se organizó en un grupo, llamado, literalmente, **El Grupo**, el cual perpetró secuestros y asesinatos a múltiples millonarios y personas con dinero.
 
+Por su lado, la influencia internacional venía dada de potencias como **Cuba y la Unión Soviética**, las cuales ya se estaban iniltrando en la política nacional.
+
 Durante esta época, aparecieron dirigentes sumamente importantes para la historia de nuestro país:
 
 ### Roque Dalton
