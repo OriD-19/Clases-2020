@@ -22,6 +22,13 @@ Se libera de la influencia hispana, y se apega más a la *literatura francesa*. 
 - Elitismo, tenía un sentido aristocrático.
 - Renovación métrica: Se retoman estructuras poéticas y líricas que habían caído en desuso, como el alejandrino o el dodecasílabo.
 
+De forma general, se podría resumir de la siguiente manera:
+- Renovación estética.
+- Libertad creadora y perfección formal.
+- Empleo de símbolos.
+- Visión hispanoamericanista.
+- Escapismo, evasión de la realidad.
+
 ## Precursores
 
 - José Martí
@@ -44,5 +51,12 @@ En el posmodernismo también podemos incluir a literatos como *Gabriela Mistral*
 ## Importancia
 
 ![[Pasted image 20220708133541.png]]
+
+## Etapas del modernismo
+
+- Etapa Azul (Cosmopolitismo): después de la publicación de la obra **Azul (1888)** por el autor *Rubén Darío.* Predomina el pensamiento cosmopolita y escapista de la realidad. Se alude a mitos clásicos, lugares y culturas exóticas. Uno de los colores más referenciados es, precisamente, el *color azul*.
+- Etapa mundonovista: Predominan los representantes sociales del modernismo, como **José Martí** en Cuba.
+
+*(Más información en la página 82 del libro de texto)*
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['LENGUAJE]]
