@@ -37,7 +37,7 @@ De forma general, se podría resumir de la siguiente manera:
 
 ## Representantes
 
-- Rubén Darío (máximo representante)
+- [[Rubén Darío]] (máximo representante)
 - Julio Herrera y Reissig
 - Amado Nervo
 - Leopoldo Lugones

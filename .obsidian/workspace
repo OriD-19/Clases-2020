@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Modernismo.md",
+            "file": "Materias/Lenguaje/Rubén Darío.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Modernismo.md",
+                "file": "Materias/Lenguaje/Rubén Darío.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Modernismo.md",
     "Materias/OPV/Resolución de conflictos.md",
     "Materias/Sociales/Cultura salvadoreña en los 70s.md",
     "Materias/Sociales/Primer carro de El Salvador.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Aumento de la violencia en los 70s.md",
     "Materias/Sociales/La manifestación universitaria (1975).md",
     "Materias/Sociales/Osmín Aguirre y Salinas.md",
-    "Materias/Sociales/Carlos Herrera Rebollo.md",
-    "Materias/Sociales/Monseñor Romero.md"
+    "Materias/Sociales/Carlos Herrera Rebollo.md"
   ]
 }
