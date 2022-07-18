@@ -32,7 +32,10 @@ Conjunto de comunidades que conviven *con su entorno*. Se tienen en cuenta los *
 
 ### Bioma
 
-Es un conjunto de ecosistemas más extenso, que reúne diferentes tipos de climas, topografía, especies y demás factores que propician la diversidad.
+Es un conjunto de ecosistemas más extenso, que reúne diferentes tipos de climas, topografía, especies y demás factores que propician la diversidad. 
+
+Clima, temperatura, fauna, vegetación, agua, subsuelo, etc.
+
 Tienen características específicas según su *localización*.
 
 ### Biosfera
