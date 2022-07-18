@@ -28,10 +28,12 @@ Según Roberto Cañas, la proclama giraba entorno a cuatro puntos fundamentales:
 
 - Derechos humanos, gracias a personajes como [[Monseñor Romero]].
 - Sistema económico (desigualdad).
-- Relaciones internacionales.
+- Relaciones internacionales, con los países vecinos como *Honduras y Nicaragua*, con la reciente guerra y la [[Revolución Nicaragüense]], respectivamente.
 - Corrupción.
 
 Lo irónico es que, a día de hoy, *estos cuatro puntos siguen vigentes*.
+
+> "Los militares estaban **sobredeterminando** la vida nacional."
 
 ## Personajes.
 
@@ -130,6 +132,12 @@ Una de las mayores bazas que tenía la Proclama era la **Reforma Agraria**, con 
 Esto se refiere a la **necesidad fiscal y lidiar con el sector de la especulación de la tierra**.
 
 En el margen del gobierno de [[Arturo Armando Molina]], este propuso una *"transformación agraria"*, la cual fue tajantemente rechazado por los grandes productores y oligarcas.
+
+## Efectos posteriores.
+
+La Junta de Gobierno tuvo muy corta vida.
+
+La alianza cristiana con la fuerza armada, con el apoyo de los Estados Unidos.
 
 ## Conclusiones
 
