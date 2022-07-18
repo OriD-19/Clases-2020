@@ -21,4 +21,6 @@ A este nivel le sigue el [[Nivel Organelo]]
 
 Este nivel, que está por encima del nivel molecular, es aquel que está conformado por **varias moléculas,** las cuales todavía no pueden ser parte de una *unidad funcional de los seres vivos*.
 
+Un ejemplo de ello son los **Ribosomas**, las cuales son organelos que cuentan con [[Biomoléculas orgánicas]] (ARN).
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
