@@ -19,5 +19,8 @@ Son las moléculas que, por el contrario, *sí presentan moléculas de carbono* 
 ## Moléculas orgánicas
 
 - [[Carbohidratos]], glúcidos o azúcares.
+- [[Lípidos]]
+- [[Proteínas]]
+- [[Ácidos nucléicos]]
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['QUÍMICA]]
