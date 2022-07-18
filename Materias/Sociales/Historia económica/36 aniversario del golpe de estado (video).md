@@ -90,6 +90,14 @@ Lo dejaron libre, y huyó hacia una montaña, con la amenaza de que no podía co
 ### Los economistas dentro del golpe
 
 
+### Los libros de la proclama
+
+Se basó en cinco libros, de los cuales se mencionan:
+
+- *El por qué de las rebeliones*: Los conflictos provocados por las desigualdades sociales.
+- *Sobre la Guerra Civil Española*, tomando como base el conflicto en Europa para saber actuar frente a la situación nacional.
+- *El Salvador, la tierra y el hombre*, de David Browning.
+
 
 ## Roberto Cañas
 
@@ -104,6 +112,14 @@ Tenía fuentes de información **muy cercana a Rodrigo Guerra**. Esto se explica
 #### Estados Unidos y su influencia en el golpe
 
 El golpe de Estado fue "aprobado" por la **embajada de este país**. Además, *Jimmy Carter* había enviado a su Secretario de Asuntos Exteriores para solicitar a Romero que *dimitiera del cargo*, precisamente para evitar que el pueblo siguiera fraguando la insurrección popular.
+
+## Las reformas económicas
+
+Una de las mayores bazas que tenía la Proclama era la **Reforma Agraria**, con la justificación del *descuido del sector agrícola* y de las condiciones tan pobres en las que se desarrollaba la zona rural del país.
+
+Esto se refiere a la **necesidad fiscal y lidiar con el sector de la especulación de la tierra**.
+
+En el margen del gobierno de [[Arturo Armando Molina]], este propuso una *"transformación agraria"*, la cual fue tajantemente rechazado por los grandes productores y oligarcas.
 
 ## Conclusiones
 
