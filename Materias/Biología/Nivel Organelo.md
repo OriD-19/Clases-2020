@@ -10,4 +10,6 @@ Los organelos son las **unidades moleculares que conforman la [[Nivel celular|c�
 
 Son los encargados de llevar a cabo todas las funciones que ocurren en la célula, y desarrollan los procesos químicos relacionados con la asimilación de otras moléculas.
 
+*Catálisis se refiere a la velocidad de la reacción*. Los organelos aceleran la velocidad de la reacción,  pero no todos tienen una *propiedad catalítica.*
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]

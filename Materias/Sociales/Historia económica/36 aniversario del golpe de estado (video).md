@@ -22,6 +22,17 @@ Redactada por **Rodrigo Guerra**, este documento fue el discurso que utilizó la
 
 Estaban haciendo referencia no solo al gobierno de Romero, sino también al *resto de gobiernos militares de la historia*.
 
+### Los pilares de la proclama
+
+Según Roberto Cañas, la proclama giraba entorno a cuatro puntos fundamentales:
+
+- Derechos humanos, gracias a personajes como [[Monseñor Romero]].
+- Sistema económico (desigualdad).
+- Relaciones internacionales.
+- Corrupción.
+
+Lo irónico es que, a día de hoy, *estos cuatro puntos siguen vigentes*.
+
 ## Personajes.
 
 - Ismael Sermeño.
@@ -97,7 +108,6 @@ Se basó en cinco libros, de los cuales se mencionan:
 - *El por qué de las rebeliones*: Los conflictos provocados por las desigualdades sociales.
 - *Sobre la Guerra Civil Española*, tomando como base el conflicto en Europa para saber actuar frente a la situación nacional.
 - *El Salvador, la tierra y el hombre*, de David Browning.
-
 
 ## Roberto Cañas
 
