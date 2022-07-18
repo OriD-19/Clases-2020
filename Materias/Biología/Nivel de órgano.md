@@ -12,4 +12,6 @@ Los órganos son los encargados de llevar a cabo las funciones biológicas. Est�
 
 Al conjunto de organos se les llama **sistema**, y son las unidades encargadas de *unas tareas específicas dentro de un organismo*.
 
+Existen *nueve sistemas en el cuerpo humano*. El menos conocido es el **sistema tegumentario**, que incluye a la piel y a todos sus mecanismos de protección, como el cabello, el vello o las uñas.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]

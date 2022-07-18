@@ -12,10 +12,10 @@ La célula es la **unidad mínima necesaria para la vida**. Esta formada por [[N
 
 Existen diversos tipos de célula, según su complejidad y según el ser vivo que compongan:
 
-- Células procariotas: Son las más primitivas, usualmente son la única estructura del ser vivo al cual componen.
-- Células eucariotas: Son más complejas, y forman un ser vivo con la unión de varias.
+- Células procariotas: Son las más primitivas, usualmente son la única estructura del ser vivo al cual componen. **No tienen núcleo definido**.
+- Células eucariotas: Son más complejas, y forman un ser vivo con la unión de varias. **Tienen un núcleo definido**
 
-- Células vegetales: Se diferencian por sus organelos; forman las cortezas y los organos de los organismos vegetales.
+- Células vegetales: Se diferencian por sus organelos (vacuolas); forman las cortezas y los organos de los organismos vegetales.
 - Células animales: Son aquellas que componen a los seres del reino animal.
 
 Las células, a su vez, forman [[Nivel de tejido|tejidos]]

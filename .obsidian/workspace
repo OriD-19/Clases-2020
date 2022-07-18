@@ -7,8 +7,12 @@
         "id": "a4d4e717b9fd2fce",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Biología/Nivel de órgano.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Biología/Nivel de órgano.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
+    "Materias/Biología/Nivel de tejido.md",
+    "Materias/Biología/Nivel de órgano.md",
+    "Materias/Biología/Nivel celular.md",
+    "Materias/Biología/Nivel Organelo.md",
+    "Materias/Biología/Nivel molecular.md",
     "Materias/Biología/Niveles de organización biológica.md",
     "Materias/Sociales/Historia económica/36 aniversario del golpe de estado (video).md",
     "Materias/Sociales/Primer carro de El Salvador.md",
     "Materias/Sociales/Julio Adalberto Rivera.md",
-    "Materias/Biología/Nivel de órgano.md",
-    "Materias/Biología/Nivel de tejido.md",
-    "Materias/Biología/Nivel celular.md",
-    "Materias/Biología/Nivel Organelo.md",
-    "Materias/Biología/Nivel molecular.md",
     "Materias/Biología/Nivel supramolecular.md"
   ]
 }

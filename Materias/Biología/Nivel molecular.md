@@ -11,6 +11,8 @@ El nivel molecular es aquel que está formado por **varios [[Nivel atómico|áto
 Las moléculas tienen diferentes propiedades segúna los átomos que la formen. 
 La molécula más abundante y estudiada en nuestro planeta es la *[[Molécula de agua]] ($H_2O$)*
 
+Cuando dos átomos del mismo elemento se juntan, se forma una **molécula diatómica**.
+
 Otros ejemplos de moléculas son las **bases nitrogenadas** y las [[Biomoléculas orgánicas]].
 
 A este nivel le sigue el [[Nivel Organelo]]
