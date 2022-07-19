@@ -137,7 +137,7 @@ En el margen del gobierno de [[Arturo Armando Molina]], este propuso una *"trans
 
 La Junta de Gobierno tuvo muy corta vida.
 
-La alianza cristiana con la fuerza armada, con el apoyo de los Estados Unidos.
+La alianza demócrata cristiana (PDC) con la Fuerza Armada, con el apoyo de los Estados Unidos.
 
 ## Conclusiones
 
