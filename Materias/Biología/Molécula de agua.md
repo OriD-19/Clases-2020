@@ -26,6 +26,6 @@ Los enlaces que forman las moléculas de agua son **covalentes.** Se forman los 
 - Es polar.
 - Solvente universal.
 - Tiene alta tensión superficial.
-- Alto calor específico (requiere más calor para aumentar su temperatura.)
+- Alto calor específico (requiere más calor para aumentar su temperatura). Esta propiedad se transmite a los seres vivos, y se denomina **turgencia**, ocurre a nivel celular.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
