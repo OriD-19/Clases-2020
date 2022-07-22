@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Sindicalismo/Sindicatos en El Salvador.md",
+            "file": "Materias/Biología/Apuntes de laboratorio/Indicaciones para el reporte de laboratorio.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peptídi",
+                "query": "enzima",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Sindicalismo/Sindicatos en El Salvador.md",
+                "file": "Materias/Biología/Apuntes de laboratorio/Indicaciones para el reporte de laboratorio.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "a4d4e717b9fd2fce",
   "lastOpenFiles": [
-    "Materias/Sociales/Sindicalismo/Historia del sindicalismo.md",
-    "Materias/Sociales/Sindicalismo/Masacre del metro en Chicago.md",
-    "Materias/Sociales/Sindicalismo/Ejemplos de sindicatos en el mundo.md",
-    "Materias/Sociales/Sindicalismo/Sindicalismo.md",
-    "Materias/Sociales/Sindicalismo/Objetivos del sindicalismo.md",
-    "Materias/Seminario/Marco Teórico.md",
-    "Materias/Biología/Gregor Mendel.md",
-    "Materias/Biología/Genes.md",
-    "Materias/Biología/Primera Ley de Mendel.md",
-    "Materias/Biología/Biomoléculas inorgánicas.md"
+    "Materias/Biología/Apuntes de laboratorio/Práctica 2.md",
+    "Materias/Biología/Disacáridos.md",
+    "Materias/Sociales/Historia económica/36 aniversario del golpe de estado (video).md",
+    "Materias/Sociales/Historia económica/Jaime Abdul Gutiérrez.md",
+    "Materias/Sociales/Historia económica/Junta Revolucionaria de Gobierno (1979).md",
+    "Materias/Sociales/Elecciones de 1972.md",
+    "Materias/Sociales/Carlos Humberto Romero.md",
+    "Materias/Sociales/Carlos Herrera Rebollo.md",
+    "Materias/Sociales/Arturo Armando Molina.md",
+    "Materias/Sociales/Sindicalismo/Sindicatos en El Salvador.md"
   ]
 }

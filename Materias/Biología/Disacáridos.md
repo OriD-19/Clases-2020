@@ -18,7 +18,7 @@ Para formar un disacárido mediante dos [[Monosacáridos]], se puede efectuar un
 
 Es un compuesto formado por dos monosacáridos: la **glucosa** (hexosa) y la **fructosa** (pentosa).
 
-Mediante una ruptura del enlace por hidrólisis, se puede formar una sacarosa. Para este proceso, se *necesita un catalizador*: en este caso, una **enzima**.
+Mediante una ruptura del enlace por hidrólisis, se puede formar una sacarosa. Para este proceso, se *necesita un catalizador*: en este caso, una **enzima** (terminación en *-asa*).
 
 ### Maltosa
 
