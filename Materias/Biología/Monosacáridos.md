@@ -22,13 +22,13 @@ Es una molécula **D** (*destro*, que va a la derecha), puesto que su grupo hidr
 
 ### Fructosa
 
-Otra molécula de seis carbonos (hexosa), pero con la diferencia de tener dos grupos hidróxilo en los carbonos de los extremos.
+Otra molécula, pero esta vez de cinco carbonos (pentosa), y con la diferencia de tener dos grupos hidróxilo en los carbonos de los extremos.
 
 ### Ribosa y Desoxirribosa
 
 Estas dos moléculas son **pentosas**, es decir, tienen *cinco carbonos* en su estructura. Entre ambas, se diferencia por la presencia o ausencia de un **oxígeno** en el segundo carbono de la estructura, por eso el nombre **Des**oxirribosa (porque carece de un oxígeno).
 
-La desoxirribosa es una molécula *esencial* de la cadena helicoidal del ADN, de ahí su nombre **ácido desoxirribonucleico**.
+La desoxirribosa es una molécula *esencial* de la cadena helicoidal del ADN, de ahí su nombre **ácido desoxirribonucleico**. (Ver más en [[Ácidos nucléicos]])
 
 ## Síntesis de [[Disacáridos]]
 
