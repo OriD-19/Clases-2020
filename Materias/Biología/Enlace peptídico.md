@@ -6,7 +6,7 @@ tags: Biología 11/07/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 11/07/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 11/07/2022</div>
 
-Se forma por un proceso de **condensación**, entre el grupo *amino* de un [[Aminoácidos|aminoácido]] y el grupo carboxílico de otro aminoácido. En el cual se *libera* una **molécula de agua**.
+Se forma por un proceso de **condensación**, entre el grupo *amino* de un [[Aminoácidos|aminoácido]] y el grupo carboxilo de otro aminoácido. En el cual se *libera* una **molécula de agua**.
 
 Al unirse dos aminoácidos, en sus extremos quedan ubicados **dos hidrógenos y un oxígeno**, constituyente de una *molécula de agua $H_2O$.* Cuando esta es liberada, quedaría unido el carbono de uno de los aminoácidos con el **nitrógeno** del otro, lo que da paso el llamado *enlace peptídico*.
 

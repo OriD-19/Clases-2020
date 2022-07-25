@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Proteínas.md",
+            "file": "Materias/Biología/ATP.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Proteínas.md",
+                "file": "Materias/Biología/ATP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Biología/ARN.md",
+    "Materias/Biología/ADN.md",
+    "Materias/Biología/Ácidos nucléicos.md",
+    "Materias/Biología/Nucleótidos.md",
+    "Materias/Biología/Enlace peptídico.md",
+    "Materias/Biología/Aminoácidos.md",
+    "Materias/Biología/Proteínas.md",
     "Materias/Biología/Fosfolípidos.md",
     "Materias/Biología/Trigilicéridos.md",
-    "Materias/Biología/Ácidos Grasos.md",
-    "Materias/Biología/Lípidos.md",
-    "Materias/Biología/Nucleótidos.md",
-    "Materias/Biología/Ácidos nucléicos.md",
-    "Materias/Biología/Isómero.md",
-    "Materias/Biología/Tautomerización.md",
-    "Materias/Biología/Glucólisis.md",
-    "Materias/Biología/Catabolismo.md"
+    "Materias/Biología/Ácidos Grasos.md"
   ]
 }

@@ -10,7 +10,7 @@ tags: Biología 11/07/2022
 > El sufijo **-ína** indica la *presencia de nitrógeno $N$*
 
 Desnaturalización de proteínas
-Anfótero = **Zwitterión**
+Anfótero = **Zwitterión**, significa que tiene propiedades *ácidas y básicas.*
 
 ## Fuentes de obtención
 

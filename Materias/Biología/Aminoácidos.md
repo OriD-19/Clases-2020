@@ -10,7 +10,7 @@ También abreviados como **(a.a.)** para simplificar, son moléculas que present
 
 Tiene una estructura genérica, en la cual están presentes un **grupo central**, un radical y los dos grupos anteriormente mencionados.
 
-Una de las características más importantes, por su presencia de **amoníaco** y de **ácidos carboxílicos**, es que tiene *propiedades básicas y ácidas* al mismo tiempo.
+Una de las características más importantes, por su presencia de **amoníaco** y de **ácidos carboxílicos**, es que tiene *propiedades básicas y ácidas* al mismo tiempo (es un anfótero).
 
 Para juntar dos o más aminoácidos se produce un [[Enlace peptídico]].
 
