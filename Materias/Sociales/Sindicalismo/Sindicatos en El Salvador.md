@@ -35,4 +35,14 @@ Al margen de la prohibición del sindicalismo en nuestro país, las organizacion
 
 Finalmente, el Comité de Organización de Obrera Sindical logró cambios significativos, que devinieron en que en 1950 **se legalizó el sindicalismo,** gracias a [[Oscar Osorio]].
 
+## Dónde se inscriben los sindicatos
+
+En nuestro país, se inscriben en el **Ministerio de Trabajo y Proyección Social**. Por lógica, el ministerio también *actúa como árbitro en una disputa*.
+
+## Participación en los sindicatos por sexo
+
+Las mujeres **tienen menos participación** que los hombres en los sindicatos.
+
+Esto se debe a que las mujeres tienen una *menor participación* en los asuntos laborales. También podemos mencionar que la mayoría de mujeres trabajadoras se encuentran en las **maquilas**, ámbitos donde *no hay sindicatos*.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SINDICALISMO]]
