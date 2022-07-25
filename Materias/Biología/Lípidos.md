@@ -23,8 +23,8 @@ El enlace que une a las grasas es el **éster**; $COO$.
 
 ## Fuentes
 
-- Alimentos de origen animal, por ejemplo, la **manteca** de cerdo.
-- Alimentos de origen vegetal, como el *aguacate, frutos secos, aceites,* etc.
+- Alimentos de origen animal, por ejemplo, la **manteca** de cerdo. (LDL)
+- Alimentos de origen vegetal, como el *aguacate, frutos secos, aceites,* etc. (HDL)
 
 ## Tipos
 

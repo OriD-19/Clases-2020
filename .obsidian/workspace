@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Polisacáridos.md",
+            "file": "Materias/Biología/Proteínas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Polisacáridos.md",
+                "file": "Materias/Biología/Proteínas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
-    "Materias/Biología/Disacáridos.md",
-    "Materias/Biología/Anabolismo.md",
-    "Materias/Biología/Monosacáridos.md",
-    "Materias/Biología/Glucosa.md",
-    "Materias/Biología/Sacarosa.md",
-    "Materias/Biología/Biomoléculas orgánicas.md",
-    "Materias/Biología/Carbohidratos.md",
-    "Materias/Biología/ATP.md",
-    "Materias/Biología/Potasio.md",
-    "Materias/Biología/Gregor Mendel.md"
+    "Materias/Biología/Fosfolípidos.md",
+    "Materias/Biología/Trigilicéridos.md",
+    "Materias/Biología/Ácidos Grasos.md",
+    "Materias/Biología/Lípidos.md",
+    "Materias/Biología/Nucleótidos.md",
+    "Materias/Biología/Ácidos nucléicos.md",
+    "Materias/Biología/Isómero.md",
+    "Materias/Biología/Tautomerización.md",
+    "Materias/Biología/Glucólisis.md",
+    "Materias/Biología/Catabolismo.md"
   ]
 }
