@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Arena período 1/Armando Calderón Sol.md",
+            "file": "Materias/Matemáticas/Pruebas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Arena período 1/Armando Calderón Sol.md",
+                "file": "Materias/Matemáticas/Pruebas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Sociales/Arena período 1/Armando Calderón Sol.md",
     "Materias/Sociales/Arena período 1/Alfredo Cristiani.md",
     "Materias/Sociales/Arena período 1/Los mártires de la UCA.md",
     "Materias/Sociales/Arena período 1/Contexto histórico.md",
@@ -113,7 +114,6 @@
     "Materias/Biología/Aminoácidos.md",
     "Materias/Biología/Trigilicéridos.md",
     "Materias/Biología/Ácidos Grasos.md",
-    "Materias/Biología/Lípidos.md",
-    "Materias/Biología/Nucleótidos.md"
+    "Materias/Biología/Lípidos.md"
   ]
 }
