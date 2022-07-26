@@ -63,4 +63,50 @@ Y para $Ee$ x $ee$:
 
 Por lo tanto, es mucho más probable que el padre sea un *homocigoto dominante puro* de la forma $EE$.
 
+## Preguntas de evaluación
+
+1. Se cruza un individuo heterocigoto con otro homocigoto recesivo. Al respecto, es correcto afirmar que:
+
+	1. Todos los descendientes portan el alelo recesivo.
+	2. El 50% son homocigotos.
+	3. El 50% porta el alelo dominante
+
+Tenemos el siguiente cruce:
+
+$aa$ x $Aa$
+
+|     | A   | a   |
+| --- | --- | --- |
+| a   | Aa  | aa  |
+| a   | Aa  | aa  |
+
+Es un 50% híbrido, y un 50% homocigoto recesivo puro.
+
+Respuesta: Todas son correctas.
+
+---
+1. Se cruzan gatos con el mismo genotipo y fenotipo y originan una camada de 6 gatos negros y 2 blancos. Al respecto, es correcto afirmar que los:
+
+	1. Progenitores son heterocigotos
+	2. Gatos blancos de al camada son homocigotos recesivos.
+	3. Los gatos negros de la camada necesariamente tienen el genotipo de los padres.
+
+Comprobación:
+- Progenitores heterocigotos; si ambos tienen el mismo genotipo, entonces tenemos la siguiente posibilidad:
+
+$Aa$ x $Aa$:
+
+|     | A   | a   |
+| --- | --- | --- |
+| A   | AA  | Aa  |
+| a   | Aa  | aa  |
+
+Se tiene que ambos padres son hetercogitos, por lo tanto esta condición es **verdadera**.
+
+- Los gatos blancos son homocigotos recesivos: Como el fenotipo blanco es recesivo, entonces podemos decir que el genotipo del color blanco corresponde a los **homocigotos recesivos (verdadero)**.
+
+- Los gatos negros de la camada necesariamente tienen el genotipo de los padres.
+
+
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
