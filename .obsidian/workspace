@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Inglés/6B Vocabulary page 72.md",
+            "file": "Materias/Biología/Ejemplo de las leyes de Mendel.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Inglés/6B Vocabulary page 72.md",
+                "file": "Materias/Biología/Ejemplo de las leyes de Mendel.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Inglés/6B Vocabulary page 72.md",
     "Materias/Sociales/Arena período 2/Francisco Flores.md",
     "Materias/Sociales/Arena período 2/Elías Antonio Saca.md",
     "Materias/Matemáticas/Pruebas.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Arena período 1/Los mártires de la UCA.md",
     "Materias/Sociales/Arena período 1/Contexto histórico.md",
     "Materias/Biología/Ejemplo de las leyes de Mendel.md",
-    "Materias/Biología/Metodología mendeliana.md",
-    "Materias/Biología/Aminoácidos.md"
+    "Materias/Biología/Metodología mendeliana.md"
   ]
 }

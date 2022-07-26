@@ -34,4 +34,33 @@ Así pues, tenemos que los fenotipos de la $F_1$ sería 100% $Rr$ (dominante hí
 
 Tenemos 25% dominante puro, 50% dominante híbrido, y 25% recesivo puro. La proporción sería 1 : 2 : 1, respectivamente.
 
+   d) Es correcto plantear que en $F_2$
+
+c. Un 75% porta el gen dominante.
+
+
+## Acondroplasia
+
+Una mujer presenta un tipo de enanismo llamado acondroplasia, y está determinada por el gen dominante $E$. El padre de esta mujer también presenta enanismo, y la madre presenta estatura normal. ¿Cuáles son los genotipos más probables del padre, la madre y la mujer?
+
+R/ La madre, por tener estatura normal, forzosamente tiene que ser un homocigoto recesivo, de la forma $ee$. El padre, por su lado, puede ser de dos formas: $EE$ o $Ee$, puesto que también manifiesta enanismo.
+
+Sin embargo, si analizamos la situación, la hija tiene que ser un heterocigoto $Ee$, puesto que la madre es un homocigoto. De cualquier forma, sus genes tienen que tener un dominante y un recesivo. Así pues, podemos concluir que:
+
+$EE$ x $ee$:
+
+|     | E   | E   |
+| --- | --- | --- |
+| e   | Ee  | Ee  |
+| e   | Ee  | Ee  | 
+
+Y para $Ee$ x $ee$:
+
+|     | E   | e   |
+| --- | --- | --- |
+| e   | Ee  | ee  |
+| e   | eE  | ee  | 
+
+Por lo tanto, es mucho más probable que el padre sea un *homocigoto dominante puro* de la forma $EE$.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
