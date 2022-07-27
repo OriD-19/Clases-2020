@@ -12,7 +12,7 @@ tags: Inglés 27/07/2022
 2. having been picked up
 3. being dropped
 4. being prevented
-5. be educated
+5. be educated*
 6. being interrupted
 7. have been made worse
 8. to be closed
@@ -20,5 +20,7 @@ tags: Inglés 27/07/2022
 10. having been forced
 11. to be launched
 12. being introduced
+
+*You don't use "to" when you have a modal in the infinitive form. You always use infinitive after a modal.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
