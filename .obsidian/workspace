@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Ejemplos de la segunda ley de Mendel.md",
+            "file": "Materias/Lenguaje/El señor presidente.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Ejemplos de la segunda ley de Mendel.md",
+                "file": "Materias/Lenguaje/El señor presidente.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Biología/Ejemplos de la segunda ley de Mendel.md",
     "Materias/Seminario/Tamaño de una muestra.md",
     "Materias/Seminario/Muestra.md",
     "Materias/Seminario/Población.md",
@@ -113,7 +114,6 @@
     "Materias/Lenguaje/Parnasianismo.md",
     "Materias/Lenguaje/Arturo Ambrogi.md",
     "Materias/Lenguaje/Júpiter.md",
-    "Materias/Lenguaje/Realismo.md",
-    "Materias/Lenguaje/Salarrué.md"
+    "Materias/Lenguaje/Realismo.md"
   ]
 }
