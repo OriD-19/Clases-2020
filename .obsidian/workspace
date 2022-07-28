@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Seminario/Población y muestra.md",
+            "file": "Materias/Seminario/Muestra.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Población y muestra.md",
+                "file": "Materias/Seminario/Muestra.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Seminario/Población.md",
     "Materias/Seminario/Fuentes de información.md",
-    "Materias/Seminario/Población y muestra.md",
     "Materias/Lenguaje/Generación comprometida.md",
     "Materias/Lenguaje/Parnasianismo.md",
     "Materias/Lenguaje/Arturo Ambrogi.md",
