@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Textos publicitarios y propagandísticos.md",
+            "file": "Materias/Sociales/La Migración/Migración en el mundo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Textos publicitarios y propagandísticos.md",
+                "file": "Materias/Sociales/La Migración/Migración en el mundo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Sociales/La Migración/Consecuencias de la migración.md",
+    "Materias/Sociales/La Migración/Migración en el mundo.md",
+    "Materias/Sociales/La Migración/El Salvador como país migrante.md",
+    "Materias/Sociales/La Migración/Causas de la migración.md",
+    "Materias/Sociales/La Migración/La migración en Centroamérica.md",
+    "Materias/Sociales/La Migración/Ejemplos de migración en la historia.md",
+    "Materias/Sociales/La Migración/La Migración.md",
+    "Materias/Lenguaje/Textos publicitarios y propagandísticos.md",
     "Materias/Inglés/6C - Passive gerunds and infinitives.md",
-    "Materias/Sociales/Revoluciones industriales/Cuarta Revolución Industrial.md",
-    "Materias/Sociales/Revoluciones industriales/Tercera Revolución Industrial.md",
-    "Materias/Sociales/Revoluciones industriales/Segunda Revolución Industrial.md",
-    "Materias/Sociales/Revoluciones industriales/Primera Revolución industrial.md",
-    "Materias/Sociales/FMLN/Salvador Sánchez Cerén.md",
-    "Materias/Sociales/FMLN/Mauricio Funes.md",
-    "Materias/Sociales/FMLN/Untitled.md",
-    "Materias/Biología/Segunda Ley de Mendel.md",
-    "Materias/Biología/Genes.md"
+    "Materias/Sociales/Revoluciones industriales/Cuarta Revolución Industrial.md"
   ]
 }
