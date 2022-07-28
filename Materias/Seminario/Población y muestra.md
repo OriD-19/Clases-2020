@@ -18,4 +18,11 @@ La población (también llamada *universo*) se refiere a la **totalidad**, tanto
 - De lugar: Delimitar el *lugar geográfico* y/o la *institución* en la que se llevará a cabo el estudio.
 - De tiempo: Se refiere al **período** en que los sujetos cumplan las características de la investigación.
 
+### Factores para la selección de la población
+
+- El tiempo y los recursos disponibles.
+- La modalidad del muestreo (determinada por los **objetivos, los recursos y el tiempo**).
+- La diversidad de los análisis, determinar uno *previo a la definición de la población*.
+- La varianza o heterogeneidad poblacional, lo que significa que el tamaño de la muestra es *proporcional a la diversidad* del objeto de estudio. (entre más variables, mayor la población, para que todos los grupos estén representados)
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SEMINARIO]]
