@@ -20,10 +20,22 @@ Cuando el padre presenta una enfermedad, como no existen dos cromosomas X en los
 
 Dependiendo de si la enfermedad es dominante o recesiva, esta tendrá diferentes efectos en el cromosoma X.
 
+Ejemplos de estas enfermedades son el *daltonismo* y la *hemofilia*.
+
 ### Enfermedades ligadas al cromosoma Y
 
 Debido a que solo los hombres poseen el cromosoma Y, únicamente estos pueden presentar enfermedades ligadas a este cromosoma. 
 
 Por otro lado, debido a la propiedad de **hemicigosis** de los hombres, estos *siempre manifestarán la enfermedad cuando se trata del cromosoma Y*.
+
+## Herencia **parcialmente** ligada al sexo
+
+Después del descubrimiento de la forma *helicoidal* del ADN se comenzaron a realizar nuevos descubrimientos, y es ahí donde surge el concepto de **herencia parcial**.
+
+> Esta hace referencia a aquellos genes que se encuentran en la zona **homóloga** de los [[Cromosomas determinantes del sexo|cromosomas sexuales]].
+
+## Herencia de genes holándricos o *andrógenos*
+
+Cuando se encuentran únicamente en el cromosoma Y.
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
