@@ -16,4 +16,6 @@ Esta herencia está determinada por el *gameto masculino*, puesto que es el homb
 
 Para representar a los alelos dominantes y recesivos del cromosoma X (presente en todos los seres humanos) es la siguiente: $\large X^A$ para los dominantes, y $\large X^a$ para los recesivos.
 
+Cuando el padre presenta una enfermedad, como no existen dos cromosomas X en los hombres, se dice que es **hemicigótico**, puesto que el cromosoma Y no es homólogo al X, por lo que no tiene una manera de compararse y *siempre manifestará la enfermedad*.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
