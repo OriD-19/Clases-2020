@@ -17,5 +17,7 @@
   "legacyEditor": false,
   "useTab": true,
   "livePreview": true,
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "strictLineBreaks": false,
+  "showLineNumber": false
 }

@@ -7,12 +7,8 @@
         "id": "30bc0560657f558d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Materias/Lenguaje/El señor presidente.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/El señor presidente.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +100,8 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Sociales/UNIDAD I/Jorge Rafael Videla.md",
+    "Materias/Lenguaje/El señor presidente.md",
     "Materias/Sociales/Arena período 2/Elías Antonio Saca.md",
     "Materias/Sociales/Arena período 2/Francisco Flores.md",
     "Materias/Sociales/Historia económica/36 aniversario del golpe de estado (video).md",
@@ -112,8 +109,6 @@
     "Materias/Sociales/Cultura salvadoreña en los 70s.md",
     "Materias/Sociales/Revolución Nicaragüense.md",
     "Materias/Sociales/Carlos Humberto Romero.md",
-    "Materias/Sociales/Monseñor Romero.md",
-    "Materias/Sociales/Rutilio Grande.md",
-    "Materias/Sociales/Carlos Herrera Rebollo.md"
+    "Materias/Sociales/Monseñor Romero.md"
   ]
 }
