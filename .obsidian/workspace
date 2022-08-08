@@ -7,8 +7,12 @@
         "id": "30bc0560657f558d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Materias/Sociales/UNIDAD I/Anastasio Somoza Debayle.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Sociales/UNIDAD I/Anastasio Somoza Debayle.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Sociales/UNIDAD I/Rafael Leónidas Trujillo.md",
     "Materias/Sociales/UNIDAD I/Jorge Rafael Videla.md",
     "Materias/Lenguaje/El señor presidente.md",
     "Materias/Sociales/Arena período 2/Elías Antonio Saca.md",
@@ -108,7 +114,6 @@
     "Materias/Sociales/Primer carro de El Salvador.md",
     "Materias/Sociales/Cultura salvadoreña en los 70s.md",
     "Materias/Sociales/Revolución Nicaragüense.md",
-    "Materias/Sociales/Carlos Humberto Romero.md",
-    "Materias/Sociales/Monseñor Romero.md"
+    "Materias/Sociales/Carlos Humberto Romero.md"
   ]
 }
