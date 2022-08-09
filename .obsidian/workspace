@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/John F. Kennedy.md",
+            "file": "Materias/Lenguaje/Realismo Mágico.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/John F. Kennedy.md",
+                "file": "Materias/Lenguaje/Realismo Mágico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Realismo.md",
+    "Materias/Lenguaje/Realismo Crítico.md",
+    "Materias/Lenguaje/Realismo Regionalista.md",
+    "Materias/Lenguaje/Realismo Finisecular.md",
+    "Materias/Lenguaje/Untitled.md",
+    "Materias/Biología/Herencia ligada al sexo.md",
+    "Materias/Sociales/John F. Kennedy.md",
     "Materias/Sociales/Julio Adalberto Rivera.md",
     "Materias/Sociales/Gobiernos militares del PCN.md",
-    "Materias/Sociales/Guerra de las cien horas (1969).md",
-    "Materias/Sociales/CIFCO.md",
-    "Materias/Biología/Herencia ligada al sexo.md",
-    "Materias/Biología/Cromosomas determinantes del sexo.md",
-    "Materias/Biología/Lípidos.md",
-    "Materias/Biología/Carbohidratos.md",
-    "Materias/Biología/Monosacáridos.md",
-    "Materias/Biología/Glucosa.md"
+    "Materias/Sociales/Guerra de las cien horas (1969).md"
   ]
 }

@@ -10,6 +10,13 @@ Se dio en el siglo XIX en Europa, pero se alargó durante un cierto tiempo hasta
 
 Es una contraposición al [[Romanticismo]], y describe **de una manera más realista la vida en la ciudad**.
 
+## Ramas del realismo
+
+- [[Realismo Finisecular]]
+- [[Realismo Regionalista]]
+- [[Realismo Crítico]]
+- [[Realismo Mágico]]
+
 ## Obras importantes
 
 - Doña Bárbara.
