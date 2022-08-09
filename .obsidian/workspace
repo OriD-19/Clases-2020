@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Herencia ligada al sexo.md",
+            "file": "Materias/Sociales/John F. Kennedy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Herencia ligada al sexo.md",
+                "file": "Materias/Sociales/John F. Kennedy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Sociales/Julio Adalberto Rivera.md",
+    "Materias/Sociales/Gobiernos militares del PCN.md",
+    "Materias/Sociales/Guerra de las cien horas (1969).md",
+    "Materias/Sociales/CIFCO.md",
+    "Materias/Biología/Herencia ligada al sexo.md",
     "Materias/Biología/Cromosomas determinantes del sexo.md",
     "Materias/Biología/Lípidos.md",
     "Materias/Biología/Carbohidratos.md",
     "Materias/Biología/Monosacáridos.md",
-    "Materias/Biología/Glucosa.md",
-    "Materias/Biología/Polisacáridos.md",
-    "Materias/Biología/Disacáridos.md",
-    "Materias/Biología/Enlace peptídico.md",
-    "Materias/Biología/Sacarosa.md",
-    "Materias/Sociales/UNIDAD I/Anastasio Somoza Debayle.md"
+    "Materias/Biología/Glucosa.md"
   ]
 }
