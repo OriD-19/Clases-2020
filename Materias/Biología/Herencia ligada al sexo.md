@@ -20,7 +20,7 @@ Cuando el padre presenta una enfermedad, como no existen dos cromosomas X en los
 
 Dependiendo de si la enfermedad es dominante o recesiva, esta tendrá diferentes efectos en el cromosoma X.
 
-Ejemplos de estas enfermedades son el *daltonismo* y la *hemofilia*.
+Ejemplos de estas enfermedades son el *daltonismo* y la *[[Hemofilia]]*.
 
 ### Enfermedades ligadas al cromosoma Y
 

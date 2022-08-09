@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Realismo Mágico.md",
+            "file": "Materias/Sociales/Presentaciones BIII/Revoluciones industriales/Segunda Revolución Industrial.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vitamin",
+                "query": "hemofilia",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Realismo Mágico.md",
+                "file": "Materias/Sociales/Presentaciones BIII/Revoluciones industriales/Segunda Revolución Industrial.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
-    "Materias/Lenguaje/Realismo.md",
-    "Materias/Lenguaje/Realismo Crítico.md",
-    "Materias/Lenguaje/Realismo Regionalista.md",
-    "Materias/Lenguaje/Realismo Finisecular.md",
-    "Materias/Lenguaje/Untitled.md",
+    "Materias/Sociales/Presentaciones BIII/Revoluciones industriales/Primera Revolución industrial.md",
+    "Materias/Biología/Hemofilia.md",
     "Materias/Biología/Herencia ligada al sexo.md",
-    "Materias/Sociales/John F. Kennedy.md",
-    "Materias/Sociales/Julio Adalberto Rivera.md",
-    "Materias/Sociales/Gobiernos militares del PCN.md",
-    "Materias/Sociales/Guerra de las cien horas (1969).md"
+    "Materias/Sociales/Pena de muerte en El Salvador.md",
+    "Materias/Sociales/Guerra de las cien horas (1969).md",
+    "Materias/Sociales/Fidel Sánchez Hernández.md",
+    "Materias/Sociales/CIFCO.md",
+    "Materias/Sociales/Aeropuerto de Ilopango.md",
+    "Materias/Lenguaje/Realismo Mágico.md",
+    "Materias/Lenguaje/Realismo.md"
   ]
 }
