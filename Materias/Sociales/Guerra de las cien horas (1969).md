@@ -10,7 +10,7 @@ También conocida como la **Guerra del fútbol**, término acuñado por periodis
 
 ## Otros nombres
 
-- Guerra de los bolsones, debido a que un territorio durante esa guerra estaba *indetreminado*, de ahí el término **bolsón**.
+- Guerra de los bolsones, debido a que un territorio durante esa guerra estaba *inedeterminado*, de ahí el término **bolsón**.
 - Guerra de la legítima defensa, luego de que los salvadoreños sufrieran constantes atropellos de parte de los hondureños, creando incluso el eslógan de:
 > ¿Cómo es posible que el hombre pueda caminar en la tierra, y un salvadoreño no pueda pisar Honduras?
 
