@@ -9,7 +9,7 @@ tags: Sindicalismo 20/07/2022
 El sindicalismo es una actividad que busca ciertos objetivos:
 
 1. Mejorar la calidad de vida de los trabajadores.
-2. Representar a los trabajadores en los derechos de contraros de trabajo.
+2. Representar a los trabajadores en los derechos de contratos de trabajo.
 3. Representar a los afiliados en la negación colectiva.
 4. Velar por el cumplimiento de las leyes de trabajo.
 5. Defensa ante los riesgos laborales.
