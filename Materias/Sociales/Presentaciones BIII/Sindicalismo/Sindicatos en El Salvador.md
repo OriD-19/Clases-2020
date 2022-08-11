@@ -45,4 +45,7 @@ Las mujeres **tienen menos participación** que los hombres en los sindicatos.
 
 Esto se debe a que las mujeres tienen una *menor participación* en los asuntos laborales. También podemos mencionar que la mayoría de mujeres trabajadoras se encuentran en las **maquilas**, ámbitos donde *no hay sindicatos*.
 
+> [!IMPORTANTE]
+> Las mujeres embarazadas y personas con discapacidad tienen derechos especiales. En el caso de las primeras, estas no pueden ser despedidas en los cuatro meses después de dar a luz, tiene que tener horas libres para amamantar al bebé y no puede ser obligada a tomar trabajos de alto requerimiento físico.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SINDICALISMO]]
