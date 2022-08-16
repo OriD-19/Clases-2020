@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Herencia ligada al sexo.md",
+            "file": "Materias/Biología/Gemelos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Herencia ligada al sexo.md",
+                "file": "Materias/Biología/Gemelos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Sociales/INPEP.md",
+    "Materias/Sociales/Fondo Social para la Vivienda (FSV).md",
+    "Materias/Sociales/Presentaciones BIII/Arena período 2/Francisco Flores.md",
+    "Materias/Sociales/Presentaciones BIII/Arena período 1/Los mártires de la UCA.md",
+    "Materias/Sociales/Presentaciones BIII/Arena período 1/Alfredo Cristiani.md",
+    "Materias/Biología/Herencia ligada al sexo.md",
     "Materias/Biología/Apuntes de laboratorio/Práctica 2.md",
     "Materias/Seminario/Tamaño de una muestra.md",
     "Materias/Biología/Proteínas.md",
-    "Materias/Biología/Aminoácidos.md",
-    "Materias/Biología/Enlace peptídico.md",
-    "Materias/Seminario/Fuentes de información.md",
-    "Materias/Seminario/Muestra.md",
-    "Materias/Seminario/Población.md",
-    "Materias/Sociales/Presentaciones BIII/Sindicalismo/Sindicatos en El Salvador.md",
-    "Materias/Sociales/Presentaciones BIII/Sindicalismo/Sindicalismo.md"
+    "Materias/Biología/Aminoácidos.md"
   ]
 }
