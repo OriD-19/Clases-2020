@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Seminario/Tamaño de una muestra.md",
+            "file": "Materias/Biología/Herencia ligada al sexo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Seminario/Tamaño de una muestra.md",
+                "file": "Materias/Biología/Herencia ligada al sexo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Biología/Apuntes de laboratorio/Práctica 2.md",
+    "Materias/Seminario/Tamaño de una muestra.md",
     "Materias/Biología/Proteínas.md",
     "Materias/Biología/Aminoácidos.md",
     "Materias/Biología/Enlace peptídico.md",
@@ -112,8 +114,6 @@
     "Materias/Seminario/Muestra.md",
     "Materias/Seminario/Población.md",
     "Materias/Sociales/Presentaciones BIII/Sindicalismo/Sindicatos en El Salvador.md",
-    "Materias/Sociales/Presentaciones BIII/Sindicalismo/Sindicalismo.md",
-    "Materias/Sociales/Presentaciones BIII/La Migración/El Salvador como país migrante.md",
-    "Materias/Sociales/Presentaciones BIII/Revoluciones industriales/Tercera Revolución Industrial.md"
+    "Materias/Sociales/Presentaciones BIII/Sindicalismo/Sindicalismo.md"
   ]
 }
