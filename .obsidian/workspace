@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Gemelos.md",
+            "file": "Materias/Lenguaje/Reportaje.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Gemelos.md",
+                "file": "Materias/Lenguaje/Reportaje.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Biología/Gemelos.md",
     "Materias/Sociales/INPEP.md",
     "Materias/Sociales/Fondo Social para la Vivienda (FSV).md",
     "Materias/Sociales/Presentaciones BIII/Arena período 2/Francisco Flores.md",
@@ -113,7 +114,6 @@
     "Materias/Biología/Herencia ligada al sexo.md",
     "Materias/Biología/Apuntes de laboratorio/Práctica 2.md",
     "Materias/Seminario/Tamaño de una muestra.md",
-    "Materias/Biología/Proteínas.md",
-    "Materias/Biología/Aminoácidos.md"
+    "Materias/Biología/Proteínas.md"
   ]
 }
