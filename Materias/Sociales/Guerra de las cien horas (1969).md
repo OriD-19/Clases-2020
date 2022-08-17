@@ -30,6 +30,4 @@ Tenían una especialidad de guineo, la cual cultivaron en los territorios centro
 
 Algunas de las personas que trabajaron en esta compañía eran miembros de la **CIA**, por lo que estaban blindados incluso ante la intervención del gobierno.
 
-
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
