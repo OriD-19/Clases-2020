@@ -11,3 +11,11 @@ $$\large M^3 - M = 60$$
 $$\large M^3 - M = 64 - 4$$
 
 $$\large M^3 - M = 4^3 - 4$$
+
+
+$$\large 10^{m-1} \leq 5^{2021} < 10^m$$
+
+$$\large \log(10^{m-1}) \leq \log(5^{2021}) < \log(10^m)$$
+
+$$\large m - 1 \leq2021\log(5)<m$$
+
