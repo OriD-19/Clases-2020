@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Apuntes de laboratorio/Práctica 2.md",
+            "file": "Materias/Matemáticas/Pruebas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Apuntes de laboratorio/Práctica 2.md",
+                "file": "Materias/Matemáticas/Pruebas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "30bc0560657f558d",
   "lastOpenFiles": [
+    "Materias/Biología/Apuntes de laboratorio/Práctica 2.md",
     "Materias/Matemáticas/Pruebas.md",
     "Materias/Lenguaje/Queísmo y dequeísmo.md",
     "Materias/Lenguaje/Reportaje.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Revolución Nicaragüense.md",
     "Materias/Sociales/Aumento de la violencia en los 70s.md",
     "Materias/Sociales/Cultura salvadoreña en los 70s.md",
-    "Materias/Sociales/Monseñor Romero.md",
-    "Materias/Sociales/Carlos Herrera Rebollo.md"
+    "Materias/Sociales/Monseñor Romero.md"
   ]
 }

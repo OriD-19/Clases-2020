@@ -19,3 +19,6 @@ $$\large \log(10^{m-1}) \leq \log(5^{2021}) < \log(10^m)$$
 
 $$\large m - 1 \leq2021\log(5)<m$$
 
+## Dominio de una función compuesta
+
+$$\Large Dom_{f\circ g} = \set{x\in Dom_g /g(x)\in Dom_f}$$
