@@ -8,7 +8,7 @@ tags: Sociales 29/06/2022
 
 El candidato por parte del PCN en las [[Elecciones de 1972]]. 
 
-Su candidatura fue un poco repentina, puesto que ya se le había ofrecido a personas como el "Chele Medrano" (amigo de [[Fidel Sánchez Hernández]]), pero ninguno de los militares a los que se le ofreció **aceptó participar**.
+Su candidatura fue un poco repentina, puesto que ya se le había ofrecido a personas como el "Chele Medrano", y Galindo Pohl (amigo de [[Fidel Sánchez Hernández]]), pero ninguno de los militares a los que se le ofreció **aceptó participar**.
 
 Finalmente, fue Armando Molina el que se lanzó a la presidencia por parte del PCN, momento en el cual ocurrió un fraude en contra del otro candidato de la oposición, [[José Napoleón Duarte]].
 
