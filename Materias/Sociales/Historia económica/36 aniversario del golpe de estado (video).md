@@ -80,7 +80,7 @@ Este golpe se dio mediante **células**, grupos de infiltrados que tenían plane
 - Cuartel de Transmisiones.
 - Tercera brigada en San Miguel
 
-Quedaron los *Cuerpos de Seguridad (PNC, Guardia Nacional y Policía de Hacienda).*
+Quedaron los *Cuerpos de Seguridad (Policía Nacional, Guardia Nacional y Policía de Hacienda).*
 
 #### La actuación del general Romero
 
