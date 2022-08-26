@@ -24,7 +24,7 @@ Inaugurado por los juegos olímpicos regionales que se llevaron a cabo en nuestr
 
 **Las hipotécas o prendas** son garantías para un préstamo. Esta es una manera de los bancos de asegurarse que se pagará la deuda.
 
-En un momento tan difícil económicamente para nuestro país, el gobierno creó *sistemas de préstamos para reactivar la economía*, especialmente aquellos que contaban con tierras y riquezas que podían pedir una hipotéca a cambio de su propiedad.
+En un momento tan difícil económicamente para nuestro país, el gobierno creó *sistemas de préstamos para reactivar la economía*, especialmente aquellos que contaban con tierras y riquezas que podían pedir una hipoteca a cambio de su propiedad.
 
 Los dos bancos principales que fueron creados durante el gobierno de Martínez (y todavía existen) fueron:
 

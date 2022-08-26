@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc38316a9429b3c",
+        "id": "8ceeb3638206181d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Herencia ligada al sexo.md",
+            "file": "Materias/Sociales/UNIDAD II/Maximiliano Hernández Martínez.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dalto",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Herencia ligada al sexo.md",
+                "file": "Materias/Sociales/UNIDAD II/Maximiliano Hernández Martínez.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,17 +103,17 @@
     "width": 289.3999938964844,
     "collapsed": true
   },
-  "active": "88fe65dab3fa223c",
+  "active": "8ceeb3638206181d",
   "lastOpenFiles": [
-    "Materias/Biología/Cromosomas determinantes del sexo.md",
-    "Materias/Biología/Herencia ligada al sexo.md",
-    "Materias/Biología/ARN.md",
-    "Materias/Biología/ADN.md",
-    "Materias/Biología/Nucleótidos.md",
-    "Materias/Biología/Ácidos nucléicos.md",
-    "Materias/Biología/Colesterol.md",
-    "Materias/Biología/Fosfolípidos.md",
-    "Materias/Biología/Trigilicéridos.md",
-    "Materias/Biología/Disacáridos.md"
+    "Materias/Sociales/UNIDAD II/Maximiliano Hernández Martínez.md",
+    "Materias/Sociales/UNIDAD II/Maximiliano de Habsburgo (emperador de México).md",
+    "Materias/Sociales/UNIDAD II/Francisco Dueñas.md",
+    "Materias/Sociales/Ingenio Azucarero Jiboa (INJIBOA).md",
+    "Materias/Sociales/UNIDAD II/La historia económica de El Salvador.md",
+    "Materias/Sociales/UNIDAD II/La realidad social.md",
+    "Materias/Sociales/UNIDAD II/La presa 5 de Noviembre.md",
+    "Materias/Sociales/UNIDAD II/El puerto de Acajutla.md",
+    "Materias/Sociales/UNIDAD II/El Litoral.md",
+    "Materias/Sociales/UNIDAD II/Instituto de Vivienda Urbana (IVU).md"
   ]
 }
