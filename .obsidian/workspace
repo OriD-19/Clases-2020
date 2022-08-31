@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Segunda Ley de la Termodinámica.md",
+            "file": "Materias/Inglés/Averbials Unit 8.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Segunda Ley de la Termodinámica.md",
+                "file": "Materias/Inglés/Averbials Unit 8.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Biología/Segunda Ley de la Termodinámica.md",
     "Materias/Biología/Primera Ley de la Termodinámica.md",
     "Materias/Biología/Proceso de fotosíntesis.md",
     "Materias/Religión/Actividades evaluadas BIV.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Revolución Nicaragüense.md",
     "Materias/Sociales/Primer carro de El Salvador.md",
     "Materias/Sociales/Hotel Presidente.md",
-    "Materias/Sociales/Banco de Fomento Agropecuario (BFA).md",
-    "Materias/Sociales/Fondo Social para la Vivienda (FSV).md"
+    "Materias/Sociales/Banco de Fomento Agropecuario (BFA).md"
   ]
 }
