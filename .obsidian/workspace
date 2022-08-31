@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Religión/Actividades evaluadas BIV.md",
+            "file": "Materias/Biología/Segunda Ley de la Termodinámica.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Religión/Actividades evaluadas BIV.md",
+                "file": "Materias/Biología/Segunda Ley de la Termodinámica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Biología/Primera Ley de la Termodinámica.md",
+    "Materias/Biología/Proceso de fotosíntesis.md",
+    "Materias/Religión/Actividades evaluadas BIV.md",
     "Materias/Sociales/Historia económica/Junta Revolucionaria de Gobierno (1979).md",
     "Materias/Sociales/Cultura salvadoreña en los 70s.md",
     "Materias/Sociales/Revolución Nicaragüense.md",
     "Materias/Sociales/Primer carro de El Salvador.md",
     "Materias/Sociales/Hotel Presidente.md",
     "Materias/Sociales/Banco de Fomento Agropecuario (BFA).md",
-    "Materias/Sociales/Fondo Social para la Vivienda (FSV).md",
-    "Materias/Sociales/Ingenio Azucarero Jiboa (INJIBOA).md",
-    "Materias/Sociales/Presa Cerrón Grande.md",
-    "Materias/Sociales/INPEP.md"
+    "Materias/Sociales/Fondo Social para la Vivienda (FSV).md"
   ]
 }
