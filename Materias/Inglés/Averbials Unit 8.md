@@ -24,4 +24,33 @@ tags: Inglés 31/08/2022
 5. Frankly, badly thought-through stereotypes of the moody teenager really annoy me.
 6. Young people don't always behave sensibly as certain aspects of their brain aren't fully developed
 
+## Page 94 - Grammar
+
+a. certainty.
+b. attitude.
+c. (probably) certainty.
+d. (often) frequency.
+e. (really) degree.
+f. (in fact) attitude.
+g. (carefully) manner.
+h. (from time to time) frequency.
+i. (maybe) certainty.
+j. (also) addition; (very) degree.
+
+### Exercise 8
+
+1. Choose the correct option:
+a. Beginning
+b. At the end of a clause
+c. in the middle
+
+3. Which sentence expresses a stronger negative idea?
+a. I really don't like speaking in public.
+
+### Exercise 10
+1. I'd probably enjoy backpacking around the world very much.
+2. I definitiely wouldn't enjoy extreme sports like rock climbing at all.
+3. Some day, I possibly might try to overcome an irrational fear I have.
+4. To make a balanced decision, I just try to weigh the pros and cons carefully.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['INGLÉS]]
