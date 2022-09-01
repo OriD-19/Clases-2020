@@ -72,7 +72,7 @@ El saldo del país terminó de la siguiente manera:
 
 La deuda exedía de una manera **escandalosa** a la reserva de dólares. Esto significó que **toda la economía se fue en picado**.
 
-### La "recuperción"
+### La "recuperación"
 
 El presidente Carter fue el encargado de donar una cantidad de dinero considerable; esta deuda fue pagada en 3 años por el presidente Cedillos.
 
