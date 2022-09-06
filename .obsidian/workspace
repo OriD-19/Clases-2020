@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Lenguaje/Boom Latinoamericano.md",
+            "file": "Materias/Lenguaje/Realismo Mágico.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Lenguaje/Boom Latinoamericano.md",
+                "file": "Materias/Lenguaje/Realismo Mágico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Lenguaje/Untitled.md",
+    "Materias/Lenguaje/Boom Latinoamericano.md",
     "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md",
     "Materias/Sociales/Tecnología.md",
     "Materias/Sociales/Crecimiento económico.md",
@@ -112,8 +114,6 @@
     "Materias/Sociales/Industrialización.md",
     "Materias/Sociales/Riqueza.md",
     "Materias/Inglés/Averbials Unit 8.md",
-    "Materias/Inglés/Untitled.md",
-    "Materias/Sociales/Breve historia económica de México.md",
-    "Materias/Sociales/Desarrollo y subdesarrollo.md"
+    "Materias/Inglés/Untitled.md"
   ]
 }
