@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Cadenas tróficas.md",
+            "file": "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Cadenas tróficas.md",
+                "file": "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Sociales/Untitled.md",
+    "Materias/Biología/Cadenas tróficas.md",
     "Materias/Biología/Segunda Ley de la Termodinámica.md",
     "Materias/Biología/Primera Ley de la Termodinámica.md",
     "Materias/Biología/Proceso de fotosíntesis.md",
@@ -112,8 +114,6 @@
     "Materias/Inglés/Unit 8 - Expressing regular actions and states.md",
     "Materias/Lenguaje/Realismo Mágico.md",
     "Materias/Lenguaje/Untitled.md",
-    "Materias/Lenguaje/Boom Latinoamericano.md",
-    "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md",
-    "Materias/Sociales/Tecnología.md"
+    "Materias/Lenguaje/Boom Latinoamericano.md"
   ]
 }
