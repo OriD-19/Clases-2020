@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Recaudación fiscal.md",
+            "file": "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Recaudación fiscal.md",
+                "file": "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Sociales/Origenes de la recaudación fiscal.md",
+    "Materias/Sociales/Recaudación fiscal.md",
     "Materias/Sociales/Desarrollo económico.md",
     "Materias/Sociales/Dimensiones del desarrollo.md",
     "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md",
@@ -112,8 +114,6 @@
     "Materias/Biología/Consumidores.md",
     "Materias/Biología/Cadenas tróficas.md",
     "Materias/Biología/Productores.md",
-    "Materias/Lenguaje/Cien años de soledad - Ejercicio de clase.md",
-    "Materias/Biología/Segunda Ley de la Termodinámica.md",
-    "Materias/Biología/Primera Ley de la Termodinámica.md"
+    "Materias/Lenguaje/Cien años de soledad - Ejercicio de clase.md"
   ]
 }
