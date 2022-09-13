@@ -20,7 +20,6 @@ Contraria al impuesto progresivo, entre **más gane una persona, menores impuest
 ### Impuesto directo
 Cobro directo sobre tus ingresos. Puede ser por *cobros, patrimonio, etc.* Una distinción importante es sobre el **salario**, puesto que, si bien este es un tipo de ingreso, *no es el único*, y por lo tanto, todos los demás también deben ser declarados a hacienda (como aquellos negocios que no han sido dentro del ámbito profesional, pero que han suponido un descuento para otra persona mediante acuerdo).
 
-
 ## El caso de El Salvador
 
 Para el caso de EL Salvador, se tiene la siguiente información acerca de los impuestos por ingresos de las personas:
