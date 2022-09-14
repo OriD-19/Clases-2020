@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
+            "file": "Materias/Lenguaje/Perífrasis verbal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
+                "file": "Materias/Lenguaje/Perífrasis verbal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
     "Materias/Sociales/Origenes de la recaudación fiscal.md",
     "Materias/Sociales/Recaudación fiscal.md",
     "Materias/Sociales/Desarrollo económico.md",
@@ -113,7 +114,6 @@
     "Materias/Biología/Alimento.md",
     "Materias/Biología/Consumidores.md",
     "Materias/Biología/Cadenas tróficas.md",
-    "Materias/Biología/Productores.md",
-    "Materias/Lenguaje/Cien años de soledad - Ejercicio de clase.md"
+    "Materias/Biología/Productores.md"
   ]
 }
