@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/IVA.md",
+            "file": "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/IVA.md",
+                "file": "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Sociales/IVA.md",
     "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
     "Materias/Lenguaje/Perífrasis verbal.md",
     "Materias/Sociales/Origenes de la recaudación fiscal.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Dimensiones del desarrollo.md",
     "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md",
     "Materias/Biología/Alimento.md",
-    "Materias/Biología/Consumidores.md",
-    "Materias/Biología/Cadenas tróficas.md"
+    "Materias/Biología/Consumidores.md"
   ]
 }

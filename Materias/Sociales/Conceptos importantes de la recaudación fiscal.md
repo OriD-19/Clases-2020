@@ -22,7 +22,7 @@ Cobro directo sobre tus ingresos. Puede ser por *RENTA, cobros, patrimonio, etc.
 
 ## El caso de El Salvador
 
-Para el caso de EL Salvador, se tiene la siguiente información acerca de los impuestos por ingresos de las personas:
+Para el caso de El Salvador, se tiene la siguiente información acerca de los impuestos por ingresos de las personas:
 
 | Renta neta (conv. $)   | Impuesto correspondiente                  |
 | ---------------------- | ----------------------------------------- |
