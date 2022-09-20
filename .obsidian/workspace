@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Biomasa.md",
+            "file": "Materias/Biología/Niveles de organización de un ecosistema.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Biomasa.md",
+                "file": "Materias/Biología/Niveles de organización de un ecosistema.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Biología/Untitled.md",
+    "Materias/Biología/Niveles de organización de un ecosistema.md",
+    "Materias/Biología/Eutrofización.md",
+    "Materias/Biología/Biomasa.md",
     "Materias/Biología/Consumidores.md",
     "Materias/Biología/Productores.md",
     "Materias/Biología/Apuntes de laboratorio/Exposición sobre las prácticas de laboratorio BIV.md",
     "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
     "Materias/Sociales/IVA.md",
-    "Materias/Lenguaje/Perífrasis verbal.md",
-    "Materias/Sociales/Origenes de la recaudación fiscal.md",
-    "Materias/Sociales/Recaudación fiscal.md",
-    "Materias/Sociales/Desarrollo económico.md",
-    "Materias/Sociales/Dimensiones del desarrollo.md"
+    "Materias/Lenguaje/Perífrasis verbal.md"
   ]
 }
