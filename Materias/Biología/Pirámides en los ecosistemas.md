@@ -6,7 +6,6 @@ tags: Biología 20/09/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 20/09/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 20/09/2022</div>
 
-Corresponde a la masa que representan los seres vivos que habitan en un ecosistema. Para el sistema Internacional, por ejemplo, la biomasa se mediría en **kilogramos**.
 
 ## Pirámide numérica
 Representa al número de seres vivos de cada estrato de la pirámide. Se ubica de esta manera para representar, en un ecosistema, la cantidad de seres vivos de cada tipo que se encuentran viviendo en dicho ecosistema.

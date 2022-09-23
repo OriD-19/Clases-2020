@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Biología/Detríforos.md",
+            "file": "Materias/Biología/Biomasa.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Detríforos.md",
+                "file": "Materias/Biología/Biomasa.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Biología/Pirámides en los ecosistemas.md",
+    "Materias/Biología/Eutrofización.md",
+    "Materias/Biología/Características de un ecosistema.md",
+    "Materias/Biología/Detríforos.md",
     "Materias/Sociales/MUCI BIV/Desarrollo Local.md",
     "Materias/Sociales/MUCI BIV/Participación ciudadana.md",
     "Materias/Sociales/MUCI BIV/Mecanismos de participación ciudadana.md",
     "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Mercado Laboral en la región.md",
     "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Futuro del mercado laboral.md",
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Actitudes y competencias del mercado laboral.md",
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Carreras más solicitadas.md",
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Historia del mercado laboral en El Salvador.md",
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Mercado laboral en El Salvador.md",
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Mercado laboral.md"
+    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Actitudes y competencias del mercado laboral.md"
   ]
 }
