@@ -33,6 +33,9 @@ un ejemplo de esto son los fósiles, los cuales se han encontrado en diferentes 
 ### desplazamiento
 el desplazamiento de las placas se debe a la variación de temperatura entre la superficie y el núcleo de la Tierra.
 
+### Placas tectónicas
+Actualmente se considera que la placa India es la más fuerte de todas, puesto que se mueve a una velocidad de 5 centímetros cada año, lo que la hace la más veloz y la que más cambios produce sobre la corteza terrestre.
+
 ## el ciclo
 esta teoría también sugiere que estos cambios en la superficie terrestre son *cíclicos,* es decir, siguen un patrón que se repite cada cierto tiempo. los continentes se unen poco a poco, y luego de un tiempo unidos, estos se vuelven a separar
 
