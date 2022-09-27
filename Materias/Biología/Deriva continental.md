@@ -46,4 +46,7 @@ hace 1,100 millones de años se formó otro, y el más reciente de ellos fue pan
 
 En total, hubo cuatro supercontinentes en toda la historia de la Tierra.
 
+Estos supercontinentes, a su vez, son parte de la historia de la Tierra, y lo siguen siendo. Se espera que para los próximos años (en períodos de millones de años) la Tierra se volverá a unir en un solo supercontinente, con una estructura similar a la pangea (con Europa unida a América y África unida a Suramérica).
+Otra de las cosas interesantes es que, si los polos se congelaran formando nuevos caminos hacia los continentes, podríamos recorrer el mundo por tierra de manera continua a través de los continentes.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
