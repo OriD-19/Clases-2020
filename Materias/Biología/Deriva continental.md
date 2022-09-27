@@ -33,4 +33,14 @@ un ejemplo de esto son los fósiles, los cuales se han encontrado en diferentes 
 ### desplazamiento
 el desplazamiento de las placas se debe a la variación de temperatura entre la superficie y el núcleo de la Tierra.
 
+## el ciclo
+esta teoría también sugiere que estos cambios en la superficie terrestre son *cíclicos,* es decir, siguen un patrón que se repite cada cierto tiempo. los continentes se unen poco a poco, y luego de un tiempo unidos, estos se vuelven a separar
+
+## supercontinentes
+hace 3,400 millones de años se formó el primer supercontinente, el cual rápidamente fue separado y destruido, debido a la explosión del magma que se encontraba por debajo de la corteza.
+
+hace 1,100 millones de años se formó otro, y el más reciente de ellos fue pangea.
+
+En total, hubo cuatro supercontinentes en toda la historia de la Tierra.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['BIOLOGÍA]]
