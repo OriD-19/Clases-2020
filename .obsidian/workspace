@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/Características de los Derechos Humanos.md",
+            "file": "Materias/Sociales/Derechos de primera generación.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Características de los Derechos Humanos.md",
+                "file": "Materias/Sociales/Derechos de primera generación.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Sociales/Características de los Derechos Humanos.md",
     "Materias/Sociales/Derechos humanos.md",
     "Materias/Sociales/Declaración de Derechos Humanos.md",
     "Materias/Sociales/Presentaciones BIV/3. Ejemplos de los Derechos HUmanos/Derechos de Cuarta Generación.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/Presentaciones BIV/3. Ejemplos de los Derechos HUmanos/Derechos de Primera Generación.md",
     "Materias/Biología/Deriva continental.md",
     "Materias/Biología/Pangea.md",
-    "Materias/Sociales/Presentaciones BIV/2. Historia de los Derechos HUmanos/Revolución Mexicana.md",
-    "Materias/Sociales/Presentaciones BIV/2. Historia de los Derechos HUmanos/Derechos Específicos.md"
+    "Materias/Sociales/Presentaciones BIV/2. Historia de los Derechos HUmanos/Revolución Mexicana.md"
   ]
 }
