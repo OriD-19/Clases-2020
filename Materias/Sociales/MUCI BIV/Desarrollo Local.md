@@ -27,4 +27,6 @@ Si tu casa tiene más de una planta, aumentan los impuestos.
 ## Realizar peticiones a una alcaldía
 Para realizar una petición a la alcaldía, cada colonia o comunidad tiene que presentar (por medio de un representante) un informe detallado del problema y el presupuesto que se requiere. De este modo, cada alcaldía evaluará la situación, y dara una **solución** al problema.
 
+Para comunicarse con la alcaldía, cada comunidad envía a un *presidente* o *representante directo* de la colonia / comunidad.
+
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['MUCI BIV]]
