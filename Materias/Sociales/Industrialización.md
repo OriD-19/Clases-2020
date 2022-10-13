@@ -8,6 +8,6 @@ tags: Sociales 02/09/2022
 
 > No necesariamente un país industrializado es sinónimo de país desarrollado.
 
-Ejemplo claro de la afirmación anterior es el caso de nuestro país, el cual fue industrializado en el período de [[Oscar Osorio]], y aún así esto no significo que El Salvador estuviera industrializado.
+Ejemplo claro de la afirmación anterior es el caso de nuestro país, el cual fue industrializado en el período de [[Oscar Osorio]], y aún así esto no significa que El Salvador sea un país desarrollado. 
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
