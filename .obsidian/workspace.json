@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "0248b6e6bd182b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a86d55e65d11f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ceeb3638206181d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materias/Sociales/Desarrollo económico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "023e5d0fc62b0879",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2fb8b2443ad3f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cfe2358813882ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "88fe65dab3fa223c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303
+  },
+  "right": {
+    "id": "8cc75275152e8bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d59a3a8c5532e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "471aef34d0d3f05c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Materias/Sociales/Desarrollo económico.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "07abd909821cc642",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a37c9cb33e6a57a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.3999938964844,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "8ceeb3638206181d",
+  "lastOpenFiles": [
+    "Materias/Sociales/Dimensiones del desarrollo.md",
+    "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md",
+    "Materias/Sociales/Tecnología.md",
+    "Materias/Sociales/Crecimiento económico.md",
+    "Materias/Sociales/Poder militar.md",
+    "Materias/Sociales/Industrialización.md",
+    "Materias/Sociales/Riqueza.md",
+    "Materias/Sociales/Breve historia económica de México.md",
+    "Materias/Sociales/Desarrollo y subdesarrollo.md",
+    "Materias/Sociales/Recaudación fiscal.md"
+  ]
+}

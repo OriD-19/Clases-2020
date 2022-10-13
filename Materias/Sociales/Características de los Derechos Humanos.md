@@ -20,9 +20,7 @@ Relacionado a los seres humanos por el hecho de ser humanos.
 ## Indivisibles
 Los derechos se cumplen en su totalidad, y no pueden ser cumplidos "parcialmente". Forman parte de un todo integrado, cada derecho depende de los otros para su total y pleno ejercicio.
 
-## Inalienable
+## Inalienables
 No son transferibles a otra persona.
-
-
 
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
