@@ -17,7 +17,7 @@ Las características que deben cumplir los países desarrollados pueden variar d
 
 Uno de los términos que se asocian al término de desarrollo y subdesarrollo es el de **Primer Mundo y Tercer Mundo**, puesto que, durante la Guerra Fría, los países del "Tercer Mundo" eran los que no tenían un bando definido.
 
-Otra de las ideas erróneas sobre el desarrollo es considerar *a la zona norte como la zona más desarrollada del mundo*; mientras que el sur tiene menor desarrollo.
+Otra de las ideas erróneas sobre el desarrollo es considerar *a la zona norte como la zona más desarrollada del mundo*; mientras que el sur tiene menor desarrollo. Esto debido a que, como bien reflejan diversos mapas que apoyan este modelo del mundo, la línea que se sigue para delimitar entre "norte" y "sur" es muy poco clara y nada consistente (como si estuviera **hecha a conveniencia**).
 
 ## Características del desarrollo y subdesarrollo
 
