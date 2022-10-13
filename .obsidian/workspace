@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Materias/Sociales/MUCI BIV/ADESCO.md",
+            "file": "Materias/Sociales/MUCI BIV/Transparencia y acceso a la información.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/MUCI BIV/ADESCO.md",
+                "file": "Materias/Sociales/MUCI BIV/Transparencia y acceso a la información.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "8ceeb3638206181d",
   "lastOpenFiles": [
+    "Materias/Sociales/MUCI BIV/ADESCO.md",
     "Materias/Sociales/MUCI BIV/Problemas en El Salvador.md",
     "Materias/Sociales/MUCI BIV/Normativas de la participación ciudadana.md",
     "Materias/Sociales/MUCI BIV/Mecanismos NO legales en El Salvador.md",
@@ -113,7 +114,6 @@
     "Materias/Sociales/MUCI BIV/Mecanismos de participación ciudadana.md",
     "Materias/Sociales/Desarrollo y subdesarrollo.md",
     "Materias/Sociales/Cultura salvadoreña en los 70s.md",
-    "Materias/Sociales/Julio Adalberto Rivera.md",
-    "Materias/Sociales/UNIDAD II/Modelo de Industrialización por Sustitución de Importaciones (ISI).md"
+    "Materias/Sociales/Julio Adalberto Rivera.md"
   ]
 }
