@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materias/Biología/Deriva continental.md",
+                "file": "Materias/Sociales/Industrialización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccde02fa4fbf355d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materias/Sociales/Desarrollo y subdesarrollo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Biología/Deriva continental.md",
+                "file": "Materias/Sociales/Desarrollo y subdesarrollo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,17 +127,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8ceeb3638206181d",
+  "active": "ccde02fa4fbf355d",
   "lastOpenFiles": [
-    "Materias/Biología/Niveles de organización de un ecosistema.md",
-    "Materias/Biología/Biomasa.md",
-    "Materias/Biología/Deriva continental.md",
-    "Materias/Biología/Características de un ecosistema.md",
-    "Materias/Biología/Detríforos.md",
-    "Materias/Biología/Eutrofización.md",
-    "Materias/Biología/Pirámides en los ecosistemas.md",
-    "Materias/Biología/Productores.md",
-    "Materias/Biología/Consumidores.md",
-    "Materias/Biología/Cadenas tróficas.md"
+    "Materias/Sociales/Riqueza.md",
+    "Materias/Sociales/Breve historia económica de México.md",
+    "Materias/Sociales/Desarrollo y subdesarrollo.md",
+    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Legislación laboral.md",
+    "Materias/Sociales/Recaudación fiscal.md",
+    "Materias/Sociales/Desarrollo económico.md",
+    "Materias/Sociales/Dimensiones del desarrollo.md",
+    "Materias/Sociales/Origenes de la recaudación fiscal.md",
+    "Materias/Sociales/Poder militar.md",
+    "Materias/Sociales/Industrialización.md"
   ]
 }

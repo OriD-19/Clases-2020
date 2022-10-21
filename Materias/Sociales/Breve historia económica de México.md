@@ -80,5 +80,4 @@ Sin embargo, ahora la banca estaba en peligro de quiebra, por lo que **el gobier
 
 Legalmente, el gobierno tenía que pagarles.
 
-
 <span style="opacity: 0.7; font-style: italic;">Página principal de la materia:</span> [['SOCIALES]]
