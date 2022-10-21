@@ -2,7 +2,7 @@
 tags: Sociales 12/09/2022
 ---
 
-# Origenes de la recaudación fiscal
+# Orígenes de la recaudación fiscal
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 12/09/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 12/09/2022</div>
 
