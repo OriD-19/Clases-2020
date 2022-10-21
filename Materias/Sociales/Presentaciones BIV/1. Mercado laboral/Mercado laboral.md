@@ -8,7 +8,7 @@ tags: 1. Mercado laboral 20/09/2022
 
 El mercado se basa en dos ideas: **La oferta y la demanda**.
 
-Los trabajadores son la oferta, y el empleo son la demanda, puesto que son los puestos que se encuentran demandados por parte de las personas que están cualificadas y en edad de trabajo.
+Los trabajadores son la oferta, y el empleo es la demanda, puesto que son los puestos que se encuentran demandados por parte de las personas que están cualificadas y en edad de trabajo.
 
 El mercado de trabajo en específico se basa en las capacidades de las personas, las cuales son puestas en **oferta** por ellos mismos, en busca de una remuneración por ellas.
 
