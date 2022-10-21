@@ -6,7 +6,7 @@ tags: 6.Legislación laboral 05/10/2022
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Creado el 05/10/2022</div>
 <div style="text-align: right; opacity: 0.7; font-style: italic;">Última actualización el 05/10/2022</div>
 
-- Asosiación: Un grupo de personas que se unen por un bien común.
+- Asociación: Un grupo de personas que se unen por un bien común.
 
 El artículo 39 del código de trabajo menciona que se deben seguir las reglas del artículo 37, las principales son:
 

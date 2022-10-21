@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Historia del mercado laboral en El Salvador.md",
+                "file": "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Suspensión del contrato de trabajo.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "derechos específicos",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Historia del mercado laboral en El Salvador.md",
+                "file": "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Suspensión del contrato de trabajo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "ccde02fa4fbf355d",
   "lastOpenFiles": [
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Mercado laboral.md",
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Mercado laboral en El Salvador.md",
-    "Materias/Sociales/Presentaciones BIV/1. Mercado laboral/Historia del mercado laboral en El Salvador.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Trabajo de los aprendices.md",
-    "Materias/Sociales/Conceptos importantes de la recaudación fiscal.md",
-    "Materias/Sociales/Orígenes de la recaudación fiscal.md",
-    "Materias/Sociales/Dimensiones del desarrollo.md",
-    "Materias/Sociales/Desarrollo económico.md",
-    "Materias/Sociales/Recaudación fiscal.md",
-    "Materias/Sociales/Comparación de los países desarrollados y subdesarrollados.md"
+    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Obligaciones de los patronos.md",
+    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Conceptos importantes.md",
+    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Legislación laboral.md",
+    "Materias/Sociales/Presentaciones BIV/4. Nuevas Ideologías/Pacifismo.md",
+    "Materias/Sociales/Presentaciones BIV/4. Nuevas Ideologías/Ideología.md",
+    "Materias/Sociales/Presentaciones BIV/4. Nuevas Ideologías/Nuevas ideologías.md",
+    "Materias/Sociales/Presentaciones BIV/3. Ejemplos de los Derechos HUmanos/Derecho de Tercera Generación.md",
+    "Materias/Sociales/Presentaciones BIV/3. Ejemplos de los Derechos HUmanos/Derechos de Cuarta Generación.md",
+    "Materias/Sociales/Presentaciones BIV/3. Ejemplos de los Derechos HUmanos/Derechos de Segunda Generación.md",
+    "Materias/Sociales/Presentaciones BIV/3. Ejemplos de los Derechos HUmanos/Derechos de Primera Generación.md"
   ]
 }
