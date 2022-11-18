@@ -23,12 +23,8 @@
             "id": "ccde02fa4fbf355d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Despido y renuncia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -90,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Despido y renuncia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,8 +124,8 @@
   },
   "active": "ccde02fa4fbf355d",
   "lastOpenFiles": [
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Salario y vacaciones.md",
     "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Despido y renuncia.md",
+    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Salario y vacaciones.md",
     "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Trabajo de las mujeres y de los menores.md",
     "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Trabajo de los aprendices.md",
     "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Terminación sin responsabilidad para el patrono.md",
