@@ -10,7 +10,7 @@ tags: Física 21/04/2022
 
 El anterior concepto se refiere a la **cantidad de materia por unidad de volumen**, o la cantidad de materia que hay en un *espacio determinado*.
 
-Por ejemplo, si tenemos una llave inglesa y un clavo, estos tienen *la misma densidad,* puesto que están hechos **del mismo material**, el cual posee una cantidad de materia por unidad de volumen determinado e igual para todos los objetos (siempre y cuando esten a la **misma temperatura.**)
+Por ejemplo, si tenemos una llave inglesa y un clavo, estos tienen *la misma densidad,* puesto que están hechos **del mismo material**, el cual posee una cantidad de materia por unidad de volumen determinado e igual para todos los objetos (siempre y cuando estén a la **misma temperatura.**)
 
 Nótese que *estos objetos tienen una masa distinta,* pero tienen una igual densidad.
 

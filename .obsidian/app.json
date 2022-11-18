@@ -10,7 +10,7 @@
   "promptDelete": false,
   "vimMode": true,
   "newFileLocation": "current",
-  "spellcheck": false,
+  "spellcheck": true,
   "foldHeading": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "img",
@@ -19,5 +19,9 @@
   "livePreview": true,
   "fileSortOrder": "byCreatedTimeReverse",
   "strictLineBreaks": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "spellcheckLanguages": [
+    "es-MX",
+    "en-US"
+  ]
 }

@@ -13,22 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materias/Sociales/Industrialización.md",
+                "file": "Materias/Química/Ésteres.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ccde02fa4fbf355d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -86,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Química/Ésteres.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,17 +115,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ccde02fa4fbf355d",
+  "active": "8ceeb3638206181d",
   "lastOpenFiles": [
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Despido y renuncia.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Salario y vacaciones.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Trabajo de las mujeres y de los menores.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Trabajo de los aprendices.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Terminación sin responsabilidad para el patrono.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Suspensión del contrato de trabajo.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Obligaciones de los patronos.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Conceptos importantes.md",
-    "Materias/Sociales/Presentaciones BIV/6.Legislación laboral/Legislación laboral.md",
-    "Materias/Sociales/Presentaciones BIV/4. Nuevas Ideologías/LGBT.md"
+    "Materias/Química/Propiedades químicas de los alcoholes.md",
+    "Materias/Matemáticas/Parábola.md",
+    "Materias/Matemáticas/Secciones cónicas.md",
+    "Materias/Física/Densidad.md",
+    "Materias/Inglés/Modals of deduction and probability.md",
+    "Materias/Inglés/Unit 5 - Role Models.md",
+    "Materias/Física/Presión hidrostática.md",
+    "Materias/Física/Capilaridad.md",
+    "Materias/Física/Incompresibilidad.md",
+    "Materias/Matemáticas/Pruebas.md"
   ]
 }

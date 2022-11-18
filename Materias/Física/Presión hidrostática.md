@@ -16,7 +16,7 @@ Donde la $\rho$ es la densidad del líquido, $g$ es la gravedad y $h$ es la prof
 
 ## Su relación con la fuerza
 
-Parecido al concepto de [[Presión]], la presión hidróstatica se basa en la **cantidad de líquido que hay sobre una profundidad determinada.**
+Parecido al concepto de [[Presión]], la presión hidrostática se basa en la **cantidad de líquido que hay sobre una profundidad determinada.**
 
 > La presión ejercida por un líquido, en cualquier punto de un recipiente, no depende de la forma de éste ni la cantidad de líquido contenido, sino sólo del peso específico, y de la **altura que haya del punto considerado a la superficie libre del líquido**.
 
